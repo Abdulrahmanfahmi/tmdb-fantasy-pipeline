@@ -1,0 +1,15 @@
+# Credentials / Secrets
+.env
+
+# Python / uv
+__pycache__/
+.venv/
+.python-version
+
+# Distribution / Build
+build/
+dist/
+*.egg-info/
+
+# System files
+.DS_Store
