@@ -8,7 +8,7 @@ from dotenv import load_dotenv
 load_dotenv()
 
 def save_fantasy_movies():
-    # 2. Skapa mappen 'data' om den inte finns
+    
     os.makedirs("data", exist_ok=True)
     
     
@@ -24,7 +24,7 @@ def save_fantasy_movies():
     
     try:
         response = requests.get(url)
-        response.raise_for_status() # Kolla om anropet gick bra
+        response.raise_for_status() 
         data = response.json()
         
         
