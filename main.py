@@ -2,7 +2,7 @@ import os
 import requests
 from dotenv import load_dotenv
 
-# Laddar in .env-filen
+
 load_dotenv()
 
 def check_setup():
@@ -12,7 +12,7 @@ def check_setup():
         print("Hittade ingen API-nyckel i .env-filen!")
         return
 
-    # Gör ett testanrop till TMDb för att hämta Fantasy-genrens ID (14)
+    
     url = f"https://api.themoviedb.org/3/genre/movie/list?api_key={api_key}&language=sv-SE"
     
     try:
