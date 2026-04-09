@@ -4,15 +4,15 @@ import os
 from glob import glob
 
 
-files = sorted(glob('data/raw_fantasy_*.json'))
+files = sorted(glob('data/raw/raw_fantasy_*.json'))
 latest = files[-1]
 print(f"Processar: {latest}")
 
 
 with open(latest) as f:
-    raw = json.load(f)
+    movies = json.load(f)
 
-df = pd.DataFrame(raw['results'])
+df = pd.DataFrame(movies)
 
 
 genre_map = {
@@ -32,6 +32,7 @@ df_clean = df[[
     'release_month', 'popularity', 'vote_average',
     'vote_count', 'genres', 'original_language', 'overview'
 ]]
+
 
 os.makedirs('data/processed', exist_ok=True)
 df_clean.to_csv('data/processed/movies.csv', index=False)
