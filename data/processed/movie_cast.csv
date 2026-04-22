@@ -1,0 +1,3466 @@
+movie_id,actor_id,actor_name,character,cast_order
+20481,4138,Craig Sheffer,Aaron Boone,0
+20481,140234,Anne Bobby,Lori Desinger,1
+20481,224,David Cronenberg,Dr. Philip K. Decker,2
+20481,69791,Charles Haid,Captain Eigerman,3
+20481,31925,Hugh Quarshie,Detective Joyce,4
+20481,79648,Hugh Ross,Narcisse,5
+20481,73040,Doug Bradley,Dirk Lylesberg,6
+20481,327357,Catherine Chevalier,Rachel,7
+20481,1127183,Malcolm Smith,Ashberry,8
+20481,65146,Bob Sessions,Pettine,9
+20481,56710,Oliver Parker,Peloquin,10
+20481,49346,Debora Weston,Sheryl Ann,11
+20481,56559,Nicholas Vince,Kinski,12
+20481,56560,Simon Bamford,Ohnaka,13
+20481,1459213,Christine McCorkindale,Shuna Sassi,14
+20481,103071,John Agar,Gas Station Attendant / Victim,15
+20481,1883226,Jack Bennett,(voice),16
+20481,2689256,Alexis De La Rocha,(voice),17
+20481,2957236,Kim Robertson,Babette,18
+20481,2957238,Nina Robertson,Babette,19
+20481,1218934,Tony Bluto,Leroy Gomm,20
+20481,2957245,Vincent Keene,Devil Lude,21
+20481,2957247,Bernard Henry,Baphomet,22
+20481,2957249,Richard Van Spall,Drummer,23
+20481,168783,David Young,Otis and Clay,24
+20481,1261112,Valda Aviks,Mellissa Rickman,25
+20481,33403,Mac McDonald,Lou Rickman,26
+20481,2957256,Richard Bowman,Rickman Boy,27
+20481,148632,McNally Sagal,Motel Receptionist,28
+20481,10210,Daniel Kash,Labowitz,29
+20481,25530,Bradley Lavelle,Cormack,30
+20481,1378386,Stephen Hoye,Gibbs,31
+20481,109586,Tom Hunsinger,Tommy,32
+20481,2147290,George Roth,Kane,33
+20481,93477,Peter Marinker,Pathologist,34
+20481,2588744,Lindsay Holiday,Morgue Assistant,35
+20481,56557,Kenneth Nelson,Emergency Doctor,36
+20481,2880287,Carolyn Jones,Emergency Nurse,37
+20481,730454,Ted Maynard,Bartender,38
+20481,2957272,Mitch Webb,Jail Cell Doctor,39
+20481,113235,Eric Loren,Ambush Cop,40
+20481,55949,Peter Atkins,Man in Club,41
+421892,12073,Mike Myers,Shrek (voice),0
+421892,776,Eddie Murphy,Donkey (voice),1
+421892,6941,Cameron Diaz,Princess Fiona (voice),2
+421892,3131,Antonio Banderas,Puss in Boots (voice),3
+421892,505710,Zendaya,Felicia (voice),4
+421892,3725495,Marcello Hernández,Fergus (voice),5
+421892,61263,Skyler Gisondo,Farkle (voice),6
+421892,12098,Chris Miller,Magic Mirror (voice),7
+421892,12095,Cody Cameron,Pinocchio (voice),8
+55301,11662,Jason Lee,Dave,0
+55301,212,David Cross,Ian,1
+55301,213001,Jenny Slate,Zoe,2
+55301,15033,Justin Long,Alvin (voice),3
+55301,5661,Matthew Gray Gubler,Simon (voice),4
+55301,49915,Jesse McCartney,Theodore (voice),5
+55301,56322,Amy Poehler,Eleanor (voice),6
+55301,1772,Anna Faris,Jeanette (voice),7
+55301,18979,Christina Applegate,Brittany (voice),8
+55301,21088,Alan Tudyk,Simone (voice),9
+55301,1368537,Michael P. Northey,Hawaiian Shirt Guy,10
+55301,1498618,Sophia Aguiar,Club Woman #1,11
+55301,211790,Lauren Gottlieb,Club Woman #2,12
+55301,2827696,Tera Perez,Club Woman #3,13
+55301,170635,Andy Buckley,Captain Correlli,14
+55301,91403,Chad Krowchuk,Waiter,15
+55301,113861,Luisa d'Oliveira,Tessa,16
+55301,558925,Tucker Albrizzi,Tucker / Kite Kid,17
+55301,997197,Nelson Wong,Casino Guy,18
+55301,2827697,Michael Bagdasarian,Excursion Clerk,19
+55301,2827698,Amber-Rochelle DeMarco,Damsel #1,20
+55301,2827699,Marcela Caceres,Damsel #2,21
+55301,1645416,Natalie Sutcliffe,Damsel #3,22
+55301,1368837,Ian Harmon,Monster,23
+55301,169200,Phyllis Smith,Flight Attendant,24
+55301,30694,"Ross Bagdasarian, Jr.",Alvin (singing voice) (uncredited),25
+55301,30696,Janice Karman,Theodore / The Chipettes (singing voice) (uncredited),26
+55301,1824338,Eoin Bates,Music Executive (uncredited),27
+55301,1108010,Seth Robert Dusky,Additional Voices (voice) (uncredited),28
+55301,1766631,Wendell Kinney,Cruise Guest (uncredited),29
+55301,1784661,Jeremy Palko,Cruise Guy (uncredited),30
+55301,2800358,Rachael Wegener,Model (uncredited),31
+55301,558925,Tucker Albrizzi,Tucker/Kite Kid,32
+663558,2185754,Yang Tianxiang,Li Yunxiang (voice),0
+663558,2974840,Zhang He,Masked Guy (voice),1
+663558,2718152,Xuan Xiaoming,Long Wang (voice),2
+663558,2463716,Li Shimeng,Dr. Su Junzhu (voice),3
+663558,2974841,Keer Zhu,Kasha (voice),4
+663558,2974842,Ling Zhenhe,Third Prince (voice),5
+663558,2720411,Liu Ruoban,Father (voice),6
+663558,2585864,Zhang Yaohan,Father (voice),7
+663558,2031481,Guo Haoran,Li Yunxiang's Bother (voice),8
+663558,2974843,Zengzhi Gao,Donghai Yaksa (voice),9
+663558,2844582,Zhang Zhe,young Nezha (voice),10
+149509,10980,Daniel Radcliffe,Ignatius Perrish,0
+149509,36594,Juno Temple,Merrin Williams,1
+149509,2978,Max Minghella,Lee Tourneau,2
+149509,29234,Joe Anderson,Terry Parrish,3
+149509,17442,Kelli Garner,Glenna,4
+149509,69122,Heather Graham,Veronica,5
+149509,52,David Morse,Dale Williams,6
+149509,1736,James Remar,Derrick Perrish,7
+149509,8183,Kathleen Quinlan,Lydia Perrish,8
+149509,1152083,Sabrina Carpenter,Young Merrin,9
+149509,84468,Laine MacNeil,Young Glenna,10
+149509,973518,Dylan Schmid,Lee at 13,11
+149509,1175501,Kendra Anderson,Nurse Delilah,12
+149509,63566,Michael Adamthwaite,Eric Hannity,13
+149509,63564,Nels Lennarson,Wallace Sturtz,14
+149509,56749,Don Thompson,Al O'Hara,15
+149509,63791,Jay Brazeau,Father Mould,16
+149509,62919,Alex Zahara,Dr. Renald,17
+149509,189719,Christine Willes,Receptionist,18
+149509,196694,Meredith McGeachie,"Mary, young mother",19
+149509,1432087,Sarah Boey,Little Girl,20
+149509,1219446,Panou,Golf Pro,21
+149509,141774,Reese Alexander,TV Reporter,22
+149509,59242,Desiree Zurowski,Radio Reporter,23
+149509,143307,Marilyn Norry,Protester,24
+149509,1224877,Nancy Sivak,Mrs. Tourneau,25
+149509,1432096,Cameron McDonald,E.R. Doctor,26
+149509,80829,John Stewart,Diner Manager,27
+149509,117997,Dean Wray,"Stan, the Barfly",28
+149509,1432440,Graem Beddoes,Unemployed Barfly,29
+149509,1265674,Eric Pollins,Exhibitionist Barfly,30
+149509,1432725,Pesi Daruwalla,Antique Store Owner,31
+149509,1432726,Ryan Clare,Terry's Bass Player,32
+149509,1432727,Richard Mitchell,Terry's Jazz Quintet,33
+149509,1432729,Kieron Rhys Lillo,Terry's Jazz Quintet,34
+149509,1432730,Tyson Sully,Terry's Jazz Quintet,35
+149509,1432731,Mark Muskiw,Terry's Jazz Quintet,36
+149509,1432732,Mitchell Kummen,Ig Perrish at 13,37
+149509,1432758,Jared Ager-Foster,Terry Perrish at 15,38
+149509,1255070,Erik McNamee,Eric Hannity at 15,39
+16390,16418,Casey Kasem,Shaggy (voice),0
+16390,15831,Frank Welker,Fred / Scooby-Doo (voice),1
+16390,15761,Grey DeLisle,Daphne (voice),2
+16390,86314,Mindy Cohn,Velma (voice),3
+16390,11024,Kelly Hu,Miyumi / Miss Mirimoto (voice),4
+16390,24362,Kevin Michael Richardson,Sojo / The Black Samurai (voice),5
+16390,1248,Brian Cox,Green Dragon (voice),6
+16390,85500,Sab Shimono,Mr. Takagawa (voice),7
+16390,91387,Keone Young,Matsuhiro (voice),8
+16390,16183,Gedde Watanabe,Kenji (voice),9
+16390,1752,George Takei,Old Man Samurai (voice),10
+116745,7399,Ben Stiller,Walter Mitty,0
+116745,41091,Kristen Wiig,Cheryl Melhoff,1
+116745,2228,Sean Penn,Sean O'Connell,2
+116745,4090,Shirley MacLaine,Edna Mitty,3
+116745,36801,Adam Scott,Ted Hendricks,4
+116745,17696,Kathryn Hahn,Odessa Mitty,5
+116745,10872,Patton Oswalt,Todd Maher,6
+116745,94432,Adrian Martinez,Hernando,7
+116745,110902,Ólafur Darri Ólafsson,Helicopter Pilot,8
+116745,545130,Gunnar Helgason,Hotel Keeper,9
+116745,28419,Terence Bernie Hines,Gary Mannheim,10
+116745,961834,Alex Anfanger,Ted's Toner Box Associate,11
+116745,78404,Gary Wilmes,Walter's Dad,12
+116745,1406450,Jon Daly,Tim Naughton,13
+116745,185705,Gurdeep Singh,Cab Driver,14
+116745,1232623,Paul Fitzgerald,Don Proctor,15
+116745,143715,Grace Rex,Cheryl's Co-Worker,16
+116745,3537595,Amanda Naughton,Female Editor,17
+116745,2678015,Nolan Carley,Western Union Employee,18
+116745,9998,Joey Slotnick,Retirement Home Administrator,19
+116745,2678016,Marcus Antturi,Rich Melhoff,20
+116745,26046,Amy Stiller,Rich's Friend's Mom,21
+116745,2678021,Rosamund Gundmundsdottir,Ticket Agent,22
+116745,22302,Stuart Cornfeld,Greeland Air Passenger,23
+116745,2678023,Maariu Olsen,Rental Car Agent,24
+116745,2094817,Makka Kleist,Bartender,25
+116745,102610,Þórhallur Sigurðsson,Trawler Captain,26
+116745,1013128,Ari Matthíasson,Trawler 1st Mate,27
+116745,2678027,Hendrikus Schraven,Trawler 2nd Mate,28
+116745,123292,Finni Johannsson,Trawler 3rd Mate,29
+116745,2678030,Eysteinn Gardarsson,Zodiac Shark Resucer,30
+116745,1770858,José Alcántara,Chilean Sailor,31
+116745,2678033,Rodrigo Espinosa,Chilean Sailor,32
+116745,2678034,Seba Alón,Chilean Sailor,33
+116745,2678035,Miguel Baez-Olavarria,Chilean Sailor,34
+116745,2678037,Daniel Orellana,Chilean Sailor,35
+116745,2678039,Antonio Molina,Chilean Sailor,36
+116745,2678041,Martin Lagos,Chilean Sailor,37
+116745,2678042,Andres Quezada,Chilean Sailor,38
+116745,2678044,Valur Snaer Hilmarsson,Skateboard Kid #1,39
+116745,2678045,Eythor Atli Hilmarsson,Skateboard Kid #2,40
+116745,2678046,Birgir Jarl Runarsson,Skateboard Kid #3,41
+116745,21633,Kai Lennox,Phil Melhoff,42
+116745,81200,Conan O'Brien,Conan O'Brien,43
+116745,28637,Andy Richter,Andy Richter,44
+116745,185737,Anthony Desio,Mover,45
+116745,2678047,Losang Thonden,Older Rajqawee,46
+116745,2678048,Rinjee Sherpa,Younger Rajqawee,47
+116745,2678049,Haroon Nawabi,Afghan Warlord,48
+116745,2678050,Stefan B. Onundarson,Afghan,49
+116745,2678051,Mohammed Arif Baser,Afghan,50
+116745,2678052,Mohammed Pancherri,Afghan,51
+116745,2678053,Ehsan Nawroz,Afghan,52
+116745,2678054,Steve Assil,Afghan,53
+116745,2678055,Ang Babu Sherpa,Soccer Playing Sherpa,54
+116745,2678056,Ang Gelu Sherpa,Soccer Playing Sherpa,55
+116745,1753196,Dawa Sherpa,Soccer Playing Sherpa,56
+116745,2678057,Ngima T. Sherpa,Soccer Playing Sherpa,57
+116745,2678058,Nuri Chhiri Sherpa,Soccer Playing Sherpa,58
+116745,1304681,Lhakpa Sonam Sherpa,Soccer Playing Sherpa,59
+116745,2678059,Phurba Tashi Sherpa,Soccer Playing Sherpa,60
+116745,1994283,Walter Mudu,TSA Skeleton #1,61
+116745,1426677,Liz Mikel,TSA Skeleton #2,62
+116745,1178796,Brian Scott McFadden,TSA Officer #1,63
+116745,1224620,Dion Graham,TSA Officer #2,64
+116745,60795,Richard DeDomenico,Piano Wholesaler,65
+116745,175511,Matt Levin,Board Meeting Guy,66
+116745,1116907,Craig 'Radio Man' Castaldo,News Stand Guy,67
+116745,1633449,George Aloi,Life Magazine Employee (uncredited),68
+116745,1093769,Paul Bosche,Office Worker (uncredited),69
+116745,1609098,Jerome Brooks Jr.,Business Man (uncredited),70
+116745,1079376,Brady Bryson,Boy in Park (uncredited),71
+116745,60227,Greg Cipes,Time Life Employee (uncredited),72
+116745,1461314,Marmee Regine Cosico,NYC Pedestrian (uncredited),73
+116745,1555815,Jay Ferraro,Time Life Employee (uncredited),74
+116745,1456752,Gary Ferster,Time Life Employee (uncredited),75
+116745,1826604,Samantha Gelnaw,Pedestrian (uncredited),76
+116745,1343835,Efraiem Hanna,Airline Ticket Agent (uncredited),77
+116745,130843,Rosemary Howard,1940s Winter Pedestrian (uncredited),78
+116745,1664571,Ilan Krigsfeld,Blue Collar Worker (uncredited),79
+116745,1264686,Alex Kruz,Time Life Employee (uncredited),80
+116745,115335,Anna Kuchma,Business Pedestrian (uncredited),81
+116745,1540270,Dennis Lauricella,NYPD Officer (uncredited),82
+116745,1106629,Raymond Mamrak,Office Worker (uncredited),83
+116745,1546076,Jennifer Leigh Mann,Time Life Editor (uncredited),84
+116745,2524651,Ryan McBride,Movie Poster Boy (uncredited),85
+116745,1784953,Ryan Nicolls,Pedestrian (uncredited),86
+116745,1171594,Hal Panchansky,Time Life Employee (uncredited),87
+116745,1455796,Roy Pollack,Time-Life Employee (uncredited),88
+116745,2507459,Wes Pope,Time Life Employee (uncredited),89
+116745,1643596,Lil Rhee,New Yorker (uncredited),90
+116745,1846250,Bennie Road,Construction Worker (uncredited),91
+116745,1691382,Shade Rupe,Pedestrian (uncredited),92
+116745,2579903,Stephen Sapienza,Businessman (uncredited),93
+116745,2119120,Chloe Elaine Scharf,Businessman's Daughter (uncredited),94
+116745,1918400,Joshua Schubart,Mover (uncredited),95
+116745,15762,Tara Strong,Airport Passenger (uncredited),96
+116745,1456445,Rob Tode,Cheryl's Neighbor (uncredited),97
+116745,1895336,Marco Torriani,Tourist (uncredited),98
+116745,1205623,Barbara Vincent,Businesswoman (uncredited),99
+116745,113919,Hynden Walch,Time Life Employee (uncredited),100
+116745,1818388,Kelsey Wang,Time Life Employee (uncredited),101
+116745,1935323,Christopher Watts,Time Life Building Pedestrian (uncredited),102
+116745,118400,William Henderson White,Time Life Employee (uncredited),103
+116745,2982582,Nicole Neuman,Rachel  (uncredited),104
+116745,2982595,Dennis Rees,International Traveler (uncredited),105
+1363974,2138490,Miho Okasaki,Rimuru (voice),0
+1363974,1161472,Mao Ichimichi,Shion (voice),1
+1363974,1249235,Tomoaki Maeno,Veldora (voice),2
+1363974,1319218,Makoto Furukawa,Benimaru (voice),3
+1363974,1407597,Sayaka Senbongi,Shuna (voice),4
+1363974,1116333,Hisako Kanemoto,Elmesia (voice),5
+1363974,1250515,Koichi Domoto,Zodon (voice),6
+1363974,1339189,Saori Onishi,Yura (voice),7
+1363974,555099,Koji Yusa,Djeese (voice),8
+1363974,1248374,Takuya Eguchi,Soei (voice),9
+1363974,1923834,Anzu Haruno,Ramiris (voice),10
+1363974,1116334,Rina Hidaka,Milim Nava (voice),11
+1363974,151183,Ayako Kawasumi,Beretta (voice),12
+1363974,2020073,Chikahiro Kobayashi,Ranga (voice),13
+1363974,2258624,Akane Kumada,Ellen (voice),14
+1363974,1691384,Lynn,Luminous Valentine (voice),15
+1363974,1255653,Manami Numakura,Hinata Sakaguchi (voice),16
+1363974,148447,Sayaka Ohara,Frey (voice),17
+1363974,552683,Hochu Otsuka,Hakuro (voice),18
+1363974,9705,Takahiro Sakurai,Diablo (voice),19
+1363974,1562140,Kengo Takanashi,Kaval (voice),20
+1363974,89883,Rie Tanaka,Treyni (voice),21
+1363974,1849550,Asuna Tomari,Gobta (voice),22
+1363974,9710,Megumi Toyoguchi,Raphael (voice),23
+1363974,2528668,Nao Kosaka,Mio (voice),24
+1363974,3782091,Fujishima Kaho,Yori (voice),25
+1363974,115301,Jun Fukushima,Gabiru (voice),26
+1363974,1613631,Ryuichi Kijima,Gido (voice),27
+137227,1241939,Wasabi Mizuta,Doraemon (voice),0
+137227,932986,Megumi Oohara,Nobita (voice),1
+137227,9715,Yumi Kakazu,Shizuka (voice),2
+137227,90567,Tomokazu Seki,Suneo (voice),3
+137227,1142780,Subaru Kimura,Gian (voice),4
+137227,186341,Miyuki Sawashiro,Riruru (voice),5
+137227,932984,Chiaki,Dorami (voice),6
+137227,127891,Masaharu Fukuyama,Fukuyama (voice),7
+8204,1281,Freddie Highmore,Jared Grace / Simon Grace,0
+8204,33397,Sarah Bolger,Mallory Grace,1
+8204,11064,David Strathairn,Arthur Spiderwick,2
+8204,18248,Mary-Louise Parker,Helen Grace,3
+8204,1733,Nick Nolte,Mulgarath,4
+8204,23709,Joan Plowright,Aunt Lucinda Spiderwick,5
+8204,37041,Andrew McCarthy,Richard Grace,6
+8204,19274,Seth Rogen,Hogsqueal (voice),7
+8204,519,Martin Short,Thimbletack (voice),8
+8204,8712,Jordy Benattar,Young Lucinda Spiderwick,9
+8204,2167971,Lise Durocher-Viens,Mrs. Spiderwick,10
+8204,8321,Tod Fennell,Helen's Co-Worker,11
+8204,1122326,Mariah Inger,Nurse,12
+8204,2805288,Jeremy Lavalley,Tow Truck Driver,13
+8204,72048,Kyle Switzer,Additional Performer,14
+8204,62821,Tyler Patrick Jones,Additional Performer,15
+8204,2372,Ron Perlman,Red Cap (voice) (uncredited),16
+428045,973,Jason Flemyng,Jonathan Green,0
+428045,1110519,Yao Xingtong,Chen Lan,1
+428045,1118212,Anna Churina,Miss Dudley,2
+428045,1519027,Ma Li,Witch,3
+428045,18897,Jackie Chan,Master,4
+428045,1100,Arnold Schwarzenegger,James Hook,5
+428045,238130,Yuri Kolokolnikov,Peter The Great,6
+428045,4030,Martin Klebba,Captain,7
+428045,2002791,Lance Luu,Liu Brother Zhonghao,8
+428045,1815899,Li Mengmeng,Li Hong,9
+428045,4391,Charles Dance,Lord Dudley,10
+428045,585,Rutger Hauer,English Ambassador,11
+428045,2020920,Li Yu,The Treasurer,12
+428045,2002793,Mark Luu,Liu Brother Zhongyi,13
+428045,2002792,Charles Luu,Liu Brother Zhongzhe,14
+428045,8399,Christopher Fairbank,Grey,15
+428045,101691,Pavel Volya,Menshikov,16
+428045,59899,Andrey Merzlikin,Head of Menshikov's Guard,17
+428045,2020899,Kseniya Petrukhina,Elizabeth Chiles,18
+428045,1751998,Vilen Babichev,Thugs Leader,19
+428045,2020877,Mikhail Mukhin,Thug,20
+428045,1853215,Evgeniya Shipova,Girl in the Refectory,21
+428045,2020898,Igor Korovin,Boyar,22
+428045,1620053,Aleksandr Tsyoma,Foreign Ambassador,23
+428045,128767,Vladimir Dolinskiy,Foreign Ambassador,24
+428045,2020910,Ruslan Bankovskiy,Foreign Ambassador,25
+428045,1209115,Aleksey Ogurtsov,Cossack Spirid,26
+428045,1176770,Igor Kistol,Cossack Sirko,27
+428045,1748445,Aleksandr Gorbatov,Cossack Foma,28
+428045,52761,Igor Jijikine,Dead Cossack,29
+428045,1491724,Aleksandr Oblasov,Cossack,30
+428045,2020922,Nikita Minyaychev,Cossack,31
+428045,2020925,Dmitry Kropivnitsky,Cossack,32
+428045,97369,Aleksandr Robak,Boatswain,33
+428045,2020927,Sergey Lobanov,Seaman Marcus,34
+428045,2020895,Yakov Levda,Seaman,35
+428045,2020893,Gennady Gorbachev,European in the Square,36
+428045,1118014,Nikita Tarasov,Servant at the Court of Peter I,37
+428045,1787158,Igor Ogurtsov,Scribe,38
+428045,2020894,Anton Tuzikov,Footman,39
+428045,2020912,Alexandr Kovtunets,Merchant,40
+428045,1747020,Ivan Kotik,John Layon,41
+428045,1289984,Alexey A. Petrukhin,Khoma,42
+428045,1593249,He Jun,,43
+428045,2020931,Gleb Ivanov,,44
+428045,3331206,Chen Xingyu,,45
+428045,2020932,Vladimir Danay,,46
+428045,3307708,Pang Guochang,,47
+428045,2020929,Victor Sharovarov,,48
+428045,2020933,Maxim Shishov,,49
+428045,3314355,Mei Baolai,女琴师,50
+2062,10872,Patton Oswalt,Remy (voice),0
+2062,65,Ian Holm,Skinner (voice),1
+2062,7962,Lou Romano,Linguini (voice),2
+2062,6197,Brian Dennehy,Django (voice),3
+2062,21198,Peter Sohn,Emile (voice),4
+2062,11390,Peter O'Toole,Anton Ego (voice),5
+2062,18,Brad Garrett,Gusteau (voice),6
+2062,21197,Janeane Garofalo,Colette (voice),7
+2062,21200,Will Arnett,Horst (voice),8
+2062,32536,Julius Callahan,Lalo / Francois (voice),9
+2062,1736,James Remar,Larousse (voice),10
+2062,7907,John Ratzenberger,Mustafa (voice),11
+2062,59357,Teddy Newton,Lawyer (Talon Labarthe) (voice),12
+2062,1260745,Tony Fucile,Pompidou / Health Inspector (voice),13
+2062,21199,Jake Steinfeld,Git (Lab Rat) (voice),14
+2062,7087,Brad Bird,Ambrister Minion (voice),15
+2062,1160045,Stéphane Roux,TV Narrator (voice),16
+2062,2000522,Jack Bird,Additional Voices (voice),17
+2062,1443329,Andrea Boerries,Additional Voices (voice),18
+2062,1443330,Marco Boerries,Additional Voices (voice),19
+2062,72753,Lindsey Collins,Additional Voices (voice),20
+2062,1266046,Thomas Keller,Additional Voices (voice),21
+2062,32532,Bradford Lewis,Additional Voices (voice),22
+2062,225986,Lori Richardson,Additional Voices (voice),23
+2062,15347,Michael Giacchino,Reporter (voice) (uncredited),24
+2062,84213,Bill Farmer,Paris Citizens (voice) (uncredited),25
+1671175,1850676,Surakshya Panta,Bhumika,0
+1671175,4577657,Nimesh Shrestha,Niraj,1
+1671175,4577673,Isha Thapa,Bima,2
+1671175,6141788,Amogh Aryal,Jiwan,3
+1671175,4579422,Sanjana Maharjan,Komal,4
+1671175,4577655,Anish Jung Thapa,Sahanseel,5
+1671175,4579423,Ajay Pant,Prayas,6
+1671175,4585706,Sabin Bastola,,7
+1671175,6141793,Nirmala Khadka,,8
+1671175,6141795,Arpan Tamang,,9
+1671175,6141797,Jenish Shakya,,10
+1671175,6141798,Jerry Limbu,,11
+22,85,Johnny Depp,Jack Sparrow,0
+22,118,Geoffrey Rush,Barbossa,1
+22,114,Orlando Bloom,Will Turner,2
+22,116,Keira Knightley,Elizabeth Swann,3
+22,1709,Jack Davenport,Norrington,4
+22,378,Jonathan Pryce,Governor Weatherby Swann,5
+22,1710,Lee Arenberg,Pintel,6
+22,1711,Mackenzie Crook,Ragetti,7
+22,1712,Damian O'Hare,Lt. Gillette,8
+22,1713,Giles New,Murtogg,9
+22,1714,Angus Barnett,Mullroy,10
+22,1715,David Bailie,Cotton,11
+22,1716,Michael Berry Jr.,Twigg,12
+22,1717,"Isaac C. Singleton, Jr.",Bo'sun,13
+22,2449,Kevin McNally,Joshamee Gibbs,14
+22,12802,Treva Etienne,Koehler,15
+22,8691,Zoe Saldaña,Anamaria,16
+22,9298,Guy Siner,Harbormaster,17
+22,155955,Ralph P. Martin,Mr. Brown,18
+22,59056,Paula J. Newman,Estrella,19
+22,116234,Paul Keith,Butler,20
+22,1172661,Dylan Smith,Young Will,21
+22,82143,Lucinda Dryzek,Young Elizabeth,22
+22,74578,Michael Sean Tighe,Seedy Looking Prisoner,23
+22,4031,Greg Ellis,Officer,24
+22,106514,Dustin Seavey,Sentry,25
+22,1269546,Christian Martin,Steersman,26
+22,57252,Trevor Goddard,Grapple,27
+22,88032,Vince Lozano,Jacoby,28
+22,60941,Ben Wilson,Seedy Prisoner #2,29
+22,1269548,Antonio Valentino,Seedy Prisoner #3,30
+22,2450,Lauren Maher,Scarlett,31
+22,931645,Brye Cooper,Mallot,32
+22,1269549,Mike Babcock,Seedy Prisoner #4,33
+22,1269550,Owen Finnegan,Town Clerk,34
+22,1269551,Ian McIntyre,Sailor,35
+22,2452,Vanessa Branch,Giselle,36
+22,1269553,Sam Roberts,Crying Boy,37
+22,1269554,Ben Roberts,Crying Boy,38
+22,4030,Martin Klebba,Marty,39
+22,1269555,Félix Castro,Moises,40
+22,1269556,Mike Haberecht,Kursar,41
+22,1269557,Rudolph McCollum,Matelot,42
+22,1269559,Gerard J. Reyes,Tearlach,43
+22,1269560,M. Scott Shields,Duncan,44
+22,1269561,Christopher Sullivan,Ladbroc,45
+22,1269562,Craig Thomson,Crimp,46
+22,1269602,Fred Toft,Quartetto,47
+22,1269603,D.P. FitzGerald,Weatherby,48
+22,1269604,Jerry Gauny,Ketchum,49
+22,145555,Maxie J. Santillan Jr.,Maximo,50
+22,1269605,Michael Earl Lane,Monk,51
+22,1269606,Tobias McKinney,Dog Ear,52
+22,1269607,David Patykewich,Clubba,53
+22,1269608,Tommy Schooler,Scarus,54
+22,1269609,Michael A. Thompson,Simbakka,55
+22,1196317,Michael W. Williams,Hawksmoor,56
+22,180394,José Zelaya,Katracho,57
+22,182212,Finneus Egan,Scratch,58
+22,1269610,Don LaDaga,Nipperkin,59
+22,1269611,LeJon Stewart,Lejon,60
+22,67147,Israel Aduramo,Crippled Man,61
+22,82636,Luke de Woolfson,Frightened Sailor,62
+22,1077834,Matthew Bowyer,Sailor / Edinburgh,63
+22,21700,Christopher S. Capp,Cotton's Parrot (voice),64
+22,1269612,Gregory Ryan Alosio,Pirate (uncredited),65
+22,59215,Jordi Caballero,Pirate (uncredited),66
+22,1596625,Tamara Castle,Woman in bar (uncredited),67
+22,74666,Paul Gagné,Sailor (uncredited),68
+22,1146942,Joe Grisaffi,Marine (uncredited),69
+22,1269613,James McAuley,Barbossa's crew (uncredited),70
+122906,93210,Domhnall Gleeson,Tim Lake,0
+122906,53714,Rachel McAdams,Mary,1
+122906,2440,Bill Nighy,Dad,2
+122906,2441,Tom Hollander,Harry,3
+122906,234352,Margot Robbie,Charlotte,4
+122906,1095524,Lydia Wilson,Kit Kat,5
+122906,30083,Lindsay Duncan,Mum,6
+122906,156356,Richard Cordery,Uncle D,7
+122906,1394375,Joshua McGuire,Rory,8
+122906,1221073,Will Merrick,Jay,9
+122906,556356,Vanessa Kirby,Joanna,10
+122906,116264,Tom Hughes,Jimmy Kincade,11
+122906,968292,Clemmie Dugdale,Ginger Jenny,12
+122906,145133,Harry Hadden-Paton,Rupert,13
+122906,59039,Mitchell Mullen,"Mary's Father, Fitz",14
+122906,28950,Lisa Eichhorn,"Mary's Mother, Jean",15
+122906,1648727,Jenny Rainsford,Polly,16
+122906,1264619,Natasha Powell,Aunty May,17
+122906,3163791,Mark Healy,Dans le Noir Maître D',18
+122906,4210430,Ben Benson,Theatre Deserter,19
+122906,189281,Philip Voss,Theatre Judge,20
+122906,1653293,Tom Godwin,Prompter,21
+122906,1780966,Pal Aron,Bhattie QC,22
+122906,443865,Catherine Steadman,Tina,23
+122906,4210432,Andrew Martin Yates,Wedding Priest,24
+122906,4210434,Charlie Barnes,Posy (Newborn),25
+122906,4210435,Verity Fullerton,Posy (6 Months),26
+122906,4210436,Veronica Owings,Posy (1 Year),27
+122906,4210437,Olivia Konten,Posy (2 1 / 2 - 3 Years),28
+122906,3289810,Sarah Heller,Posy (5 Years),29
+122906,4210439,Jaiden Dervish,Boy Posy,30
+122906,4210441,Jacob Francis,Jeff (Newborn),31
+122906,4210442,Jago Freud,Jeff (5 Months),32
+122906,4210443,Ollie Phillips,Jeff (2 Years),33
+122906,4210444,Sophie Pond,Jo (6 Months),34
+122906,1640427,Sophie Brown,Jo - 1 Year,35
+122906,1653299,Molly Seymour,Trudy (Party Guest),36
+122906,1220118,Matilda Sturridge,Flirty Girl,37
+122906,1420175,Tom Stourton,John,38
+122906,4210447,Rebecca Chew,Pret a Manger Server,39
+122906,4210448,Jon West,Court Clerk,40
+122906,4210451,Graham Richard Howgego,Judge,41
+122906,4210452,Kerrie Liane Studholme,Jury Foreman,42
+122906,2304505,Kenneth Hazeldine,Defendant,43
+122906,4210454,Barbar Gough,Jazz Singer,44
+122906,4210456,Jon Boden,Busker,45
+122906,4210457,Charlie Curtis,Young Tim,46
+122906,10983,Richard Griffiths,Lawyer in Play (uncredited),47
+122906,20766,Richard E. Grant,Lawyer in Play (uncredited),48
+122906,1168128,Haruka Abe,Japanese Girl (uncredited),49
+122906,578690,Lee Nicholas Harris,Police Officer (uncredited),50
+122906,1186080,Matthew C. Martino,Commuter (uncredited),51
+122906,3205545,Tom Coulston,Theatre Attendee (uncredited),52
+122906,4122856,Jon Wennington,Paralegal (uncredited),53
+122906,2355262,Cynthia Garbutt,Tube Passenger (uncredited),54
+122906,1199390,Paul Blackwell,Christmas Shopper - Commuter (uncredited),55
+122906,5548172,Alex Tutusaus,Jury Member (uncredited),56
+841755,1231115,Jordan Rodrigues,Liu Kang (voice),0
+841755,53828,Jennifer Carpenter,Sonya Blade (voice),1
+841755,74949,Joel McHale,Johnny Cage (voice),2
+841755,939345,Patrick Seitz,Scorpion (voice),3
+841755,1082094,Dave B. Mitchell,Raiden / Kintaro / Sektor (voice),4
+841755,1333195,Bayardo De Murguia,Sub-Zero / Kuai Liang (voice),5
+841755,60279,Fred Tatasciore,Shao Kahn (voice),6
+841755,556275,Matthew Mercer,Smoke / Stryker (voice),7
+841755,1480477,Emily O'Brien,Jade / Mother (voice),8
+841755,83105,Debra Wilson,D'Vorah (voice),9
+841755,1509454,Artt Butler,Shang Tsung / Cyrax / Shao Khan Soldier (voice),10
+841755,130081,Robin Atkin Downes,Shinnok / Reiko (voice),11
+841755,1620226,Ike Amadi,Jax Briggs / One Being (voice),12
+841755,15761,Grey DeLisle,Kitana / Satoshi Hasashi (voice),13
+841755,157067,Matthew Yang King,Kung Lao (voice),14
+841755,80122,Paul Nakauchi,Lin Kuei Grandmaster (voice),15
+841755,26457,Matthew Lillard,Shaggy (voice),16
+841755,3423679,Kyle Wyatt,Mob Leader (voice),17
+311324,1892,Matt Damon,William,0
+311324,1151657,Jing Tian,Commander Lin Mae,1
+311324,5293,Willem Dafoe,Ballard,2
+311324,25246,Andy Lau,Strategist Wang,3
+311324,1253360,Pedro Pascal,Tovar,4
+311324,99687,Zhang Hanyu,General Shao,5
+311324,1382332,Lu Han,Peng Yong,6
+311324,1254211,Lin Gengxin,Commander Chen,7
+311324,126778,Eddie Peng Yu-Yan,Commander Wu,8
+311324,1376106,Huang Xuan,Commander Deng,9
+311324,1279598,Ryan Zheng,Shen,10
+311324,1785744,Karry Wang,Emperor,11
+311324,1193310,Chen Xuedong,Imperial Officer,12
+311324,90060,Pilou Asbæk,Bouchard,13
+311324,35434,Numan Acar,Najid,14
+311324,1083451,Johnny Cicco,Rizzetti,15
+311324,1518276,Yu Xintian,Lieutenant Xiao Yu,16
+311324,1780695,Bing Liu,Lin Mae's 2nd Lieutenant Li Qing,17
+606234,587020,Theo James,George Almore,0
+606234,1137823,Stacy Martin,Jules Almore / J3 / J2 (voice),1
+606234,25702,Rhona Mitra,Simone,2
+606234,109833,Peter Ferdinando,Tagg,3
+606234,65890,Lia Williams,House (voice),4
+606234,13014,Toby Jones,Vincent Sinclair,5
+606234,193020,Richard Glover,Melvin,6
+606234,2327106,Hans Peterson,Elson,7
+606234,2716134,Hadisha Sovetova,Waitress,8
+606234,3021015,Imre Csók,Android,9
+606234,3021017,Norbert Botszki,Android,10
+606234,3021018,Eliza Winter Rothery,Baby Almore,11
+606234,2708138,Timea Kinga Maday,J2 Robot Performer,12
+606234,3021020,Ami Masamitsu,Japanese Voices Performer (voice),13
+606234,3021021,Annamária Ha-Mi Berta,Extra,14
+606234,1493396,Jeremy Wheeler,Extra,15
+606234,3021022,Pamela Johnston,Extra,16
+606234,1509614,Karen Gagnon,Extra,17
+606234,3021023,Zsuzsanna Nagy,Extra,18
+606234,3021024,Ajsa Molnár,Extra,19
+606234,3021025,Tamás Sárközi,Extra,20
+606234,6082114,Christopher Schubert,J1 Robot Performer,21
+161822,1018900,Nobuyo Oyama,Doraemon (voice),0
+161822,1018899,Noriko Ohara,Nobita (voice),1
+161822,1018898,Michiko Nomura,Shizuka (voice),2
+161822,1238594,Kaneta Kimotsuki,Suneo (voice),3
+161822,1037843,Kazuya Tatekabe,Gian (voice),4
+161822,1241731,Sachiko Chijimatsu,Nobita's Mother (voice),5
+161822,1268749,Yôsuke Naka,Nobita's Father (voice),6
+456740,35029,David Harbour,Hellboy / Anung Un Rama,0
+456740,63,Milla Jovovich,"Vivienne Nimue, the Blood Queen",1
+456740,6972,Ian McShane,"Trevor ""Broom"" Bruttenholm",2
+456740,1535218,Sasha Lane,Alice Monaghan,3
+456740,18307,Daniel Dae Kim,Ben Daimio,4
+456740,19159,Thomas Haden Church,Lobster Johnson,5
+456740,1115,Stephen Graham,Gruagach (voice),6
+456740,51301,Douglas Tait,Gruagach,7
+456740,2598,Sophie Okonedo,Lady Hatton,8
+456740,56100,Alistair Petrie,Lord Adam Glaren,9
+456740,63364,Brian Gleeson,Merlin,10
+456740,1146114,Penelope Mitchell,Ganeida,11
+456740,1345950,Mark Stanley,Arthur,12
+456740,185065,Emma Tate,Baba Yaga (voice),13
+456740,1903319,Troy James,Baba Yaga,14
+456740,1180134,Mario de la Rosa,Esteban Ruiz / Camazotz,15
+456740,1803087,Ava Brennan,Alice's Mother,16
+456740,2360981,Anthony Delaney,Alice's Father,17
+456740,67247,Atanas Srebrev,Agent Madison,18
+456740,2360967,Dawn Sherrer,Agent Strode,19
+456740,122354,Markos Rounthwaite,Grigori Rasputin,20
+456740,2287315,Ilko Iliev,Professor Doctor Karl Ruprecht Kroenen,21
+456740,75375,Joel Harlow,Von Krupt,22
+456740,2360970,Dimiter Banenkin,Leopold Kurtz,23
+456740,1547021,Vanessa Eichholz,Ilsa Hepstein,24
+456740,2292683,Nadya Keranova,Sister #1,25
+456740,2360963,Maria Tepavicharova,Sister #2,26
+456740,2360964,Ana Tabakova,Sister #3,27
+456740,2360965,Terry Randal,Priest,28
+456740,2360966,Christopher Mata,Referee,29
+456740,3567,Michael Heath,Butler,30
+456740,83137,Rick Warden,Dr. Edwin Carp,31
+456740,58776,Nitin Ganatra,August Swain,32
+456740,21321,Kristina Klebe,Leni Riefenstahl,33
+456740,2360973,Charles Shannon,Sgt. Whitman,34
+456740,2360974,Carl Hampe,Sir Malcom Frost,35
+456740,2158645,Tony van Silva,Abbot,36
+456740,2000703,Josh Finan,Novice,37
+456740,2360975,Jonathan Steele,Huntsman,38
+456740,2360977,Simon Feek,M-11 Operative,39
+456740,2360982,Jasmine Audoux-Prevot,Baby Alice,40
+456740,1197983,Meglena Karalambova,Leprous Hag #1,41
+456740,2360983,Anna Bankina,Leprous Hag #2,42
+456740,2360985,Rut Rafailova,Leprous Hag #3,43
+456740,113523,Laila Morse,Mrs. Harker,44
+456740,2360987,Peter Oxley,Gunsmith,45
+456740,559369,Nikolay Stanoev,Monk,46
+456740,212236,Manal El-Feitury,Mother,47
+456740,2360990,Elizabeth Mehari Kahsai,Child in Parking Lot #1,48
+456740,2360991,Said Barry Abdulai,Child in Parking Lot #2,49
+456740,2360992,Katya Peneva,Sarah Bethany Hughes,50
+456740,1220245,Natasha Kaplinsky,Anchorwoman,51
+456740,1871308,Valentin Stojanov,Man #1,52
+456740,2360993,Victor Rangelov,Man #2,53
+456740,2360994,Vasil Tsvetkov,Man #3,54
+456740,2360995,Joshua Samuel Hector,Man #4,55
+122917,1327,Ian McKellen,Gandalf the Grey,0
+122917,7060,Martin Freeman,Bilbo Baggins,1
+122917,30315,Richard Armitage,Thorin Oakenshield,2
+122917,114,Orlando Bloom,Legolas,3
+122917,19034,Evangeline Lilly,Tauriel,4
+122917,114019,Luke Evans,Bard,5
+122917,72095,Lee Pace,King Thranduil,6
+122917,71580,Benedict Cumberbatch,Smaug / Sauron (voice),7
+122917,25136,Ken Stott,Balin,8
+122917,207558,Aidan Turner,Kili,9
+122917,152566,Dean O'Gorman,Fili,10
+122917,9188,Billy Connolly,Dain Ironfoot,11
+122917,95047,Graham McTavish,Dwalin,12
+122917,34715,James Nesbitt,Bofur,13
+122917,11275,Stephen Fry,Master of Laketown,14
+122917,60349,Ryan Gage,Alfrid,15
+122917,112,Cate Blanchett,Galadriel,16
+122917,65,Ian Holm,Old Bilbo Baggins,17
+122917,113,Christopher Lee,Saruman the White,18
+122917,1331,Hugo Weaving,Elrond,19
+122917,52398,Mikael Persbrandt,Beorn,20
+122917,80112,Sylvester McCoy,Radagast the Brown,21
+122917,1193832,Peter Hambleton,Gloin,22
+122917,534336,John Callen,Oin,23
+122917,81877,Mark Hadlow,Dori,24
+122917,173451,Jed Brophy,Nori,25
+122917,67123,William Kircher,Bifur,26
+122917,1193834,Stephen Hunter,Bombur,27
+122917,1193833,Adam Brown,Ori,28
+122917,126667,John Bell,Bain,29
+122917,41782,Manu Bennett,Azog the Defiler,30
+122917,205406,John Tui,Bolg,31
+122917,1359824,Peggy Nesbitt,Sigrid,32
+122917,1359823,Mary Nesbitt,Tilda,33
+122917,986734,Kelly Kilgour,Soury,34
+122917,205427,Mark Mitchinson,Braga,35
+122917,15092,Sarah Peirse,Hilda Bianca,36
+122917,240024,Nick Blake,Percy,37
+122917,1440652,Simon London,Feren,38
+122917,127453,Conan Stevens,Keeper of the Dungeons,39
+122917,1484140,Allan Smith,Ragash,40
+122917,1086829,Miranda Harcourt,Olga,41
+122917,1356758,Thomasin McKenzie,Astrid,42
+122917,1047940,Erin Banks,Lobelia Sackville Baggins,43
+122917,2920366,Brian Hotter,Otho Sackville Baggins,44
+122917,67126,Timothy Bartlett,Master Worrywort,45
+122917,2600643,Mervyn Smith,Tosser Grubb,46
+122917,1191112,Martin Kwok,Ragash (voice),47
+122917,23680,Dee Bradley Baker,Creature Voices (voice),48
+122917,2924323,Olof Johnsson,Creature Voices (voice),49
+122917,1836598,Jon Olson,Creature Voices (voice),50
+122917,2265573,Otep Shamaya,Creature Voices (voice),51
+122917,83105,Debra Wilson,Creature Voices (voice),52
+122917,4492917,Abraham Wream,Old man in laketown,53
+122917,2553467,Jack Binding,Laketowner (uncredited),54
+122917,2553471,Terry Binding,Laketowner (uncredited),55
+122917,2612391,Stephen Gledhill,Old Gammidge (uncredited),56
+122917,1201351,Billy Jackson,Laketown Refugee (uncredited),57
+122917,2082669,Katie Jackson,Girl in Laketown (uncredited),58
+122917,108,Peter Jackson,Painting of Bungo Baggins (uncredited),59
+122917,236696,Terry Notary,Laketown Refugee (uncredited),60
+122917,1594171,Vanessa Cater,Laketown Refugee (uncredited),61
+122917,215913,Jacob Tomuri,Somber villager (uncredited),62
+1490980,1749572,Airi Kijima,Michiru,0
+1490980,3197410,Sakura Tsuji,Nanami,1
+1490980,3404666,Ririko Kinoshita,Mariko,2
+1490980,67093,Yuya Ishikawa,Takao,3
+1490980,2673142,Kei-chan,Hirano,4
+1490980,2316310,Hirokio Andô,Ryoji,5
+1490980,2650647,Shôtarô Izumi,Kaneda,6
+1490980,3645350,Morimasa,Kato,7
+1490980,5476415,Shôraku Ido,Hirano,8
+1490980,935078,Yōko Satomi,Suzue,9
+899112,35029,David Harbour,Santa,0
+899112,5723,John Leguizamo,Scrooge,1
+899112,821,Beverly D'Angelo,Gertrude,2
+899112,178634,Alex Hassell,Jason,3
+899112,2273501,Alexis Louder,Linda,4
+899112,205213,Edi Patterson,Alva,5
+899112,55086,Cam Gigandet,Morgan Steel,6
+899112,3607144,Leah Brady,Trudy,7
+899112,1150197,André Eriksen,Gingerbread,8
+899112,32205,Brendan Fletcher,Krampus,9
+899112,64674,Mike Dopud,Commander Thorp,10
+899112,2852725,Alexander Elliot,Bert,11
+899112,2284578,Mitra Suri,Candy Cane,12
+899112,1711895,Can Aydin,Frosty,13
+899112,1634845,Phong Giang,Tinsel,14
+899112,3814629,Finn McCager Higgins,Jingle,15
+899112,3857752,Rawleigh Clements-Willis,Peppermint,16
+899112,2154533,Stephanie Sy,Sugarplum,17
+899112,1634862,Yoon Cha-Lee,Techie,18
+899112,61160,Marina Stephenson Kerr,UK Barkeeper,19
+899112,33051,John B. Lowe,UK Mall Santa,20
+899112,1758796,Ray Strachan,Al the Security Guard,21
+899112,75814,Sean Skene,Lead Bodyguard,22
+899112,3199125,Thomas Lorber,Bodyguard,23
+899112,1303813,Erik Athavale,Drunk Dad,24
+899112,1148697,Adam Hurtig,Head Waiter,25
+899112,1860399,Adrian Persad,Kill Squad,26
+899112,1731643,Marc-André Brisebois,Kill Squad,27
+899112,1860398,Dylan Rampulla,Kill Squad,28
+899112,3244148,Maxime Laurin,Kill Squad,29
+899112,3857760,Christopher Sean Nott,Kill Squad,30
+899112,2565695,Jake Kennerd,Kill Squad,31
+899112,1292553,Carson Nattrass,Kill Squad,32
+899112,1940037,Lance Cartwright,Kill Squad,33
+899112,1356248,Alan Castanga,Kill Squad,34
+899112,1849155,Jeff Strome,Mansion Staff,35
+899112,2045140,Shannon Guile,Lightstone Staff,36
+899112,2090233,Anders Strome,Lightstone Staff,37
+899112,1126913,Darren Ross,Lightstone Staff,38
+899112,1896599,BJ Verot,Lightstone Security,39
+899112,2473588,Tristan Carlucci,Lightstone Security,40
+899112,1131844,James Durham,Lightstone Security,41
+899112,1940064,Brent Poplawski,Lightstone Security,42
+899112,1503899,Frederick Allen,Bar Patron (uncredited),43
+899112,3814628,DJ Brotherson,Mercenary (uncredited),44
+899112,3789812,Vance Halldorson,Grounds Security (uncredited),45
+899112,1896595,Robert Borges,Eggnog Security Guard,46
+10280,31512,Robert John Burke,Billy Halleck,0
+10280,14884,Michael Constantine,Tadzu Lempke,1
+10280,5148,Lucinda Jenney,Heidi Halleck,2
+10280,56152,Kari Wührer,Gina Lempke,3
+10280,163979,John Horton,Judge Cary Rossington,4
+10280,161547,Sam Freed,Dr. Mike Houston,5
+10280,1473,Daniel von Bargen,Chief Duncan Hopley,6
+10280,3266,Joe Mantegna,Richie Ginelli,7
+10280,138242,Elizabeth Franz,Leda Rossington,8
+10280,169128,Walter Bobbie,Kirk Penschley,9
+10280,1118081,Bethany Joy Lenz,Linda Halleck,10
+10280,85421,Time Winters,Prosecutor,11
+10280,28028,Howard Erskine,Judge Phillips,12
+10280,4202435,Terrence Garmey,Bailiff,13
+10280,1068099,Randy Jurgensen,Court Clerk,14
+10280,171346,Jeffrey Ware,Max Duggenfield,15
+10280,1510513,Antonette Schwartzberg,Mama Ginelli,16
+10280,4202437,Terrence Kava,Gabe Lempke,17
+10280,4202439,Adriana Delphine,Gypsy Woman,18
+10280,3112641,Ruth Miller,Billy's Secretary,19
+10280,155573,Irma St. Paule,Suzanne Lempke,20
+10280,3027,Stephen King,Pharmacist,21
+10280,2151076,Patrick Farrelly,Henry Halliwell,22
+10280,3809619,Bridget Marks,Ginelli Bar Girl,23
+10280,1712148,Mitch Greenberg,Male Clinic Doctor,24
+10280,80542,Angela Pietropinto,Female Clinic Doctor,25
+10280,545114,Michael Kevin Walker,Clinic Waiter,26
+10280,59162,Ed Wheeler,Detective Deevers,27
+10280,15415,Peter Maloney,Biff Quigley,28
+10280,2101135,Robert Fitch,Flash Enders,29
+10280,179416,Sean Hewitt,"""DR"" Fander",30
+10280,1227231,Josh Holland,Frank Spurton,31
+10280,2696,Allelon Ruggiero,Delivery Boy,32
+761898,233590,Yoshitsugu Matsuoka,Kirito (voice),0
+761898,1248340,Haruka Tomatsu,Asuna 'Asuna' Yuuki (voice),1
+761898,1325949,Inori Minase,Misumi 'Mito' Tozawa (voice),2
+761898,20664,Koichi Yamadera,Akihiko Kayaba (voice),3
+761898,216448,Hiroki Yasumoto,Agil (voice),4
+761898,90137,Nobuyuki Hiyama,Diabel (voice),5
+761898,1116334,Rina Hidaka,Silica (voice),6
+761898,115305,Ryusei Nakao,Mito Avatar (Voice),7
+761898,90567,Tomokazu Seki,Kibaou (voice),8
+761898,1647448,Shiori Izawa,Argo (voice),9
+761898,84505,Hiroaki Hirata,Klein (voice),10
+761898,3093126,Sayaka Kobayashi,Akiyo Sada (voice),11
+761898,40325,Megumi Hayashibara,Kyouko Yuuki (voice),12
+761898,552339,Kazuhiro Yamaji,Shouzou Yuuki (voice),13
+761898,1470994,Takahiro Shimada,Player (voice),14
+2044,6384,Keanu Reeves,Alex Wyler,0
+2044,18277,Sandra Bullock,Dr. Kate Forster,1
+2044,290,Christopher Plummer,Simon Wyler,2
+2044,21042,Ebon Moss-Bachrach,Henry Wyler,3
+2044,13506,Willeke van Ammelrooy,Kate's Mother,4
+2044,21043,Dylan Walsh,Morgan,5
+2044,21041,Shohreh Aghdashloo,Dr. Anna Klyczynski,6
+2044,21044,Lynn Collins,Mona,7
+2044,141417,Mike Bacarella,Mulhern,8
+2044,1288335,Kevin M. Brennan,Waiter,9
+2044,1229774,Frank Caeti,Cove Patron,10
+2044,1477263,Aliyah Carr,Girl Patient,11
+2044,1477264,Jennifer Clark,Nurse Practitioner,12
+2044,1477265,Jacob D. Dumelle,Patient on Gurney,13
+2044,1477266,Scott Elias,Doug,14
+2044,1088586,Lori Ann Gerdisch,I.C.U. Nurse,15
+2044,1230664,Cynthia Kaye McWilliams,Vanessa Vanderbeck,16
+2044,1557513,India Neilan,Hostess,17
+2044,1574522,Mia Park,Receptionist,18
+2044,1855240,Jacqueline Williams,Madhvi Patel,19
+2044,36093,Peggy Roeder,Attendant,20
+2044,2062306,Jason Wells,Costello,21
+2044,2266480,Tiffini Funches,Young Nurse,22
+2044,1226705,Jennifer Kern,Nurse,23
+2044,1870623,Michael Andrew Gorman,Cove Bartender,24
+59436,887,Owen Wilson,Gil,0
+59436,53714,Rachel McAdams,Inez,1
+59436,8534,Kathy Bates,Gertrude Stein,2
+59436,29685,Kurt Fuller,John,3
+59436,3490,Adrien Brody,Salvador Dalí,4
+59436,937039,Carla Bruni,Museum Guide,5
+59436,8293,Marion Cotillard,Adriana,6
+59436,3968,Michael Sheen,Paul,7
+59436,971329,Nina Arianda,Carol,8
+59436,91606,Tom Hiddleston,F. Scott Fitzgerald,9
+59436,91495,Mimi Kennedy,Helen,10
+59436,17486,Alison Pill,Zelda Fitzgerald,11
+59436,121529,Léa Seydoux,Gabrielle,12
+59436,74541,Corey Stoll,Ernest Hemingway,13
+59436,28005,Maurice Sonnenberg,Man at Wine Tasting,14
+59436,96376,Thierry Hancisse,1920's Partygoer,15
+59436,239118,Guillaume Gouix,1920's Partygoer,16
+59436,219708,Audrey Fleurot,1920's Partygoer,17
+59436,7284,Marie-Sohna Condé,1920's Partygoer,18
+59436,1151450,Yves Heck,Cole Porter,19
+59436,585668,Sonia Rolland,Joséphine Baker,20
+59436,144957,Daniel Lundh,Juan Belmonte,21
+59436,115686,Laurent Spielvogel,Antiques Dealer,22
+59436,1151451,Thérèse Bourou-Rubinsztein,Alice B. Toklas,23
+59436,85016,Marcial Di Fonzo Bo,Pablo Picasso,24
+59436,1151449,Emmanuelle Uzan,Djuna Barnes,25
+59436,1151452,Tom Cordier,Man Ray,26
+59436,260836,Adrien de Van,Luis Buñuel,27
+59436,1151455,Serge Bagdassarian,Détective Duluc,28
+59436,51100,Gad Elmaleh,Détective Tisserant,29
+59436,180906,David Lowe,T.S. Eliot,30
+59436,234022,Atmen Kelif,Hotel Doctor,31
+59436,1151453,Yves-Antoine Spoto,Henri Matisse,32
+59436,51105,Laurent Claret,Leo Stein,33
+59436,32515,Sava Lolov,Belle Époque Couple,34
+59436,81418,Karine Vanasse,Belle Époque Couple,35
+59436,220582,Catherine Benguigui,Maxim's Hostess,36
+59436,1151456,Vincent Menjou Cortes,Henri de Toulouse-Lautrec,37
+59436,49278,Olivier Rabourdin,Paul Gauguin,38
+59436,1151454,François Rostain,Edgar Degas,39
+59436,15481,Marianne Basler,Versailles Royalty,40
+59436,20082,Michel Vuillermoz,Versailles Royalty,41
+59436,28022,Kenneth Edelson,Guest at Maxims (uncredited),42
+12335,14730,Angela Lansbury,Miss Price,0
+12335,5825,David Tomlinson,Emelius,1
+12335,7505,Roddy McDowall,Mr. Jelk,2
+12335,10024,Sam Jaffe,Bookman,3
+12335,41231,John Ericson,Col. Heller,4
+12335,210620,Bruce Forsyth,Swinburne,5
+12335,233563,Cindy O'Callaghan,Carrie,6
+12335,1031274,Roy Snart,Paul,7
+12335,1073801,Ian Weighill,Charlie,8
+12335,123904,Tessie O'Shea,Mrs. Hobday,9
+12335,153688,Arthur Gould-Porter,Capt. Greer,10
+12335,956544,Ben Wrigley,Portobello Rd. Workman,11
+12335,5832,Reginald Owen,Gen. Teagler,12
+12335,88906,Cyril Delevanti,Elderly Farmer,13
+12335,165473,Rick Traeger,German Sergeant,14
+12335,3716206,Manfred Lating,German Sergeant,15
+12335,1213156,John Orchard,Plaster Vendor,16
+12335,33482,Bob Holt,Codfish (voice),17
+12335,90298,Lennie Weinrib,Secretary Bird / Lion (voice),18
+12335,44676,Dal McKennon,Bear (voice),19
+12335,1421073,Leon Alton,Soldier at Portobello Road (uncredited),20
+12335,158052,Conrad Bachmann,German Soldier (uncredited),21
+12335,27164,Frank Baker,Portobello Road Passerby (uncredited),22
+12335,30144,Don Barclay,Portobello Road Passerby (uncredited),23
+12335,2100015,Jack Berle,Portobello Road Passerby (uncredited),24
+12335,3163438,Jane Betts,Spectator at Emelius' Failed Magic Performance (uncredited),25
+12335,2579725,Eric Brotherson,Man (uncredited),26
+12335,1950589,Patrick Sullivan Burke,Soldier (uncredited),27
+12335,1912385,Charles Cirillo,Portobello Road Passerby (uncredited),28
+12335,1878531,Robert Cole,Portobello Road Passerby (uncredited),29
+12335,1861036,Patrick Dennis-Leigh,Old Home Guardsman (uncredited),30
+12335,143579,Anthony Eustrel,Vendor (uncredited),31
+12335,4076,Morgan Farley,Old Piano Player (uncredited),32
+12335,2458444,Bobby Gilbert,Newspaper Vendor (uncredited),33
+12335,45608,Ina Gould,Shopkeeper (uncredited),34
+12335,1990130,Ed Haskett,Portobello Road Passerby (uncredited),35
+12335,951663,Delos Jewkes,Old Home Guardsman (uncredited),36
+12335,2474412,Sid Kane,Book Vendor (uncredited),37
+12335,2672793,Ed Kerrigan,Dancer (uncredited),38
+12335,3716207,Milt Larsen,Spectator at Emelius' Failed Magic Performance (uncredited),39
+12335,2129553,Edith Leslie,Spectator at Emelius' Failed Magic Performance (uncredited),40
+12335,1219023,Ysabel MacCloskey,Mrs. Mason (uncredited),41
+12335,13392,Arthur Malet,Mr. Widdenfield (Museum Guard) (uncredited),42
+12335,982137,George Mann,Old Home Guardsman (uncredited),43
+12335,3716208,Chris Marks,Man (uncredited),44
+12335,2026378,James McInnes,Home Guard Sergeant (uncredited),45
+12335,94994,Barbara Morrison,Vendor with Hat and Boa (uncredited),46
+12335,1176510,William H. O'Brien,Portobello Road Passerby (uncredited),47
+12335,178403,Richard Peel,Vendor (uncredited),48
+12335,2573693,Maria Pogee,Dancer (uncredited),49
+12335,179398,Jack Raine,Old Home Guardsman (uncredited),50
+12335,1596147,Maxine Semon,Portobello Dancer (uncredited),51
+12335,3716210,Roy Smith,Dancer (uncredited),52
+12335,34365,Arthur Space,Old Home Guardsman (uncredited),53
+12335,1177729,Jerry Trent,Dancer (uncredited),54
+12335,30299,Hank Worden,Old Home Guardsman (uncredited),55
+58,85,Johnny Depp,Jack Sparrow,0
+58,114,Orlando Bloom,Will Turner,1
+58,116,Keira Knightley,Elizabeth Swann,2
+58,1709,Jack Davenport,Norrington,3
+58,2440,Bill Nighy,Davy Jones,4
+58,378,Jonathan Pryce,Governor Weatherby Swann,5
+58,1710,Lee Arenberg,Pintel,6
+58,1711,Mackenzie Crook,Ragetti,7
+58,2449,Kevin McNally,Gibbs,8
+58,1715,David Bailie,Cotton,9
+58,1640,Stellan Skarsgård,Bootstrap Bill,10
+58,2441,Tom Hollander,Cutler Beckett,11
+58,2038,Naomie Harris,Tia Dalma,12
+58,4030,Martin Klebba,Marty,13
+58,939,David Schofield,Mercer,14
+58,2451,Alex Norton,Captain Bellamy,15
+58,2450,Lauren Maher,Scarlett,16
+58,1227685,Nej Adamson,Short Sailor,17
+58,1380903,Jimmy Roussounis,Large Sailor,18
+58,1791599,Moray Treadwell,Sunburned Sailor,19
+58,203541,San Shella,Leech,20
+58,92328,Jim Cody Williams,Fisherman (Montage),21
+58,44173,Michael Miranda,Cannibal Warrior,22
+58,82636,Luke de Woolfson,Frightened Sailor,23
+58,14325,Derrick O'Connor,Very Old Man,24
+58,1491691,Georges Trillat,Skinny Man,25
+58,67147,Israel Aduramo,Crippled Man,26
+58,188426,Gerry O'Brien,Irish Man,27
+58,191751,Dermot Keaney,Maccus / Dutchman,28
+58,11283,Clive Ashborn,Koleniko / Dutchman,29
+58,1119,Robbie Gee,Shrimper (Montage),30
+58,5075194,Neil Panlasigui,Cannibal Boy,31
+58,1077834,Matthew Bowyer,Sailor / Edinburgh,32
+58,10960,Max Baker,Burser / Edinburgh,33
+58,25441,Steve Speirs,Quartermaster / Edinburgh,34
+58,140452,John Boswall,Wyvern,35
+58,1195758,Winston Ellis,Palafico / Dutchman,36
+58,64102,Christopher Adamson,Jimmy Legs / Dutchman,37
+58,1123,Andy Beckwith,Clacker / Dutchman,38
+58,1229277,Jonathan Linsley,Ogilvey / Dutchman,39
+58,2920079,Sylver,Shrimper's Brother,40
+58,1017597,Simon Meacock,Chaplain,41
+58,157048,Natsuko Ohama,Cannibal Woman,42
+58,5974691,Josie Dapar,Cannibal Woman,43
+58,2452,Vanessa Branch,Giselle,44
+58,117654,David Sterne,Edinburgh Cook,45
+58,1316465,David Keyes,Scuttled Ship Helmsman,46
+58,5974704,Anthony Patricio,Cannibal,47
+58,102977,Barry McEvoy,Carruthers Guard,48
+58,141831,Michael Enright,Deckhand / Edinburgh,49
+58,5974713,"Hernando ""Sweepy"" Molina",Sweepy,50
+58,1429824,John Mackie,Turkish Prisoner,51
+58,1944580,Spider Madison,Turkish Prisoner,52
+58,3568528,Bud Mathis,Turkish Prisoner,53
+58,54809,Marco Khan,Turkish Guard,54
+58,1782009,David Zahedian,Turkish Guard,55
+58,2224151,Faouzi Brahimi,Turkish Guard,56
+58,2867278,Jonathan Limbo,Torch Native,57
+58,429401,Ho-Kwan Tse,Ho-Kwan,58
+58,22075,Reggie Lee,Headless,59
+58,1269611,LeJon Stewart,Lejon,60
+58,21700,Christopher S. Capp,Parrot Voice (voice),61
+58,1269555,Félix Castro,Moises,62
+58,1269556,Mike Haberecht,Kursar,63
+58,1269557,Rudolph McCollum,Matelot,64
+58,1269559,Gerard J. Reyes,Tearlach,65
+58,1269560,M. Scott Shields,Duncan,66
+58,1293892,Chris Sullivan,Ladbroc,67
+58,1269562,Craig Thomson,Crimp,68
+58,1269602,Fred Toft,Quartetto,69
+58,118,Geoffrey Rush,Captain Hector Barbossa,70
+18491,77927,Megumi Ogata,Shinji Ikari (voice),0
+18491,40325,Megumi Hayashibara,Rei Ayanami / Yui Ikari (voice),1
+18491,77931,Kotono Mitsuishi,Misato Katsuragi (voice),2
+18491,83768,Yuko Miyamura,Asuka Langley Soryu (voice),3
+18491,77934,Fumihiko Tachiki,Gendo Ikari (voice),4
+18491,126484,Miki Nagasawa,Maya Ibuki (voice),5
+18491,84508,Takehito Koyasu,Shigeru Aoba (voice),6
+18491,122502,Hiro Yuuki,Makoto Hyouga (voice),7
+18491,77933,Yuriko Yamaguchi,Ritsuko Akagi (voice),8
+18491,215919,Motomu Kiyokawa,Kozo Fuyutsuki (voice),9
+18491,81244,Akira Ishida,Kaworu Nagisa (voice),10
+18491,217144,Mugihito,Keel Lorenz (voice),11
+18491,20664,Koichi Yamadera,Ryoji Kaji (voice),12
+18491,1623766,Tristan MacAvery,Gendo Ikari (English version) (voice),13
+22586,3785,Jack Palance,Lord Rothbart (voice),0
+22586,88946,Howard McGillin,Prince Derek (voice),1
+22586,9260,Michelle Nicastro,Princess Odette (voice),2
+22586,58828,Liz Callaway,Princess Odette (singing voice),3
+22586,8930,John Cleese,Jean-Bob (voice),4
+22586,3214,Steven Wright,"Mr. Lorenzo ""Speed"" Trudgealong (voice)",5
+22586,88948,Steve Vinovich,Lieutenant Puffin (voice),6
+22586,88949,Mark Harelik,Lord Rogers (voice),7
+22586,947905,James Arrington,Chamberlain (voice),8
+22586,168262,Davis Gaines,Chamberlain (singing voice),9
+22586,88950,Joel McKinnon Miller,Bromley (voice),10
+22586,43364,Dakin Matthews,King William (voice),11
+22586,88947,Sandy Duncan,Queen Uberta (voice),12
+22586,107300,Brian Nissen,Narrator (voice),13
+22586,21402,Adam Wylie,Young Derek (voice),14
+22586,2520385,Adrian Zahiri,Young Princess Odette (voice),15
+22586,1213342,Tom Alan Robbins,Musician (voice),16
+22586,1741470,Bess Hopper,Bridget (voice),17
+22586,1147971,Jon Joyce,Chorus (voice),18
+22586,1052214,Susan Boyd,Chorus (voice),19
+22586,2520386,Catte Adams,Chorus (voice),20
+22586,1749273,Angie Jaree,Chorus (voice),21
+22586,1074140,Bobbi Page,Chorus (voice),22
+22586,169893,Amick Byram,Chorus (voice),23
+22586,1720665,Kerry Katz,Chorus (voice),24
+22586,2520387,Stephen W. Amerson,Chorus (voice),25
+22586,83345,Gary Stockdale,Chorus (voice),26
+22586,2520388,Susie Stevens-Logan,Chorus (voice),27
+22586,2405303,Rick Logan,Chorus (voice),28
+22586,1720666,Randy Crenshaw,Chorus (voice),29
+22586,1222823,Carmen Twillie,Chorus (voice),30
+22586,2011698,Susan McBride,Chorus (voice),31
+22586,2520390,Tampa M. Lann,Chorus (voice),32
+22586,1235843,Sally Stevens,Chorus (voice),33
+22586,2520391,Debbie Hall,Chorus (voice),34
+22586,1396779,Bob Joyce,Chorus (voice),35
+22586,2264381,Oren Waters,Chorus (voice),36
+22586,1853633,Michael Dees,Chorus (voice),37
+22586,2520392,Jim Haas,Chorus (voice),38
+22586,5090394,Beth Andersen,Chorus (voice),39
+297021,1372894,Tenka Hashimoto,Mitsuki Kanzaki,0
+297021,1356297,Yūkichi Kobayashi,Yûya Kanzaki,1
+297021,2729152,Mayu Mitsui,Hiyori Kotobuki,2
+297021,1453353,Mika Yano,Yukina Kiritani,3
+297021,1453348,Kazue Akita,Ayaka Tachibana,4
+297021,1453351,Reiko Hayama,Kyoko Kanzaki,5
+297021,1453350,Tsunaki Fukushima,,6
+297021,587657,Ini Kusano,,7
+297021,553622,Kenji Iwaya,,8
+297021,1619183,Aiko Masuda,,9
+297021,1453352,Itto Shimada,Yûya Kanzaki (child),10
+297021,4421432,Maika Ohtsu,Mitsuki Kanzaki (child),11
+297021,4421540,Rinku Kanai,,12
+297021,1453349,Yuki Aoyama,,13
+297021,135202,Hajime Inoue,,14
+297021,1765548,Anna Yanagi,High school girl,15
+1660992,2716546,Seo Ye-hwa,,0
+1660992,80461,Yu Jun-sang,,1
+1660992,6108053,Lee Won-ju,,2
+1660992,2982886,Choi Seung-yoon,,3
+43074,41091,Kristen Wiig,Erin Gilbert,0
+43074,55536,Melissa McCarthy,Abby Yates,1
+43074,1240487,Kate McKinnon,Jillian Holtzmann,2
+43074,168452,Leslie Jones,Patty Tolan,3
+43074,74568,Chris Hemsworth,Kevin,4
+43074,1267216,Neil Casey,Rowan North,5
+43074,464993,Zach Woods,Tour Guide,6
+43074,42157,Ed Begley Jr.,Ed Mulgrave,7
+43074,4391,Charles Dance,Harold Fillmore,8
+43074,1286525,John Milhiser,Higgins Student,9
+43074,1717724,Ben Harris,Higgins Student,10
+43074,1109702,Karan Soni,Bennie,11
+43074,1217650,Bess Rous,Gertrude Aldridge Ghost,12
+43074,1215931,Steve Higgins,Dean,13
+43074,88971,Dave Allen,Electrocuted Ghost,14
+43074,1106222,Katie Dippold,Rental Agent,15
+43074,127048,Nate Corddry,Graffiti Artist,16
+43074,1686559,Daniel Ramis,Metal Head,17
+43074,1480047,Pat Kiernan,NY1 News Anchor #1,18
+43074,1532,Bill Murray,Martin Heiss,19
+43074,178926,Michael McDonald,Jonathan the Theater Manager,20
+43074,1640435,Jaime Pacheco,Fernando the Janitor,21
+43074,1637555,Adam Ray,Lead Singer / Slimer (voice),22
+43074,1370567,Eugene Cordero,Bass Guitarist,23
+43074,1462917,Davey Jones,Ely the Drummer,24
+43074,1772809,Ryan Levine,Rock Guitarist,25
+43074,1772810,Dan Teicher,Rock Guitarist,26
+43074,10572,Theodore Shapiro,Keyboardist,27
+43074,1772812,Matteo Borghese,Lightboard Operator,28
+43074,12208,Ozzy Osbourne,Famous Rock Star,29
+43074,1772805,Jeanine Ramirez,Reporter Outside Theater,30
+43074,1231211,Jessica Chaffin,Waitress,31
+43074,1219121,Jamie Denbo,Waitress,32
+43074,18271,Toby Huss,Officer Stevenson,33
+43074,39390,Michael Kenneth Williams,Agent Hawkins,34
+43074,59841,Matt Walsh,Agent Rorke,35
+43074,1271,Andy Garcia,Mayor Bradley,36
+43074,1093919,Cecily Strong,Jennifer Lynch,37
+43074,8873,Annie Potts,Desk Clerk,38
+43074,1772813,Cheryl Wills,NY1 News Anchor #2,39
+43074,1429453,Sam Richardson,Basement Cop,40
+43074,54720,Steve Bannos,Flasher Ghost,41
+43074,305993,Tom Yi,Flashed Man,42
+43074,1255901,Susan Park,Flashed Woman,43
+43074,1454946,Milana Vayntrub,Subway Rat Woman,44
+43074,707,Dan Aykroyd,Cabbie,45
+43074,1772814,Tony Viveiros,Police Officer,46
+43074,110743,Stephen 'tWitch' Boss,Police Officer,47
+43074,1534447,Robin Shelby,Lady Slimer (voice),48
+43074,1686558,Rosanna Scotto,Fox 5 News Anchor,49
+43074,1243729,Greg Kelly,Fox 5 News Anchor,50
+43074,111875,Al Roker,Al Roker,51
+43074,8874,Ernie Hudson,Uncle Bill,52
+43074,10205,Sigourney Weaver,Rebecca Gorin,53
+43074,20,Elizabeth Perkins,Phyllis Adler (uncredited),54
+43074,1053275,Stephanie Atkinson,Restaurant Patron (uncredited),55
+43074,94622,Brian Baumgartner,Frank (uncredited),56
+43074,1772824,Paige MacLean,Concert Goer (uncredited),57
+43074,174727,Lesley Nicol,Mrs. Ponner (uncredited),58
+43074,1602952,Lexie Roth,Guitar Technician (uncredited),59
+43074,1572024,Kallie Tabor,Community College Student (uncredited),60
+43074,1772829,Jordan Tofalo,1950s Ghost (uncredited),61
+43074,928638,John Franchi,NYC Pedestrian (uncredited),62
+43074,2511894,Jason Tisi,Precision Driver (uncredited),63
+43074,1674440,Arthur Hiou,John Gotti Ghost (uncredited),64
+43074,169265,Chris Gethard,Blogger (uncredited),65
+43074,1178983,Al Conti,G-Man Ghost (uncredited),66
+43074,20301,Justin Kirk,Phil Hudson (uncredited),67
+43074,3631835,John Higgins,Baba Booey Shouter,68
+417859,3131,Antonio Banderas,Puss in Boots (voice),0
+417859,3136,Salma Hayek Pinault,Kitty Softpaws (voice),1
+417859,58225,Zach Galifianakis,Humpty Dumpty (voice),2
+417859,879,Billy Bob Thornton,Jack (voice),3
+417859,12110,Amy Sedaris,Jill (voice),4
+417859,92326,Constance Marie,Imelda (voice),5
+417859,64151,Mike Mitchell,Andy Beanstalk (voice),6
+417859,936666,Rich Dietl,Bounty Hunter (voice),7
+417859,10828,Guillermo del Toro,Comandante / Hombre del bigote (voice),8
+417859,12080,Conrad Vernon,Raoul / Soldier (voice),9
+417859,12098,Chris Miller,Little Boy Blue / Friar Miller / Prison Guard / Manuel / Rafael (voice),10
+417859,936667,Ryan Crego,Luis (voice),11
+417859,936668,Tom Wheeler,Bartender / Mean Boy / Wagon Driver / Hotel Owner / Rodrigo (voice),12
+417859,18864,Tom McGrath,Bar Thief (voice),13
+417859,179702,Bob Joles,Giuseppe (voice),14
+417859,936669,Latifa Ouaou,Crazy Woman / Mean Girl / Milk Lady / Little Boy (voice),15
+417859,936672,Jessica Schulte,Estella Maria (voice),16
+417859,936670,Bob Persichetti,Ohhh Cat (voice),17
+417859,936674,Nina Barry,Ivana / Charo (voice),18
+2114,21702,Ming-Na Wen,Dr. Aki Ross (voice),0
+2114,55636,Donald Sutherland,Dr. Sid (voice),1
+2114,7447,Alec Baldwin,Cap. Gray Edwards (voice),2
+2114,10182,Ving Rhames,Sgt. Ryan Whitaker (voice),3
+2114,884,Steve Buscemi,Off. Neil Fleming (voice),4
+2114,21703,Peri Gilpin,Off. Jane Proudfoot (voice),5
+2114,4512,James Woods,General Hein (voice),6
+2114,65827,Keith David,Council Member (voice),7
+2114,14500,Jean Simmons,Council Member (voice),8
+2114,29797,Matt McKenzie,Major Elliot (voice),9
+2114,56348,John DeMita,BCR Soldier #1 / Space Station Technician #2 / Additional Voices (voice),10
+2114,92623,Matt Adler,Additional Voices (voice),11
+2114,217777,Steve Alterman,Additional Voices (voice),12
+2114,57910,David Arnott,Additional Voices (voice),13
+2114,64948,Cathy Cavadini,Additional Voices (voice),14
+2114,206202,Lanei Chapman,Additional Voices (voice),15
+2114,154884,Vicki Davis,Additional Voices (voice),16
+2114,949895,Judi Durand,Additional Voices (voice),17
+2114,30029,Greg Finley,Additional Voices (voice),18
+2114,21694,Jack Fletcher,Additional Voices (voice),19
+2114,51958,Julia Fletcher,Additional Voices (voice),20
+2114,230436,Barbara Harris,Additional Voices (voice),21
+2114,952996,David McCharen,Additional Voices (voice),22
+2114,1720762,Tracy Metro,Additional Voices (voice),23
+2114,104617,David Michie,Additional Voices (voice),24
+2114,156466,Richard Penn,Additional Voices (voice),25
+2114,954335,David J. Randolph,Additional Voices (voice),26
+2114,1232775,Andrea Baker,Additional Voices (voice),27
+2114,2748711,Eric Aten,Deep Eyes (uncredited),28
+2114,31531,John DiMaggio,BFW Soldier #1 (voice) (uncredited),29
+2114,79054,Alex Fernandez,Space Station Technician #3 (voice) (uncredited),30
+2114,1254010,David Rasner,Space Station Technician #1 & 4 (voice) (uncredited),31
+2114,28248,Dwight Schultz,Scan Technician (voice) (uncredited),32
+315465,18056,Koji Yakusho,Kumatetsu (voice),0
+315465,104522,Aoi Miyazaki,Young Kyuta (voice),1
+315465,1018944,Shota Sometani,Teenage Kyuta (voice),2
+315465,1454976,Suzu Hirose,Kaede (voice),3
+315465,123739,Lily Franky,Hyakushūbō (voice),4
+315465,40450,Yo Oizumi,Tatara (voice),5
+315465,552339,Kazuhiro Yamaji,Iozen (voice),6
+315465,93803,Mamoru Miyano,Teenage Ichirohiko (voice),7
+315465,68472,Kappei Yamaguchi,Teenage Jiromaru (voice),8
+315465,1054260,Haru Kuroki,Young Ichirohiko (voice),9
+315465,225662,Momoka Ohno,Young Jiromaru (voice),10
+315465,1254135,Sumire Morohoshi,Chico (voice),11
+315465,127893,Keishi Nagatsuka,Kyuta's Father (voice),12
+315465,27788,Kumiko Aso,Kyuta's Mother (voice),13
+315465,551776,Masahiko Tsugawa,Lord (voice),14
+75,514,Jack Nicholson,President Dale / Art Land,0
+75,515,Glenn Close,Marsha Dale,1
+75,516,Annette Bening,Barbara Land,2
+75,517,Pierce Brosnan,Donald Kessler,3
+75,518,Danny DeVito,Rude Gambler,4
+75,519,Martin Short,Jerry Ross,5
+75,520,Sarah Jessica Parker,Nathalie Lake,6
+75,521,Michael J. Fox,Jason Stone,7
+75,522,Rod Steiger,General Decker,8
+75,523,Tom Jones,Tom Jones,9
+75,526,Lukas Haas,Richie Norris,10
+75,524,Natalie Portman,Taffy Dale,11
+75,4774,Jim Brown,Byron Williams,12
+75,4452,Lisa Marie,Martian Girl,13
+75,528,Sylvia Sidney,Grandma Norris,14
+75,1818,Paul Winfield,General Casey,15
+75,2230,Pam Grier,Louise Williams,16
+75,70851,Jack Black,Billy Glenn Norris,17
+75,2393402,Janice Rivera,Cindy,18
+75,98894,Ray J,Cedric,19
+75,23681,Brandon Hammond,Neville,20
+75,10671,Joe Don Baker,Glenn Norris,21
+75,1912,O-Lan Jones,Sue Ann Norris,22
+75,18979,Christina Applegate,Sharona,23
+75,10138,Brian Haley,Mitch,24
+75,43553,Jerzy Skolimowski,Dr. Zeigler,25
+75,1224152,Timi Prulhiere,Tour Guide,26
+75,23393,Barbet Schroeder,French President,27
+75,3625860,Chi Hoang Cai,Mr. Lee,28
+75,1786577,Tommy Bush,Hillbilly,29
+75,20626,Joseph Maher,Decorator,30
+75,2777182,Gloria M. Malgarini,Nun #1,31
+75,1721955,Betty Bunch,Nun #2,32
+75,3625863,Gloria Hoffmann,Nun #3,33
+75,1542,Willie Garson,Corporate Guy,34
+75,9285,John Roselius,GNN Boss,35
+75,108774,Michael Reilly Burke,GNN Reporter #1,36
+75,47884,Valerie Wildman,GNN Reporter #2,37
+75,2340595,Richard Irving,GNN Reporter #3,38
+75,157621,Jonathan Emerson,Newscaster,39
+75,82746,Tamara 'Gingir' Curry,Hooker #1,40
+75,1385917,Rebecca Broussard,Hooker #2,41
+75,100592,Vinny Argiro,Casino Manager,42
+75,78311,Steve Valentine,TV Director,43
+75,1733285,Coco Leigh,Female Journalist,44
+75,156830,Jeffrey King,NASA Tech,45
+75,16427,Enrique Castillo,Hispanic Colonel,46
+75,3625867,Don LaMoth,Colonel #2,47
+75,2695459,C. Wayne Owens,Stranger #1,48
+75,1583720,Joseph Moynihan,Stranger #2,49
+75,3625869,Roger Peterson,Colonel,50
+75,40351,John Finnegan,Speaker of the House,51
+75,3625870,Ed Lambert,Morose Old Guy,52
+75,3625871,John Gray,Incredibly Old Guy,53
+75,66653,Gregg Daniel,Lab Technician,54
+75,97944,J. Kenneth Campbell,Doctor #1,55
+75,153996,Jeanne Mori,Doctor #2,56
+75,22250,Rance Howard,Texan Investor,57
+75,149507,Richard Assad,Saudi Investor,58
+75,3625873,Velletta Carlson,Elderly Woman Playing Slots,59
+75,37832,Kevin Mangan,Trailer Lover,60
+75,974649,Rebeca Silva,Hispanic Woman,61
+75,164270,Josh Philip Weinstein,Hippie,62
+75,1379395,Julian Barnes,White House Waiter,63
+75,3228896,Ken Thomas,White House Photographer,64
+75,3625878,Darelle Porter Holden,Tom Jones Backup Singer,65
+75,3625879,Christi Black,Tom Jones Backup Singer,66
+75,3625880,Sharon Hendrix,Tom Jones Backup Singer,67
+75,15831,Frank Welker,Various Martians (voice),68
+75,4603862,Heidi Miller,Extra (uncredited),69
+321612,10990,Emma Watson,Belle,0
+321612,221018,Dan Stevens,Beast,1
+321612,114019,Luke Evans,Gaston,2
+321612,8945,Kevin Kline,Maurice,3
+321612,7056,Emma Thompson,Mrs. Potts,4
+321612,3061,Ewan McGregor,Lumière,5
+321612,54415,Josh Gad,LeFou,6
+321612,56103,Hattie Morahan,Agathe / Enchantress,7
+321612,134698,Haydn Gwynne,Clothilde,8
+321612,56101,Gerard Horan,Jean the Potter,9
+321612,56650,Ray Fearon,Père Robert,10
+321612,1327,Ian McKellen,Cogsworth,11
+321612,1681702,Nathan Mack,Chip,12
+321612,187565,Audra McDonald,Madame Garderobe,13
+321612,2283,Stanley Tucci,Maestro Cadenza,14
+321612,1216606,Gugu Mbatha-Raw,Plumette,15
+321612,1230432,Clive Rowe,Cuisinier,16
+321612,1797524,Thomas Padden,Chapeau,17
+321612,58579,Rita Davies,Old Woman,18
+321612,1821165,D.J. Bailey,Vagrant,19
+321612,383624,Adrian Schiller,Monsieur D'Arque,20
+321612,1681703,Harriet Jones,Queen,21
+321612,2121157,Adam Mitchell,Young Prince,22
+321612,1593293,Tom Turner,King,23
+321612,56098,Michael Jibson,Tavern Keeper,24
+321612,1647688,Zoe Rainey,Belle's Mother,25
+321612,1779093,Daisy Duczmal,Baby Belle,26
+321612,1028292,Jolyon Coy,Young Maurice,27
+321612,96893,Jimmy Johnston,Tom,28
+321612,1803614,Dean Street,Dick,29
+321612,1803613,Alexis Loizon,Stanley,30
+321612,1616347,Sophie Reid,Village Lass,31
+321612,1797522,Rafaëlle Cohen,Village Lass,32
+321612,1797523,Carla Nella,Village Lass,33
+321612,1803607,Obioma Ugoala,Flirtatious Farmer,34
+321612,1278497,Lynne Wilmot,Barmaid,35
+321612,1742654,Jane Fowler,Pretty Female Fishmonger,36
+321612,1803591,Alison Harding,Head Washer,37
+321612,1803589,Chris Andrew Mellon,Nasty Headmaster,38
+321612,1803586,Jemma Alexander,Housewife,39
+321612,1803585,Sandy Strallen,Cobbler,40
+321612,1803584,Dale Branston,Baker,41
+321612,1803579,Daniel Ioannou,Barber,42
+321612,140577,Peter Challis,Butcher,43
+321612,1803576,Wendy Baldock,Washer Woman,44
+321612,138158,Norma Atallah,Washer Woman,45
+321612,1803572,Leo Andrew,Apothecary,46
+321612,1803568,Steven Butler,Cheese Maker,47
+321612,1803564,Sharon Gomez,Cheese Maker,48
+321612,1803563,Jacqui Jameson,Cheese Maker,49
+321612,1803562,Vivien Parry,Village Lass's Mother,50
+321612,1652911,Simone Sault,Wood Carrier,51
+321612,1803125,Beth Willetts,Jam Seller,52
+321612,1803124,Mandy Montanez,Bread Buyer,53
+321612,1803123,Tom Oakley,Fishmonger,54
+321612,1803122,William Bozier,Stable Boy,55
+321612,1803121,Jak Allen-Anderson,Apothecary's Patient,56
+321612,1803120,Phil Grannel,Fiddler,57
+321612,1803119,Freddie August,Fiddler,58
+321612,1803118,Nicola Keen,Female Villager / Celebration Woman,59
+321612,1803117,Ebony Molina,Female Villager / Celebration Woman,60
+321612,1803116,Alison Jenkins,Female Villager / Celebration Woman,61
+321612,1803115,Ellen O'Grady,Female Villager,62
+321612,1803113,Dawn Buckland,Female Villager,63
+321612,1803112,Rebecca Mckinnis,Female Villager,64
+321612,1803111,Jody Hall,Male Villager,65
+321612,1821232,Ben Fox,Male Villager,66
+321612,1803105,Nathan Vaughan Harris,Male Villager,67
+321612,1803104,Tim Stanley,Male Villager,68
+321612,1803102,Ben Clare,Male Villager,69
+321612,1803101,Marina Abdeen,Debutante,70
+321612,1803100,Danielle Acors,Debutante,71
+321612,1803098,Hayley Ainsley,Debutante,72
+321612,1803097,Rhianne Alleyn,Debutante,73
+321612,1803096,Gabby Antrobus,Debutante,74
+321612,1803095,Sophie Atkins,Debutante,75
+321612,1803091,Koko Basigara,Debutante,76
+321612,1803090,Holly Bluett,Debutante,77
+321612,1803088,Daisy Boyles,Debutante,78
+321612,1803087,Ava Brennan,Debutante,79
+321612,1775383,Sophia Brown,Debutante,80
+321612,1803043,Sophie Carmen-Jones,Debutante,81
+321612,1700995,Cassie Clare,Debutante,82
+321612,1803026,Tanya Cumberland,Debutante,83
+321612,1803024,Natalie Davis,Debutante,84
+321612,1803022,Paige Drury-Lawrence,Debutante,85
+321612,1502470,Stephanie Elstob,Debutante,86
+321612,1803018,Cordelia Farnworth,Debutante,87
+321612,1803017,Cj Field,Debutante,88
+321612,1803015,Lily Frazer,Debutante,89
+321612,1803014,Lucy Alexa Gilbert,Debutante,90
+321612,1803010,Helen Gulstan,Debutante,91
+321612,1803009,Selina Hamilton,Debutante,92
+321612,1803006,Leah Hill,Debutante,93
+321612,1802981,Abigayle Honeywill,Debutante,94
+321612,1802980,Chelsea Inez,Debutante,95
+321612,1802978,Blythe Jandoo,Debutante,96
+321612,1802977,Shireen Jathoonia,Debutante,97
+321612,1802972,Billie Kay-Piper,Debutante,98
+321612,1802968,Hannah Kenna-Thomas,Debutante,99
+321612,1802967,Ella Kora,Debutante,100
+321612,1802964,Jennifer Leung,Debutante,101
+321612,1802963,Emily Loumba,Debutante,102
+321612,1802962,Cassie Macmillian,Debutante,103
+321612,1802961,Fiona McDonald,Debutante,104
+321612,1802960,Samira Mighty,Debutante,105
+321612,1457238,Sonoya Mizuno,Debutante,106
+321612,1802959,Anna Momcilovic,Debutante,107
+321612,1802958,Nicola Mooi,Debutante,108
+321612,1681701,Nicole O'Neill,Debutante,109
+321612,1802947,Abiona Omonua,Debutante,110
+321612,1802801,Jazz Peters,Debutante,111
+321612,1802800,Courtney Pruce,Debutante,112
+321612,1802799,Kayla Radam,Debutante,113
+321612,1802798,Katie Singh,Debutante,114
+321612,1802797,Lucy St. Louis,Debutante,115
+321612,1802796,Ruth Steele,Debutante,116
+321612,1802795,Jasmine Takacs,Debutante,117
+321612,1802794,Naomi Weijand,Debutante,118
+321612,1802792,Leah West,Debutante,119
+321612,1294811,Skye Lucia Degruttola,Washer Girl,120
+321612,1802267,Timia Julien-Box,Little Girl,121
+321612,1802266,Adelaide Morgan,Little Girl,122
+321612,1802261,Gemma Fray,Little Girl,123
+321612,1664752,Lara Decaro,Little Girl,124
+321612,1802247,Max Brophy,School Boy,125
+321612,1740747,Samuel Brown,School Boy,126
+321612,1802241,Daniel Daszek-Green,School Boy,127
+321612,1802237,Freddie Hunter,School Boy,128
+321612,1802234,Joey Brown,School Boy,129
+321612,1802228,Tom Burgering,School Boy,130
+321612,2134549,Nate Leung,School Boy,131
+321612,1802226,Kai Gordon,School Boy,132
+321612,1802220,Oscar Francisco,School Boy,133
+321612,1802216,Harry Marcus,School Boy,134
+321612,1795523,Johanna Smitz,Village Woman (uncredited),135
+321612,1364036,Rudi Goodman,Young Prince in Portrait (uncredited),136
+321612,1795538,Isobel Hamilton,Fishmonger Villagewoman (uncredited),137
+321612,2860850,Karl Farrer,Villager (uncredited),138
+14411,287,Brad Pitt,Sinbad (voice),0
+14411,1922,Catherine Zeta-Jones,Marina (voice),1
+14411,1160,Michelle Pfeiffer,Eris (voice),2
+14411,12763,Joseph Fiennes,Proteus (voice),3
+14411,352,Dennis Haysbert,Kale (voice),4
+14411,35257,Timothy West,Dymas (voice),5
+14411,73475,Adriano Giannini,Rat (voice),6
+14411,12099,Raman Hui Shing-Ngai,Jin (voice),7
+14411,1335620,Chung Chan,Li (voice),8
+14411,12077,Jim Cummings,Luca / Additional Voices (voice),9
+14411,12080,Conrad Vernon,Jed (voice),10
+14411,1335621,Andrew Birch,Grum / Chum (voice),11
+14411,12098,Chris Miller,Tower Guard (voice),12
+14411,15831,Frank Welker,Spike (voice) (uncredited),13
+426063,1459885,Lily-Rose Depp,Ellen Hutter,0
+426063,3292,Nicholas Hoult,Thomas Hutter,1
+426063,137905,Bill Skarsgård,Count Orlok,2
+426063,27428,Aaron Taylor-Johnson,Friedrich Harding,3
+426063,5293,Willem Dafoe,Prof. Albin Eberhart von Franz,4
+426063,2324569,Emma Corrin,Anna Harding,5
+426063,202032,Ralph Ineson,Dr. Wilhelm Sievers,6
+426063,16358,Simon McBurney,Herr Knock,7
+426063,3642574,Adéla Hesová,Clara,8
+426063,3834146,Milena Konstantinova,Louise,9
+426063,1673490,Stacy Thunes,Head Nurse,10
+426063,545294,Gregory Gudgeon,Hartmann,11
+426063,25670,Robert Russell,First Clerk,12
+426063,25732,Curtis Matthew,Second Clerk,13
+426063,31639,Claudiu Trandafir,Innkeeper,14
+426063,5114335,Gherghina Bereghianu,Innkeeper's Mother-in-Law,15
+426063,1781403,Jordan Haj,Vampire Hunter,16
+426063,5114338,Kateřina Bílá,Virgin on Horseback,17
+426063,5154601,Maria Ion,Old Roma Woman,18
+426063,1823411,Tereza Dušková,Orthodox Novice,19
+426063,5154604,Liana Navrot,Orthodox Schema Nun,20
+426063,1048505,Mihai Verbintschi,Orthodox Priest,21
+426063,231246,Karel Dobrý,Captain Yusou,22
+426063,5154610,Andrei Sergeev,First Mate,23
+426063,2279637,Matěj Beneš,Vomiting Sailor,24
+426063,1397131,Marek Pospíchal,First Deck Hand,25
+426063,137332,Jan Filipenský,Second Deck Hand,26
+426063,5154615,Alex East,Sailor,27
+426063,1297392,Christian Dunckley Clark,Hospital Orderly / Raving Maniac,28
+426063,183729,Andrea Miltner,Hospital Nurse,29
+426063,3924846,Robin Finesilver,Hospital Porter,30
+426063,4120723,Paul Maynard,Dockhand,31
+426063,5154621,Charles Horne,Drunkhard,32
+426063,3852488,Ella Bernstein,Clara (voice),33
+426063,5154622,Meredith Digings,Louise (voice),34
+159824,19292,Adam Sandler,Dracula (voice),0
+159824,62861,Andy Samberg,Johnny Loughran (voice),1
+159824,77948,Selena Gomez,Mavis Dracula (voice),2
+159824,32895,Kevin James,Frankenstein (voice),3
+159824,884,Steve Buscemi,Wayne (voice),4
+159824,60950,David Spade,Griffin (voice),5
+159824,298410,Keegan-Michael Key,Murray (voice),6
+159824,1523670,Asher Blinkoff,Dennis (voice),7
+159824,53122,Fran Drescher,Eunice (voice),8
+159824,28640,Molly Shannon,Wanda (voice),9
+159824,52119,Megan Mullally,Linda (voice),10
+159824,17039,Nick Offerman,Mike (voice),11
+159824,56159,Dana Carvey,Dana (voice),12
+159824,71403,Rob Riggle,Bela (voice),13
+159824,14639,Mel Brooks,Vlad (voice),14
+159824,1526129,Jonny Solomon,Blobby (voice),15
+159824,58317,Chris Kattan,Kakie (voice),16
+159824,1202534,Sadie Sandler,Winnie (voice),17
+159824,1271681,Sunny Sandler,Baby Dennis (voice),18
+159824,16165,Jon Lovitz,The Phantom of the Opera (voice),19
+159824,53684,Robert Smigel,Marty (voice),20
+159824,31507,Rose Abdoo,Ticket Agent (voice),21
+159824,6735,Luenell,Shrunken Heads (voice),22
+159824,60961,Jared Sandler,Tourist Driver (voice),23
+159824,587697,Melissa Sturm,Jogger #1 / Tourist Passenger / Caren (voice),24
+159824,1789700,Jennifer Lyter,Jogger #2 (voice),25
+159824,1529934,Paul Brittain,Pandragora (voice),26
+159824,32907,Nick Swardson,Kelsey (voice),27
+159824,51382,Chris Parnell,Fly (voice),28
+159824,1233181,Doug Dale,Kal (voice),29
+159824,2555483,Ethan Smigel,Troy (voice),30
+159824,2555482,Roey Smigel,Yoga Monster Kid (voice),31
+159824,20818,Allen Covert,Candle Cake Monster (voice),32
+159824,1340664,Ava Acres,Additional Voices (voice),33
+159824,1253350,Cole Sand,Additional Voices (voice),34
+159824,1340665,Stephen Apostolina,Additional Voices (voice),35
+159824,1386148,Brian T. Delaney,Additional Voices (voice),36
+159824,1281304,Aaron LaPlante,Additional Voices (voice),37
+159824,571562,Steve Blum,Additional Voices (voice),38
+159824,33483,Melendy Britt,Additional Voices (voice),39
+159824,60232,David Cowgill,Additional Voices (voice),40
+159824,1148415,Jessica Gee-George,Additional Voices (voice),41
+159824,1248445,Grant George,Additional Voices (voice),42
+159824,36821,Nicholas Guest,Additional Voices (voice),43
+159824,2204522,Todd Haberkorn,Additional Voices (voice),44
+159824,84495,Jess Harnell,Additional Voices (voice),45
+159824,173428,Bridget Hoffman,Additional Voices (voice),46
+159824,571309,Lex Lang,Additional Voices (voice),47
+159824,111466,Mona Marshall,Additional Voices (voice),48
+159824,2204531,Joseph Sanfelippo,Additional Voices (voice),49
+159824,81382,Kirk Thornton,Additional Voices (voice),50
+159824,94022,Matthew Wolf,Additional Voices (voice),51
+159824,1207488,Eva Bella,Additional Voices (voice),52
+159824,2026275,Jaeden Bettencourt,Additional Voices (voice),53
+159824,1664570,Mia Sinclair Jenness,Additional Voices (voice),54
+159824,1849536,Logan Kishi,Additional Voices (voice),55
+159824,1937563,Megan Richie,Additional Voices (voice),56
+159824,1438315,Andre Robinson,Additional Voices (voice),57
+159824,1340684,Carter Sand,Additional Voices (voice),58
+159824,1366288,Gunnar Sizemore,Additional Voices (voice),59
+159824,60279,Fred Tatasciore,Additional Voices (voice),60
+159824,116315,Kari Wahlgren,Additional Voices (voice),61
+159824,86170,Audrey Wasilewski,Additional Voices (voice),62
+159824,83105,Debra Wilson,Additional Voices (voice),63
+159824,1218308,Jim Wise,Additional Voices (voice),64
+159824,110884,Michael-Leon Wooley,Additional Voices (voice),65
+159824,64451,Lynnanne Zager,Additional Voices (voice),66
+159824,58477,Jonathan Loughran,Cop (voice) (uncredited),67
+159824,1202531,Julia Lea Wolov,Kelsey (voice) (uncredited),68
+81,613,Sumi Shimamoto,Nausicaä (voice),0
+81,617,Ichiro Nagai,Mito (voice),1
+81,616,Gorō Naya,Yupa (voice),2
+81,622,Yoji Matsuda,Asbel (voice),3
+81,624,Yoshiko Sakakibara,Kushana (voice),4
+81,625,Iemasa Kayumi,Kurotowa (voice),5
+81,615,Hisako Kyoda,Obaba (voice),6
+81,614,Mahito Tsujimura,Jihl (voice),7
+81,623,Mina Tominaga,Lastel (voice),8
+81,618,Kohei Miyauchi,Gol (voice),9
+81,619,Joji Yanami,Gikkuri (voice),10
+81,620,Minoru Yada,Niga (voice),11
+81,621,Rihoko Yoshida,Teto / Girl C (voice),12
+81,626,Tetsuo Mizutori,Commando (voice),13
+81,1243597,Masako Sugaya,Girl A (voice),14
+81,1241776,Takako Sasuga,Girl B (voice),15
+81,55664,Chika Sakamoto,Boy A (voice),16
+81,100127,TARAKO,Boy B (voice),17
+81,217144,Mugihito,Mayor of Pejite (voice),18
+81,1241584,Akiko Tsuboi,Lastel's Mother (voice),19
+81,1247301,Takeki Nakamura,Pejite Citizen (voice),20
+81,1353440,Takako Ota,Pejite Girl (voice),21
+81,115790,Bin Shimada,Tolmekian Soldier (voice),22
+81,555155,Shinji Nomura,Tolmekian Soldier (voice),23
+81,2026872,Hisako Ayuhara,Boy (voice),24
+81,552683,Hochu Otsuka,Tolmekian Soldier (voice),25
+430162,17287,Dominic West,Wolf (voice),0
+430162,97576,Gemma Chan,Snow White (voice),1
+430162,1223793,Rose Leslie,Red Riding Hood (voice),2
+430162,120931,Tamsin Greig,Grandma (voice),3
+430162,216425,Bertie Carvel,Prince / Mirror / Huntsman / Dwarf (voice),4
+430162,47632,Rob Brydon,Short Sister (Voice),5
+430162,1968361,Amelie Forester-Evans,Girl (Voice),6
+430162,239020,Isaac Hempstead Wright,Jack (Voice),7
+430162,1968362,Dylan Issberner,Boy (Voice),8
+430162,1201716,Bel Powley,Cinderella (Voice),9
+430162,80536,David Walliams,Tall Sister / Jack's Mother (Voice),10
+430162,47632,Rob Brydon,Short Sister / King / Rolf / Banker Pig (voice),11
+430162,1968364,Eden Muckle,Young Snow White (voice),12
+430162,1968366,Dolly Heavey,Young Red Riding Hood (voice),13
+10323,64825,Harry Hamlin,Perseus,0
+10323,26256,Judi Bowker,Andromeda,1
+10323,16523,Burgess Meredith,Ammon,2
+10323,10978,Maggie Smith,Thetis,3
+10323,9871,Ursula Andress,Aphrodite,4
+10323,29545,Claire Bloom,Hera,5
+10323,12522,Siân Phillips,Cassiopeia,6
+10323,30126,Flora Robson,A Stygian Witch,7
+10323,3359,Laurence Olivier,Zeus,8
+10323,11276,Tim Pigott-Smith,Thallo,9
+10323,2601,Neil McCarthy,Calibos,10
+10323,87415,Susan Fleetwood,Athena,11
+10323,975564,Anna Manahan,A Stygian Witch,12
+10323,39002,Freda Jackson,A Stygian Witch,13
+10323,13331,Jack Gwillim,Poseidon,14
+10323,10942,Pat Roach,Hephaestus,15
+10323,38358,Donald Houston,Acrisius,16
+10323,955663,Vida Taylor,Danae,17
+10323,121112,Harry Jones,Huntsman,18
+10323,114645,Ferdinando Poggi,Guard Killed by Scorpion (uncredited),19
+245842,517,Pierce Brosnan,King Louis XIV,0
+245842,115150,Kaya Scodelario,Marie-Josephe D'Alember,1
+245842,239996,Benjamin Walker,Yves De La Croix,2
+245842,227,William Hurt,Pere La Chaise,3
+245842,5823,Julie Andrews,Narrator,4
+245842,64439,Fan Bingbing,Mermaid,5
+245842,59254,Pablo Schreiber,Dr. Labarthe,6
+245842,1173230,Ben Lloyd-Hughes,Jean-Michel Lintillac,7
+245842,3052,Rachel Griffiths,Abbess,8
+245842,1359547,Paul Ireland,Benoit,9
+245842,1371518,Crystal Clarke,Magali,10
+245842,1357022,Kaya Blocksage,Duchesse de Fontages,11
+245842,1371520,Kasia Kaczmarek,Sister Constance,12
+245842,584338,Tom Morton,First Musketeer,13
+245842,297771,Tiffany Hofstetter,Mother,14
+245842,1536170,Jessica Clarke,Madam Devereaux,15
+245842,1057209,Virginia Bowers,Marie-Josephe's Mother,16
+245842,1675004,Marc de Panda,Intendant of the King,17
+245842,3393032,Jorja Lindsay,Ella,18
+245842,2533633,Diane Duquesne,Courtisane,19
+245842,1715692,Jean-Baptiste Sagory,Nobleman 2,20
+245842,75039,Crispin Freeman,Musketeer #6,21
+460885,2963,Nicolas Cage,Red Miller,0
+460885,127558,Andrea Riseborough,Mandy Bloom,1
+460885,3900,Linus Roache,Jeremiah Sand,2
+460885,63362,Ned Dennehy,Brother Swan,3
+460885,933272,Olwen Fouéré,Mother Marlene,4
+460885,3901,Richard Brake,The Chemist,5
+460885,1103,Bill Duke,Caruthers,6
+460885,1431545,Line Pillet,Sister Lucy,7
+460885,1969627,Clément Baronnet,Brother Klopek,8
+460885,1861146,Alexis Julemont,Brother Hanker,9
+460885,1080636,Ivailo Dimitrov,Skratch,10
+460885,1932251,Hayley Saywell,Sis,11
+460885,2128272,Stephan Fraser,Brother Lewis,12
+460885,2128273,Kalin Kerin,Scabs,13
+460885,2128274,Tamás Hagyuó,Fuck Pig,14
+460885,2167501,Paul Painter,Announcer / Cheddar Goblin (voice),15
+460885,2191406,Zeva DuVall,Cheddar Goblin Girl (uncredited),16
+2134,8229,Rod Taylor,H. George Wells,0
+2134,21874,Alan Young,David Filby / James Filby,1
+2134,21876,Yvette Mimieux,Weena,2
+2134,21877,Sebastian Cabot,Dr. Philip Hilyer,3
+2134,5731,Tom Helmore,Anthony Bridewell,4
+2134,13786,Whit Bissell,Walter Kemp,5
+2134,21878,Doris Lloyd,Mrs. Watchett,6
+2134,2455851,Bob Barran,Eloi Man (uncredited),7
+2134,16417,Paul Frees,Talking Rings (voice) (uncredited),8
+2137,21908,Aaron Kwok,Striding Cloud,0
+2137,21909,Ekin Cheng Yee-Kin,Whispering Wind,1
+2137,2537,Sonny Chiba,Lord Conqueror,2
+2137,21910,Kristy Yang Rongru,Charity,3
+2137,21911,Shu Qi,Chu Chu,4
+2137,66717,Anthony Wong Chau-Sang,Sword Saint,5
+2137,21914,Alex Fong Chung-Sun,Whispering Prince,6
+2137,21912,Michael Tse Tin-Wah,Frost,7
+2137,111298,Lawrence Cheng Tan-Shui,Jester,8
+2137,123654,Wayne Lai Yiu-Cheung,Mud Buddha,9
+2137,225436,Jason Chu Wing-Tong,Ming,10
+2137,92833,Vincent Wan Yeung-Ming,Summit Yu,11
+2137,12466,Roy Cheung Yiu-Yeung,Shaolin Monk,12
+2137,120725,Yu Rongguang,Striding Sky,13
+2137,83689,Christine Ng Wing-Mei,Ying,14
+2137,76811,Xu Jinglei,Phoenix,15
+2137,83631,Elvis Tsui Kam-Kong,Seedy Sword,16
+2137,65943,Frankie Ng Chi-Hung,Master Fong,17
+2137,122816,Lee Siu-Kay,Dragon,18
+2137,236116,Dion Lam,Bat,19
+2137,1340353,Lee Tat-Chiu,Hawk,20
+2137,1277941,Rocky Lai Keung-Ken,Wedding Guest,21
+2137,4994182,Cheung Yu-Tung,Young Striding Cloud,22
+2137,2226873,Tse Tsz-Fung,Young Whispering Wind,23
+2137,1624725,Maggie Wong Mei-Kei,Young Charity,24
+2137,4994185,Au-Yeung Shung-Lap,Young Storm,25
+2137,4994188,Law Sai-Ping,Old Woodcutter,26
+2137,4994190,Lei Lei,Little Pigtails,27
+10330,49265,Lindsay Lohan,Anna Coleman,0
+10330,8944,Jamie Lee Curtis,Tess Coleman,1
+10330,14833,Harold Gould,Grandpa,2
+10330,62747,Chad Michael Murray,Jake,3
+10330,19728,Mark Harmon,Ryan,4
+10330,537,Stephen Tobolowsky,Mr. Bates,5
+10330,61904,Christina Vidal Mitchell,Maddie,6
+10330,137169,Ryan Malgarini,Harry Coleman,7
+10330,159985,Haley Hudson,Peg,8
+10330,74073,Rosalind Chao,Pei-Pei,9
+10330,112288,Lucille Soong,Pei-Pei's Mom,10
+10330,1542,Willie Garson,Evan,11
+10330,56567,Dina Spybey-Waters,Dottie Robertson,12
+10330,68769,Julie Gonzalo,Stacey Hinkhouse,13
+10330,1575802,Christina Marie Walter,Same Shirt Girl,14
+10330,1433893,Lu Elrod,Detention Monitor,15
+10330,64829,Heather Hach,Gym Teacher,16
+10330,73456,Lorna Scott,Butcher Woman,17
+10330,1575803,Chris Carlberg,Ethan - Drummer,18
+10330,1526,Danny Rubin,Scott - Bass Player,19
+10330,156927,Hayden Tank,Harry's Friend #1,20
+10330,4741,Cayden Boyd,Harry's Friend #2,21
+10330,1067,Marc McClure,Boris,22
+10330,1213609,Chris Heuisler,Mr. Waters,23
+10330,1340662,Jeffrey Marcus,Depressed Patient,24
+10330,1346157,Jacqueline Heinze,Crying Patient,25
+10330,23967,Mary Ellen Trainor,Diary Reading Patient,26
+10330,94430,Erica Gimpel,Harry's Teacher,27
+10330,1124108,William Caploe,Talk Show P.A.,28
+10330,181876,Daniel Raymont,Makeup Artist,29
+10330,1102046,Veronica Brooks,Champagne Waitress,30
+10330,1175742,Lee Burns,Bouncer,31
+10330,1575805,Amir Derakh,House of Blues Emcee,32
+10330,1575806,Zoe Waters,Wedding Baby,33
+10336,64856,Michael Jai White,Al Simmons / Spawn,0
+10336,8349,Martin Sheen,Jason Wynn,1
+10336,5723,John Leguizamo,Clown / Violator,2
+10336,4604,Theresa Randle,Wanda Blake,3
+10336,51812,Nicol Williamson,Cogliostro,4
+10336,61962,D. B. Sweeney,Terry Fitzgerald,5
+10336,89251,Melinda Clarke,Jessica Priest,6
+10336,8186,Miko Hughes,Zack,7
+10336,1072036,Sydni Beaudoin,Cyan,8
+10336,20582,Michael Papajohn,"Glen, Zack's Dad",9
+10336,15831,Frank Welker,The Devil Malebolgia (voice),10
+10336,215904,Tony Haney,African Liaison,11
+10336,64849,Todd McFarlane,Bum,12
+10336,158825,Simon Rhee,Hong Kong Military Air Base Person (uncredited),13
+10336,149448,Robia LaMorte,XNN Reporter,14
+10336,9785,John Cothran,African Liaison,15
+10336,1612822,Caroline Gibson,News Anchor,16
+10336,192412,Marc Robinson,Punk #1,17
+10336,23791,Chris Coppola,Punk #2,18
+10336,14050,Jay Caputo,Punk #3,19
+10336,1051135,Darryl Warren,Security Guard,20
+10336,1507335,Mike Akrawi,Foreign Dignitary #1,21
+10336,2875624,Romeo Akrawi,Foreign Dignitary #2,22
+10336,113927,Jack Coleman,Doctor,23
+10336,1215393,Laura Interval,Angela (as Laura Stepp),24
+10336,1692681,Garrison M. Singer,Anesthesiologist,25
+10336,92495,John Koyama,Hong Kong Military Air Base Security (uncredited),26
+10336,1537690,Al Goto,Hong Kong Military Air Base Person (uncredited),27
+10336,2974,Roger Yuan,Korean Soldier (uncredited),28
+10336,2291875,Angelie Almendare,Diplomat's Wife (uncredited),29
+407655,1331457,Sofia Carson,Tessa Golden,0
+407655,969561,Thomas Law,Reed West,1
+407655,7906,Jennifer Tilly,Divine,2
+407655,1658758,Jazzara Jaslyn,Olympia,3
+407655,1658759,Nicole Fortuin,Georgie,4
+407655,1543926,Amy Louise Wilson,Athena,5
+407655,1817074,Ashley de Lange,Harper,6
+407655,1237876,David Ury,Freddie Marks,7
+407655,2123153,Chloe Perling,Janet,8
+407655,2123154,Ally White,Bianca,9
+407655,2123155,Carlo McFarlane,Gino,10
+407655,1003249,Sven Ruygrok,Eddie,11
+407655,1676425,Ambrose Uren,Brendon,12
+407655,2123157,Robyn Scott,Laundry Worker,13
+407655,2123158,Amelia Vernède,Finley,14
+407655,2480824,Melissa De Vries,Dancer,15
+407655,1696759,Christopher Stein,Joe,16
+350312,237045,Prabhas,Amarendra Bāhubali / Mahendra Bāhubali 'Shivudu',0
+350312,215910,Rana Daggubati,Bhallaladeva,1
+350312,88167,Anushka Shetty,Devasena,2
+350312,581895,Sathyaraj,Karikala Kattappa Nadar,3
+350312,130111,Nassar,Bijjaladeva,4
+350312,141701,Ramya Krishnan,Sivagami,5
+350312,225315,Subbaraju,Kumara Varma,6
+350312,85721,Tamannaah Bhatia,Avanthika,7
+350312,1429160,Prudhviraj,Official in Kunthala Kingdom,8
+350312,467845,Rohini,Sanga,9
+350312,2489504,Kalpalatha,,10
+350312,2236603,Ashrita Vemuganti,(uncredited),11
+350312,565890,Tanikella Bharani,Swami (voice) (uncredited),12
+350312,2375168,Bharani Shankar,(uncredited),13
+350312,1293540,P. Ravi Shankar,Karikala Kattappa Nadar (Voice),14
+137321,72466,Colin Farrell,Peter Lake,0
+137321,567269,Jessica Brown Findlay,Beverly Penn,1
+137321,934,Russell Crowe,Pearly Soames,2
+137321,227,William Hurt,Isaac Penn,3
+137321,6161,Jennifer Connelly,Virginia Gamely,4
+137321,2888,Will Smith,Judge,5
+137321,2639,Eva Marie Saint,Willa (Adult),6
+137321,6804,Graham Greene,Humpstone John,7
+137321,66743,Matt Bomer,Young Man,8
+137321,79072,Kevin Durand,Cesar Tan,9
+137321,18472,Kevin Corrigan,Romeo Tan,10
+137321,205257,Lucy Griffiths,Mrs. Lake,11
+137321,168877,Finn Wittrock,Gabriel,12
+137321,1654649,Neka Zang,Ballroom Dancer,13
+137321,1240648,Michael Crane,Ellis Isle Doctor,14
+137321,77093,Brian Hutchison,Ellis Isle Official,15
+137321,147472,Alan Doyle,Dingy Worthington,16
+137321,1367015,Jon Patrick Walker,Optometrist,17
+137321,1698872,Maurice Jones,Cecil Mature,18
+137321,1698873,Mckayla Twiggs,Young Willa,19
+137321,1656059,Matthew R. Staley,Oyster Boy,20
+137321,35091,Scott Grimes,Carriage Driver,21
+137321,1397945,Brenda Wehle,Governess,22
+137321,1593166,Tom Morrissey,Butler,23
+137321,1437547,Joshua Henry,Gravesman,24
+137321,1648751,Ripley Sobo,Abby,25
+137321,1358986,Maggie Geha,Girl in Bed,26
+137321,42194,Caitlin Dulany,Librarian,27
+137321,145113,Norm Lewis,Custodian,28
+137321,187538,Harriett D. Foy,Receptionist,29
+137321,2843,Rob Campbell,Gwathmi,30
+137321,1001804,Scott Dillin,Grand Central Short Tail,31
+137321,1795363,Luis Augusto Figueroa,Ballroom Dancer,32
+137321,10691,April Grace,Dr. Elizabeth Lee,33
+137321,1527843,Michelle Simone Miller,Humpstone John's Wife,34
+137321,2996704,Aidan Zusin,Immigrant Boy at Ellis Island,35
+14442,1813,Anne Hathaway,Ella,0
+14442,12791,Hugh Dancy,Char,1
+14442,2130,Cary Elwes,Edgar,2
+14442,47653,Aidan McArdle,Slannen,3
+14442,34901,Joanna Lumley,Dame Olga,4
+14442,66446,Lucy Punch,Hattie,5
+14442,64411,Jennifer Higham,Olive,6
+14442,6613,Minnie Driver,Mandy,7
+14442,10713,Eric Idle,Narrator,8
+14442,4581,Steve Coogan,Heston (voice),9
+14442,16756,Jimi Mistry,Benny,10
+14442,2535,Vivica A. Fox,Lucinda,11
+14442,231610,Parminder Nagra,Areida,12
+14442,20070,Jim Carter,Nish,13
+14442,29459,Patrick Bergin,Sir Peter,14
+14442,550833,Donna Dent,Ella's Mother,15
+14442,5135038,Ankita Malkan,Young Areida,16
+14442,5135039,Sally-Ann Tingle,Mean Little Girl,17
+14442,5135041,Aimee Brigg,Ella (Aged 8),18
+14442,1003411,Helen Norton,Prof. Edith,19
+14442,1865563,Emmet Kirwan,Vendor,20
+14442,5135043,Christopher Kelly,Salesman,21
+14442,1888850,Audrey Hamm,Perfume Sprayer,22
+14442,1401544,Mikel Murfi,Mall Cop,23
+14442,1041731,Rory Keenan,Otto,24
+14442,63370,Aonghus Og McAnally,Bluto,25
+14442,210061,Aaron Monaghan,Pug,26
+14442,10584,Heidi Klum,Brumhilda,27
+14442,1890736,Alvaro Lucchesi,Koopooduk,28
+14442,17025,Paraic Breathnach,Ogre No. 2,29
+14442,1728954,Daniel Naprous,Ogre No. 3,30
+14442,53998,Nora-Jane Noone,Fairy No. 1,31
+14442,558272,Pat Kinevane,Make-Up Artist,32
+14442,1428993,Andrea Irvine,Tour Guide,33
+14442,1518967,Merrina Millsapp,Hall of Records Attendant,34
+14442,216819,Amelia Crowley,Fairy Administrator,35
+14442,135095,Pat McGrath,Dungeon Guard,36
+14442,5135048,Susan Mary Ward,Fan Club Girl,37
+14442,61703,Ron Yuan,Red Guard (uncredited),38
+14442,127451,Johnny Tri Nguyen,Red Knight (uncredited),39
+77931,111455,Katy Perry,Smurfette (voice),0
+77931,5587,Hank Azaria,Gargamel,1
+77931,41686,Neil Patrick Harris,Patrick Winslow,2
+77931,34195,Jayma Mays,Grace Winslow,3
+77931,2039,Brendan Gleeson,Victor Doyle,4
+77931,1277188,Jacob Tremblay,Blue Winslow,5
+77931,127130,Nancy O'Dell,Nancy O'Dell,6
+77931,1298569,Karim Babin,Room Service Waiter,7
+77931,1597842,Gaston Morrison,New York Taxi Driver,8
+77931,1303903,Jocelyn Blanchard,Toad Man,9
+77931,182955,Erika Rosenbaum,Pregnant Mom,10
+77931,1447280,Carolina Bartczak,Peanut Mom,11
+77931,80019,James A. Woods,Peanut Father,12
+77931,1121666,Henri Pardo,Father-to-Be,13
+77931,978906,Vanessa Matsui,Mother with Camera,14
+77931,84832,Dusan Dukic,Curious Dad,15
+77931,1296930,Ruth Chiang,Single Mom,16
+77931,1560626,Andy Quesnel,Woman in Box,17
+77931,134182,Mylène Dinh-Robic,Hotel Assistant Manager,18
+77931,2555564,Martin-Guy Bélanger,Hotel Sous-chef,19
+77931,1296769,Robert Reynaert,Candy Man,20
+77931,102742,Patrick Sabongui,Candy Man,21
+77931,1700845,Martin St-Antoine,Tourist with Coffee Cup,22
+77931,104730,Patrick Baby,Palais Garnier Security Guard,23
+77931,2555565,Joshua Spreekmeester,Peanut Kid,24
+77931,999791,Bruno Paviot,Hotel Desk Manager,25
+77931,1723543,Gunther Love,Cat Man in Audience,26
+77931,2555567,Gaëlle Pietri,Pregnant Model,27
+77931,1942933,Janicke Askevold,Pregnant Model,28
+77931,101014,Beatrice Rosen,Pregnant Model,29
+77931,1176098,Mathilde Snodgrass,Pregnant Model,30
+77931,1319090,Mr. Krinkle,Azrael,31
+77931,2114028,Hank,Elway,32
+77931,6886,Christina Ricci,Vexy (voice),33
+77931,13593,Jonathan Winters,Papa Smurf (voice),34
+77931,65920,JB Smoove,Hackus (voice),35
+77931,41798,George López,Grouchy Smurf (voice),36
+77931,21028,Anton Yelchin,Clumsy Smurf (voice),37
+77931,84292,John Oliver,Vanity Smurf (voice),38
+77931,15831,Frank Welker,Azrael (voice),39
+77931,71535,Tom Kane,Narrator Smurf (voice),40
+77931,61110,Fred Armisen,Brainy Smurf (voice),41
+77931,60736,Jeff Foxworthy,Handy Smurf (voice),42
+77931,10697,Alan Cumming,Gutsy Smurf (voice),43
+77931,96228,Gary Basaraba,Hefty Smurf (voice),44
+77931,21402,Adam Wylie,Panicky Smurf (voice),45
+77931,12223,Joel McCrary,Farmer Smurf (voice),46
+77931,77330,Kenan Thompson,Greedy Smurf (voice),47
+77931,1768897,Kevin Lee,Party Planner Smurf (voice),48
+77931,5129,Paul Reubens,Jokey Smurf (voice),49
+77931,35806,Shaquille O'Neal,Smooth Smurf (voice),50
+77931,107770,B. J. Novak,Baker Smurf (voice),51
+77931,78303,Jimmy Kimmel,Passive-Aggressive Smurf (voice),52
+77931,127963,Shaun White,Clueless Smurf (voice),53
+77931,19185,Mario López,Social Smurf (voice),54
+77931,31365,John Kassir,Crazy Smurf (voice),55
+77931,2504206,Sean Kenin,Smurf Voice #1 (voice),56
+77931,1790320,Patricia Summersett,Smurf Voice #2 (voice),57
+1226863,73457,Chris Pratt,Mario (voice),0
+1226863,95101,Charlie Day,Luigi (voice),1
+1226863,1397778,Anya Taylor-Joy,Princess Peach (voice),2
+1226863,70851,Jack Black,Bowser (voice),3
+1226863,298410,Keegan-Michael Key,Toad (voice),4
+1226863,227564,Benny Safdie,Bowser Jr. (voice),5
+1226863,119589,Donald Glover,Yoshi (voice),6
+1226863,40481,Luis Guzmán,Wart (voice),7
+1226863,1455336,Issa Rae,Honey Queen (voice),8
+1226863,24362,Kevin Michael Richardson,Kamek (voice),9
+1226863,60073,Brie Larson,Rosalina (voice),10
+1226863,83271,Glen Powell,Fox McCloud (voice),11
+1226863,3976319,Juliet Jelenic,Lumalee (voice),12
+1226863,1208179,Ed Skudder,R.O.B. (voice),13
+1226863,98292,Roxana Ortega,Ukiki (voice),14
+1226863,6114304,Virginia Dare Jelenic,Yellow Luma (voice),15
+1226863,89599,Eric Bauza,Toad General / Pajama Toad (voice),16
+1226863,59784,Carlos Alazraqui,Additional Voices (voice),17
+1226863,64450,Hope Levy,Additional Voices (voice),18
+1226863,3298731,Monia Ayachi,Additional Voices (voice),19
+1226863,2581798,Ashley London,Additional Voices (voice),20
+1226863,1507852,Ryan Bartley,Additional Voices (voice),21
+1226863,184082,Eric Lopez,Additional Voices (voice),22
+1226863,1573215,Rachel Butera,Additional Voices (voice),23
+1226863,113916,Scott Menville,Additional Voices (voice),24
+1226863,94820,Jessica DiCicco,Additional Voices (voice),25
+1226863,35159,Laraine Newman,Additional Voices (voice),26
+1226863,1684502,Johnny Gidcomb,Additional Voices (voice),27
+1226863,159720,Matt Nolan,Additional Voices (voice),28
+1226863,1002409,Danielle Hartnett,Additional Voices (voice),29
+1226863,1536923,Eric E. Osmond,Additional Voices (voice),30
+1226863,6138835,Elijah Hoffman,Additional Voices (voice),31
+1226863,1865803,Isaac Robinson-Smith,Additional Voices (voice),32
+1226863,6138839,Skai Hoffman,Additional Voices (voice),33
+1226863,3557263,Sean Rohani,Additional Voices (voice),34
+1226863,113901,Michael Jelenic,Additional Voices (voice),35
+1226863,110799,Rino Romano,Additional Voices (voice),36
+1226863,6138843,Pepper Jelenic,Additional Voices (voice),37
+1226863,60279,Fred Tatasciore,Additional Voices (voice),38
+1226863,1541380,JP Karliak,Additional Voices (voice),39
+1226863,1141368,Kiff VandenHeuvel,Additional Voices (voice),40
+1226863,149525,Susan Leslie,Additional Voices (voice),41
+1226863,71520,Scott Whyte,Additional Voices (voice),42
+1226863,94022,Matthew Wolf,Additional Voices (voice),43
+1226863,1844892,Forrest Forte,Additional Voices (voice),44
+503919,11288,Robert Pattinson,Thomas Howard,0
+503919,5293,Willem Dafoe,Thomas Wake,1
+503919,2309944,Valeriia Karaman,Mermaid,2
+503919,2507696,Logan Hawkes,Ephraim Winslow,3
+503919,2507697,Kyla Nicolle,Woman on the Rocks,4
+503919,1520954,Shaun Clarke,Departing Wickie,5
+503919,1583204,Pierre Richard,Departing Assistant Wickie,6
+503919,2248893,Preston Hudson,Tender Mate,7
+503919,2507699,Jeff Cruts,Tender Mate,8
+503919,5895151,Sully Seagull,Seagull,9
+26736,77948,Selena Gomez,Alex Russo,0
+26736,95136,David Henrie,Justin Russo,1
+26736,60255,Jake T. Austin,Max Russo,2
+26736,85759,Maria Canals-Barrera,Theresa Russo,3
+26736,97600,David DeLuise,Jerry Russo,4
+26736,78311,Steve Valentine,Archie,5
+26736,180327,Jennifer Alden,Giselle,6
+26736,1636951,Xavier Torres,Javier,7
+26736,142108,Jennifer Stone,Harper Finkle,8
+26736,1350652,Jazmin Caratini,Bartender,9
+26736,126102,Jonathan Dwayne,Activities Director,10
+26736,107041,Marisé Álvarez,Greeter,11
+26736,3781197,Bettina Mercado,Woman in Village #1,12
+26736,1499888,Veraalba Santa,Woman in Village #2,13
+26736,3781202,Gabriela Rosario,Village Girl,14
+26736,2093690,Nicole Díaz,Flirting Woman (uncredited),15
+10351,79584,Angus Scrimm,Narrator (voice),0
+10351,36218,Andrew Divoff,The Djinn,1
+10351,64932,Tammy Lauren,Alexandra Amberson,2
+10351,5139,Robert Englund,Raymond Beaumont,3
+10351,184325,Ari Barak,Zoroaster,4
+10351,555328,Jake McKinnon,Skeleton Man,5
+10351,555329,Greg Funk,Snake Man,6
+10351,149507,Richard Assad,Persian King,7
+10351,11769,Ted Raimi,Ed Finney,8
+10351,11750,Dan Hicks,Customs Official,9
+10351,54855,Joseph Pilato,Mickey Torelli,10
+10351,2832808,Tom Kendall,Etchison,11
+10351,84400,John Byner,Doug Clegg,12
+10351,153916,Wendy Benson-Landes,Shannon Amberson,13
+10351,64933,Chris Lemmon,Nick Merritt,14
+10351,167261,Tony Crane,Josh Aickman,15
+10351,2267547,Ashley Power Garner,Sierra (as Ashley Power),16
+10351,10987,Verne Troyer,Creature Stage #1,17
+10351,115244,Walter Phelan,Creature Stage #2,18
+10351,10212,Ricco Ross,Lt. Nathanson,19
+10351,54564,George Buck Flower,Homeless Man,20
+10351,97939,Reggie Bannister,Pharmacist,21
+10351,104926,Peter Liapis,Pharmacy Customer #1,22
+10351,97905,Frank Nicotero,Pharmacy Customer #2,23
+10351,51996,Brian Klugman,Medical Student,24
+10351,4734,Jenny O'Hara,Wendy Derleth,25
+10351,119884,Gretchen Palmer,Ariella,26
+10351,154395,Jean St. James,Female Customer,27
+10351,2832809,Azita Azar,Student with Mask,28
+10351,1536778,Joe Svezia,Uniformed Cop,29
+10351,62596,Kane Hodder,Merritt's Guard,30
+10351,19384,Tony Todd,Johnny Valentine,31
+10351,167999,Cyndi Pass,Glass Woman,32
+10351,11419,Robert Kurtzman,Piano Wire Guy (uncredited),33
+10351,133291,Betty McGuire,Mrs. Merritt,34
+10351,96900,Renee Faia,Insurance Assistant,35
+10351,107372,Howard Berger,Party Guard #1,36
+10351,6007212,Robert Jacob,Party Guard #2,37
+10351,6007215,Brad Mead,Cop at Blackwood,38
+950387,117642,Jason Momoa,Garrett,0
+950387,70851,Jack Black,Steve,1
+950387,2680307,Sebastian Eugene Hansen,Henry,2
+950387,2604515,Emma Myers,Natalie,3
+950387,1075037,Danielle Brooks,Dawn,4
+950387,38334,Jennifer Coolidge,Vice Principal Marlene,5
+950387,15298,Rachel House,Malgosha (voice),6
+950387,1207281,Allan Henry,Malgosha (Creature Performer),7
+950387,5345339,Bram Scott-Breheny,Young Steve,8
+950387,5345340,Moana Williams,Young Garrett,9
+950387,55936,Jemaine Clement,Daryl / Bruce (voice),10
+950387,81881,Mark Wright,HR Person,11
+950387,1542446,Yvette Parsons,Delivery Person,12
+950387,5347305,Hiram Garcia,Mr. Gunchie,13
+950387,105584,Bret McKenzie,Nitwit Onset Performer,14
+950387,53925,Jared Hess,General Chungus (voice),15
+950387,5234074,Batanai Mashingaidze,Matty the Waitress,16
+950387,1236969,Amanda Billing,Henry's Mother,17
+950387,5345349,Tommy Broadmore,Trevor,18
+950387,2155937,Frankie Creagh-Leslie,Trevor's Friend,19
+950387,1506181,Alison Quigan,Chuggy Executive #1,20
+950387,1505864,John Smythe,Chuggy Executive #2,21
+950387,5345354,Alex Tunui,Secretary,22
+950387,5345357,Craig Mckinney,Miner,23
+950387,5345359,Joel Rindelaub,Arcade Judge,24
+950387,5345362,Antony Degreat,Gamer #1,25
+950387,5345364,Victor Kazaroho,Gamer #2,26
+950387,5345368,Ben Carpenter,Henry Picture Double,27
+950387,5345369,Rowan Bacal,Greta,28
+950387,5345370,Brennan Standing,Lee,29
+950387,5345371,Dylan Chitekwe,Miles,30
+950387,1488236,Matt Berry,Nitwit (voice),31
+950387,2089332,Alice May Connolly,Alex Double,32
+950387,1165391,Jens Bergensten,Waiter,33
+950387,4503356,Oliver Brotherhood,Auction Attendee,34
+950387,2932608,Daniel Middleton,Auction Attendee,35
+950387,3819595,Elizabeth Batty,Auction Attendee,36
+950387,5338345,Jessica Bravura,Auction Attendee,37
+950387,1240487,Kate McKinnon,Alex (voice) (uncredited),38
+1542261,1241939,Wasabi Mizuta,Doraemon (voice),0
+1542261,932986,Megumi Oohara,Nobita (voice),1
+1542261,9715,Yumi Kakazu,Shizuka (voice),2
+1542261,1142780,Subaru Kimura,Gian (voice),3
+1542261,90567,Tomokazu Seki,Suneo (voice),4
+1542261,1429141,Shoya Chiba,Eru (voice),5
+1542261,230747,Ryo Hirohashi,Underwater Buggy (voice),6
+118,85,Johnny Depp,Willy Wonka,0
+118,1281,Freddie Highmore,Charlie Bucket,1
+118,1282,David Kelly,Grandpa Joe,2
+118,1283,Helena Bonham Carter,Mrs. Bucket,3
+118,1284,Noah Taylor,Mr. Bucket,4
+118,1294,Missi Pyle,Mrs. Beauregarde,5
+118,1292,James Fox,Mr. Salt,6
+118,1295,Deep Roy,Oompa Loompa,7
+118,113,Christopher Lee,Dr. Wonka,8
+118,23429,Adam Godley,Mr. Teavee,9
+118,1293,Franziska Troegner,Mrs. Gloop,10
+118,1285,AnnaSophia Robb,Violet Beauregarde,11
+118,1286,Julia Winter,Veruca Salt,12
+118,1290,Jordan Fry,Mike Teavee,13
+118,1291,Philip Wiegratz,Augustus Gloop,14
+118,1580130,Blair Dunlop,Little Willy Wonka,15
+118,7320,Liz Smith,Grandma Georgina,16
+118,52313,Eileen Essell,Grandma Josephine,17
+118,1815747,David Morris,Grandpa George,18
+118,58776,Nitin Ganatra,Prince Pondicherry,19
+118,73707,Shelley Conn,Princess Pondicherry,20
+118,1588373,Chris Cresswell,Prodnose,21
+118,1518112,Philip Philmar,Slugworth,22
+118,568396,Tony Kirwood,Finckelgruber,23
+118,17354,Todd Boyce,TV Reporter,24
+118,174698,Nayef Rashed,Moroccan Market Vendor,25
+118,2275519,Menis Yousry,Moroccan Market Trader,26
+118,1815748,Harry Taylor,Mr. Gloop,27
+118,1563389,Hubertus Geller,German Reporter,28
+118,1370651,Francesca Hunt,Mrs. Salt,29
+118,17356,Garrick Hagon,Denver Reporter,30
+118,39185,Kevin Eldon,Man with Dog,31
+118,47712,Mark Heap,Man with Dog,32
+118,7029,Roger Frost,Tall Man,33
+118,184997,Oscar James,Shopkeeper,34
+118,1709356,Colette Appleby,Customer in Shop,35
+118,49346,Debora Weston,Woman in Shop,36
+118,30320,Annette Badland,Jolly Woman,37
+118,1845393,Steve Hope Wynne,Museum Guard,38
+118,10225,Geoffrey Holder,Narrator (voice),39
+118,2275521,Elena Buda,Character Dancer (uncredited),40
+118,2195057,Rene Costa,Factory Worker (uncredited),41
+118,531,Danny Elfman,Oompa Loompa (voice) (uncredited),42
+118,117526,Aiko Horiuchi,Woman in shop (uncredited),43
+118,1093974,Brigitte Millar,Journalist (uncredited),44
+118,2437979,Valery Richardson,Zombie Dancer (uncredited),45
+118,1209055,John Warman,Policeman (uncredited),46
+118,1496074,Tracy Yarkoni,Violet's Neighbor (uncredited),47
+118,3890737,Jynine James,Salts Nuts Girl (Uncredited),48
+120,109,Elijah Wood,Frodo,0
+120,1327,Ian McKellen,Gandalf,1
+120,110,Viggo Mortensen,Aragorn,2
+120,1328,Sean Astin,Sam,3
+120,65,Ian Holm,Bilbo,4
+120,882,Liv Tyler,Arwen,5
+120,113,Christopher Lee,Saruman,6
+120,48,Sean Bean,Boromir,7
+120,1329,Billy Boyd,Pippin,8
+120,1330,Dominic Monaghan,Merry,9
+120,655,John Rhys-Davies,Gimli,10
+120,114,Orlando Bloom,Legolas,11
+120,112,Cate Blanchett,Galadriel,12
+120,1331,Hugo Weaving,Elrond,13
+120,1333,Andy Serkis,Gollum,14
+120,20982,Marton Csokas,Celeborn,15
+120,1332,Craig Parker,Haldir,16
+120,1365,Lawrence Makoare,Lurtz,17
+120,1590835,Brent McIntyre,Witch-King,18
+120,1366,Sala Baker,Sauron,19
+120,2032189,Peter McKenzie,Elendil,20
+120,1217771,Mark Ferguson,Gil-Galad,21
+120,122441,Harry Sinclair,Isildur,22
+120,585902,Noel Appleby,Everard Proudfoot,23
+120,1201328,Megan Edwards,Mrs. Proudfoot,24
+120,965278,Sarah McLeod,Rosie Cotton,25
+120,1142191,David Weatherley,Barliman Butterbur,26
+120,7255,Ian Mune,Bounder,27
+120,1590834,Michael Elsworth,Gondorian Archivist,28
+120,5540,Cameron Rhodes,Farmer Maggot,29
+120,173370,Martyn Sanderson,Gate Keeper,30
+120,1201351,Billy Jackson,Cute Hobbit Child,31
+120,2082669,Katie Jackson,Cute Hobbit Child,32
+120,1367,Alan Howard,The Ring (voice),33
+120,1201337,Victoria Beynon-Cole,Hero Orc / Goblin / Uruk-hai / Ringwraith,34
+120,2082666,Lee Hartley,Hero Orc / Goblin / Uruk-hai / Ringwraith,35
+120,2082762,Sam La Hood,Hero Orc / Goblin / Uruk-hai / Ringwraith,36
+120,2082763,Chris Streeter,Hero Orc / Goblin / Uruk-hai / Ringwraith,37
+120,1511634,Phil Grieve,Hero Orc / Goblin / Uruk-hai / Ringwraith,38
+120,1201342,Jonathan Jordan,Hero Orc / Goblin / Uruk-hai / Ringwraith,39
+120,2082764,Semi Kuresa,Hero Orc / Goblin / Uruk-hai / Ringwraith,40
+120,1361093,Clinton Ulyatt,Hero Orc / Goblin / Uruk-hai / Ringwraith,41
+120,2082765,Paul Bryson,Hero Orc / Goblin / Uruk-hai / Ringwraith,42
+120,2082766,Lance Fabian Kemp,Hero Orc / Goblin / Uruk-hai / Ringwraith,43
+120,2082767,Jono Manks,Hero Orc / Goblin / Uruk-hai / Ringwraith,44
+120,2082768,Ben Price,Hero Orc / Goblin / Uruk-hai / Ringwraith,45
+120,108,Peter Jackson,Albert Dreary / Painting of Bungo Baggins (uncredited),46
+120,2612649,Chris Ryan,Breelander (uncredited),47
+120,105584,Bret McKenzie,Figwit (uncredited),48
+120,2832838,Betty Adams,Hobbit (uncredited),49
+120,67126,Timothy Bartlett,Hobbit (uncredited),50
+120,2832843,Bob Blackwell,Hobbit (uncredited),51
+120,2832859,David Houma,Hobbit (uncredited),52
+120,2832881,Jo Surgison,Hobbit (uncredited),53
+120,2082772,Liz Merton,Hobbit Band Member (uncredited),54
+120,2082770,Zo Hartley,Kissing Hobbit (uncredited),55
+120,2082753,Norman Cates,Party Hobbit (uncredited),56
+120,2700505,Jeff Kingsford-Brown,Party Hobbit (uncredited),57
+120,2832869,Marta Martí,Village Female Hobbit (uncredited),58
+120,2082708,Riley Brophy,Cute Hobbit Child (uncredited),59
+120,2295305,Phoebe Gittins,Cute Hobbit Child (uncredited),60
+120,2082771,Taea Hartwell,Cute Hobbit Child (uncredited),61
+120,25134,Shane Rangi,Witch-King (uncredited),62
+120,173451,Jed Brophy,Ringwraith (uncredited),63
+120,1440657,Paul Shapcott,Burning Ringwraith (uncredited),64
+120,1320,Alan Lee,Ring King of Men (uncredited),65
+120,1390005,Larry Rew,Ring King of Men (uncredited),66
+120,8682,Gino Acevedo,Ring Dwarf-Lord (uncredited),67
+120,2082756,Xander Forterie,Ring Dwarf-Lord (uncredited),68
+120,2832872,Richard Maybery,Ring Dwarf-Lord (uncredited),69
+120,1193021,Sabine Crossen,Rivendell Elf (uncredited),70
+120,2082695,Gareth Jensen,Rivendell Elf (uncredited),71
+120,2082679,Ben Britton,Last Alliance Elf / Rivendell Elf (uncredited),72
+120,2082662,Kester Fordham,Last Alliance Elf / Rivendell Elf (uncredited),73
+120,2082709,Jarl Benzon,Last Alliance Elf (uncredited),74
+120,2082705,Sam Kelly,Last Alliance Elf / Council Elf  (uncredited),75
+120,1424596,Matt Appleton,Council Elf (uncredited),76
+120,2832876,Blair Morton,Council Elf (uncredited),77
+120,2089833,Ray Henwood,Council Man (uncredited),78
+120,2832861,Ralph Johnson,Council Man / Orc (uncredited),79
+120,2082755,Jonathan Harding,Council Elf / Lothlorien Elf (uncredited),80
+120,2082697,Jørn Benzon,Lothlorien Elf (uncredited),81
+120,1439931,Ben Fransham,Lothlorien Elf / Goblin / Uruk-hai (uncredited),82
+120,2537855,Tim Kano,Gondorian Citizen (uncredited),83
+120,2832866,Sacha Lee,Arms of Gollum (uncredited),84
+120,1383,Thomas Robins,Hand of Gollum (uncredited),85
+120,1452721,Randall William Cook,Cave Troll (uncredited),86
+120,582967,Rachel Clentworth,Goblin (uncredited),87
+120,1802028,Lani Jackson,Goblin (uncredited),88
+120,2832870,Sharon Maxwell,Goblin (uncredited),89
+120,2060839,David J. Muzzerall,Goblin (uncredited),90
+120,2505313,Winham Hammond,Goblin / Orc / Uruk-hai (uncredited),91
+120,1774435,Mana Hira Davis,Goblin / Orc / Uruk-hai (uncredited),92
+120,2832858,Warren Green,Isengard Orc Blacksmith (uncredited),93
+120,2832863,Stu Johnson,Isengard Orc Blacksmith (uncredited),94
+120,1771750,Peter Lyon,Isengard Orc Blacksmith (uncredited),95
+120,1226770,Peter Daube,Khai (uncredited),96
+120,2082732,Samuel E. Shore,Refugee / Orc (uncredited),97
+120,565361,Rodney Bane,Orc (uncredited),98
+120,1140092,Siaosi Fonua,Orc / Uruk-hai (uncredited),99
+120,2832880,Ken Stratton,Isengard Orc / Last Alliance Soldier / Morgul Orc / Uruk-hai (uncredited),100
+120,2832842,Lynden Berrymen,Uruk-hai at Amon Hen (uncredited),101
+120,1964391,Ryan Carey,Uruk-hai (uncredited),102
+120,2832845,Tack Daniel,Uruk-hai (uncredited),103
+120,1434944,Shane Dawson,Uruk-hai (uncredited),104
+120,2832897,Branko Dordevich,Uruk-hai (uncredited),105
+120,2832865,Greg Lane,Uruk-Hai (uncredited),106
+120,235025,Tim McLachlan,Uruk-hai (uncredited),107
+120,1947882,Dean Morganty,Uruk-hai (uncredited),108
+120,2832875,Greg Morrison,Uruk-hai (uncredited),109
+120,1399794,Andrew Munro,Uruk-hai (uncredited),110
+120,15296,Grant Roa,Uruk-hai (uncredited),111
+120,1828292,Vincent Roxburgh,Uruk-hai (uncredited),112
+120,2832879,Mike Stearne,Uruk-hai (uncredited),113
+120,1200415,Andrew Stehlin,Uruk-hai (uncredited),114
+120,226504,Tim Wong,Uruk-hai (uncredited),115
+120,1972757,Daniel Andrews,Orc / Uruk-hai (uncredited),116
+121,109,Elijah Wood,Frodo,0
+121,1327,Ian McKellen,Gandalf,1
+121,110,Viggo Mortensen,Aragorn,2
+121,1328,Sean Astin,Sam,3
+121,1333,Andy Serkis,Gollum,4
+121,655,John Rhys-Davies,Gimli / Treebeard (voice),5
+121,114,Orlando Bloom,Legolas,6
+121,1369,Bernard Hill,Théoden,7
+121,502,Miranda Otto,Éowyn,8
+121,1330,Dominic Monaghan,Merry,9
+121,1329,Billy Boyd,Pippin,10
+121,113,Christopher Lee,Saruman,11
+121,112,Cate Blanchett,Galadriel,12
+121,882,Liv Tyler,Arwen,13
+121,1331,Hugo Weaving,Elrond,14
+121,1371,David Wenham,Faramir,15
+121,1370,Brad Dourif,Wormtongue,16
+121,1372,Karl Urban,Éomer,17
+121,1332,Craig Parker,Haldir,18
+121,173431,Bruce Allpress,Aldor,19
+121,29094,John Bach,Madril,20
+121,1366,Sala Baker,Man Flesh Uruk,21
+121,173451,Jed Brophy,Sharku / Snaga,22
+121,1892757,Sam Comery,Eothain,23
+121,1356914,Calum Gittins,Haleth,24
+121,1511634,Phil Grieve,Hero Orc,25
+121,1214345,Bruce Hopkins,Gamling,26
+121,2082663,Paris Howe Strewe,Théodred,27
+121,41784,Nathaniel Lees,Ugluk,28
+121,76851,John Leigh,Háma,29
+121,76834,Robbie Magasiva,Mauhúr,30
+121,125938,Robyn Malcolm,Morwen,31
+121,29082,Bruce Phillips,Rohan Soldier,32
+121,129394,Robert Pollock,Mordor Orc,33
+121,941439,Olivia Tennet,Freda,34
+121,156371,Raymond Trickitt,Bereg,35
+121,1440014,Stephen Ure,Grishnakh,36
+121,1201351,Billy Jackson,Cute Rohan Refugee Child,37
+121,2082669,Katie Jackson,Cute Rohan Refugee Child,38
+121,1201337,Victoria Beynon-Cole,Hero Orc (uncredited),39
+121,2082666,Lee Hartley,Hero Orc (uncredited),40
+121,2155635,Frazer Anderson,Orc / Ranger (uncredited),41
+121,1641201,Ben Barrington,Gondorian Soldier / Ranger / Orc (uncredited),42
+121,2082709,Jarl Benzon,Elf Warrior / Rohan Stable Boy (uncredited),43
+121,2082697,Jørn Benzon,Orolonn (uncredited),44
+121,173500,Owen Black,Rivendell Elf (uncredited),45
+121,2082710,Dorothy Anne Bonner,Rohan Woman (uncredited),46
+121,2082679,Ben Britton,Fereveldir (uncredited),47
+121,2082708,Riley Brophy,Rohan Refugee Child (uncredited),48
+121,186469,Alistair Browning,Damrod (uncredited),49
+121,571568,Alix Bushnell,Rohan Refugee (uncredited),50
+121,1447518,Sean Button,Uruk-hai (uncredited),51
+121,1964391,Ryan Carey,Uruk-hai (uncredited),52
+121,1628130,Rodney Cook,Uruk-hai (uncredited),53
+121,1079558,Augie Davis,Uruk-hai (uncredited),54
+121,1774435,Mana Hira Davis,Gondorian Soldier / Harad Warrior / Orc / Rohan Soldier / Uruk-hai (uncredited),55
+121,1434944,Shane Dawson,Harad Warrior / Uruk-hai (uncredited),56
+121,558300,Karlos Drinkwater,Easterling Warrior (uncredited),57
+121,132632,Aron Eastwood,Rohan Soldier (uncredited),58
+121,1064428,Frank Edwards,Rohan Man (uncredited),59
+121,2095537,Clint Elvy,Harad Warrior (uncredited),60
+121,1475104,Alexia Fairbrother,Elf Warrior (uncredited),61
+121,2082714,Daniel Falconer,Elf Warrior / Rivendell Elf (uncredited),62
+121,1140092,Siaosi Fonua,Orc / Uruk-hai (uncredited),63
+121,2082662,Kester Fordham,Anglor (uncredited),64
+121,2595022,Michael Fowler,Elf (uncredited),65
+121,1439931,Ben Fransham,Anendel / Thandronen (uncredited),66
+121,2082718,Frank Goldingham,Rohan Refugee (uncredited),67
+121,2505313,Winham Hammond,Uruk-hai (uncredited),68
+121,2082755,Jonathan Harding,Elf Warrior (uncredited),69
+121,1232268,Lucas Hayward,Rohan Boy (uncredited),70
+121,1373,Dan Hennah,Rohan Recruit (uncredited),71
+121,1292753,Jason Hood,Théoden's Royal Guard (uncredited),72
+121,1802028,Lani Jackson,Uruk-hai (uncredited),73
+121,108,Peter Jackson,Spear-Throwing Rohan Soldier (uncredited),74
+121,2082695,Gareth Jensen,Elf Warrior (uncredited),75
+121,2082705,Sam Kelly,Elf Warrior / Uruk-hai (uncredited),76
+121,67134,Richard Knowles,Rohan Soldier (uncredited),77
+121,1674266,Sandro Kopp,Elven Warrior (uncredited),78
+121,2082762,Sam La Hood,Orc Pitmaster (uncredited),79
+121,2553583,Don Langridge,Rohan Guard (uncredited),80
+121,2531569,Michael Lawrence,Wildman (uncredited),81
+121,1320,Alan Lee,Rohan Recruit (uncredited),82
+121,1349014,Dra McKay,Rohan Woman (uncredited),83
+121,1201399,Joseph Mika-Hunt,Uruk-hai / Gondorian Soldier (uncredited),84
+121,1947882,Dean Morganty,Haradrim Warrior / Ranger / Uruk-hai (uncredited),85
+121,2082731,Henry Mortensen,Rohan Boy Recruit (uncredited),86
+121,1702561,Francis Mountjoy,Elf / Gondorian Soldier / Orc / Uruk-hai (uncredited),87
+121,1382,Paul Norell,Easterling (uncredited),88
+121,123,Barrie M. Osborne,Rock-throwing Rohan Soldier (uncredited),89
+121,132639,Allan Poppleton,Uruk-hai (uncredited),90
+121,235023,Gareth Reeves,Fighting Elf (uncredited),91
+121,1016177,Miranda Rivers,Rohan Refugee (uncredited),92
+121,1399823,Campbell Rousselle,Tree-cutting Orc (uncredited),93
+121,1340023,Matthew J. Saville,Gondorian Soldier (uncredited),94
+121,2082732,Samuel E. Shore,Rohan Refugee / Elf (uncredited),95
+121,1484140,Allan Smith,Dead Marshes Elf (uncredited),96
+121,2082734,Greg Tozer,Conscripting Rohan Soldier (uncredited),97
+121,236710,Piripi Waretini,Uruk-hai Warrior (uncredited),98
+121,226504,Tim Wong,Uruk-hai (uncredited),99
+121,1097645,John Wraight,Stable Hand (uncredited),100
+121,1961636,Kelley Kerr Young,Rohan Refugee (uncredited),101
+121,122356,Robert Young,Uruk-hai (uncredited),102
+121,1232250,Caleb Ross,Rohan Helms Deep Warrior (uncredited),103
+121,48,Sean Bean,Boromir (uncredited),104
+121,1381,John Noble,Denethor (Extended Cut),105
+122,109,Elijah Wood,Frodo,0
+122,1327,Ian McKellen,Gandalf,1
+122,110,Viggo Mortensen,Aragorn,2
+122,1328,Sean Astin,Sam,3
+122,1333,Andy Serkis,Gollum / Smeagol,4
+122,1330,Dominic Monaghan,Merry,5
+122,1329,Billy Boyd,Pippin,6
+122,1381,John Noble,Denethor,7
+122,1371,David Wenham,Faramir,8
+122,502,Miranda Otto,Éowyn,9
+122,1369,Bernard Hill,Théoden,10
+122,655,John Rhys-Davies,Gimli,11
+122,114,Orlando Bloom,Legolas,12
+122,1331,Hugo Weaving,Elrond,13
+122,882,Liv Tyler,Arwen,14
+122,112,Cate Blanchett,Galadriel,15
+122,1372,Karl Urban,Éomer,16
+122,65,Ian Holm,Bilbo,17
+122,48,Sean Bean,Boromir,18
+122,1365,Lawrence Makoare,Witchking / Gothmog,19
+122,20982,Marton Csokas,Celeborn,20
+122,1382,Paul Norell,King of the Dead,21
+122,585902,Noel Appleby,Everard Proudfoot,22
+122,965278,Sarah McLeod,Rosie Cotton,23
+122,1739002,Ali Astin,Elanor Gamgee,24
+122,1440015,Maisy McLeod-Riera,Baby Gamgee,25
+122,9383,David Aston,Gondorian Soldier 3,26
+122,29094,John Bach,Madril,27
+122,1668317,Sadwyn Brophy,Eldarion,28
+122,186469,Alistair Browning,Damrod,29
+122,2089079,Richard Edge,Gondorian Soldier 1,30
+122,1186354,Jason Fitch,Uruk 2,31
+122,1214345,Bruce Hopkins,Gamling,32
+122,75256,Ian Hughes,Irolas,33
+122,105584,Bret McKenzie,Elf Escort,34
+122,29082,Bruce Phillips,Grimbold,35
+122,25134,Shane Rangi,Harad Leader 2,36
+122,1336161,Todd Rippon,Harad Leader 1,37
+122,1383,Thomas Robins,Déagol,38
+122,122441,Harry Sinclair,Isildur,39
+122,186448,Peter Tait,Shagrat,40
+122,41785,Joel Tobeck,Orc Lieutenant 1,41
+122,1440014,Stephen Ure,Gorbag,42
+122,1366,Sala Baker,Featured Orc,43
+122,129394,Robert Pollock,Featured Orc,44
+122,173384,Ross Duncan,Featured Orc,45
+122,7249,Pete Smith,Featured Orc,46
+122,173451,Jed Brophy,Featured Orc,47
+122,2082666,Lee Hartley,Featured Orc,48
+122,1201351,Billy Jackson,Featured Child,49
+122,2082669,Katie Jackson,Featured Child,50
+122,1367,Alan Howard,The Ring (voice),51
+122,2089117,Jane Abbott,Coronation Elf (uncredited),52
+122,8682,Gino Acevedo,Corsair of Umbar (uncredited),53
+122,2089118,Aidan Bell,Orc (uncredited),54
+122,2082709,Jarl Benzon,Coronation Elf (uncredited),55
+122,2082697,Jørn Benzon,Rivendell Elf (uncredited),56
+122,2089102,Emma Deakin,Diamond of Long Cleave (uncredited),57
+122,1590834,Michael Elsworth,Círdan the Shipwright (uncredited),58
+122,2095537,Clint Elvy,Haradrim Warrior (uncredited),59
+122,2082770,Zo Hartley,Orc Helper (uncredited),60
+122,108,Peter Jackson,Corsair Bosun (uncredited),61
+122,1674266,Sandro Kopp,Coronation Elf (uncredited),62
+122,1313,Andrew Lesnie,Corsair of Umbar (uncredited),63
+122,1201399,Joseph Mika-Hunt,Orc (uncredited),64
+122,2082731,Henry Mortensen,Pelennor Orc (uncredited),65
+122,1332,Craig Parker,Gothmog / Orc Lieutenant 1 (voice) (uncredited),66
+122,1477006,Rick Porras,Corsair of Umbar / Beacon Guard (uncredited),67
+122,1419579,Christian Rivers,Corsair of Umbar / Beacon Guard (uncredited),68
+122,1378828,Michael Semanick,Drinking Rohan Soldier (uncredited),69
+122,117,Howard Shore,Drinking Rohan Soldier (uncredited),70
+122,15869,John Stephenson,Witchking (voice) (uncredited),71
+122,1323,Richard Taylor,Corsair of Umbar (uncredited),72
+122,1191103,Royd Tolkien,Gondorian Ranger (uncredited),73
+122,2082705,Sam Kelly,Coronation Elf/Gondorian Soldier (uncredited),74
+123,16270,Christopher Guard,Frodo (voice),0
+123,16271,William Squire,Gandalf (voice),1
+123,16272,Michael Scholes,Sam (voice),2
+123,5049,John Hurt,Aragorn (voice),3
+123,16273,Simon Chandler,Merry (voice),4
+123,16274,Dominic Guard,Pippin (voice),5
+123,16380,Michael Graham Cox,Boromir (voice),6
+123,6,Anthony Daniels,Legolas (voice),7
+123,16381,David Buck,Gimli (voice),8
+123,16275,Norman Bird,Bilbo (voice),9
+123,16382,Peter Woodthorpe,Gollum (voice),10
+123,16383,Fraser Kerr,Saruman (voice),11
+123,694,Philip Stone,Theoden (voice),12
+123,10029,André Morell,Elrond (voice),13
+123,55688,Annette Crosbie,Galadriel (voice),14
+123,111330,Michael Deacon,Wormtongue (voice),15
+123,101512,John Westbrook,Treebeard (voice),16
+123,12828,Alan Tilvern,Innkeeper (voice),17
+123,12659,Billy Barty,Character Actor (voice),18
+123,127193,Jerry Maren,Character Actor (voice),19
+123,114232,Chuck Hayward,Character Actor (voice),20
+123,18889,Mic Rodgers,Character Actor (voice),21
+123,141450,Mel Smith,Character Actor (voice),22
+123,1710769,Peter Risch,Character Actor (voice),23
+147576,1018900,Nobuyo Oyama,Doraemon (voice),0
+147576,1018899,Noriko Ohara,Nobita (voice),1
+147576,1018898,Michiko Nomura,Shizuka (voice),2
+147576,1238594,Kaneta Kimotsuki,Suneo (voice),3
+147576,1037843,Kazuya Tatekabe,Gian (voice),4
+751741,1975658,Joshua Bassett,Nick Daley (voice),0
+751741,539,Thomas Lennon,Teddy (voice),1
+751741,2998991,Joseph Kamal,Kahmunrah (voice),2
+751741,221573,Akmal Saleh,Seth (voice),3
+751741,18324,Steve Zahn,Jedediah (voice),4
+751741,212285,Jack Whitehall,Octavius (voice),5
+751741,1366004,Kieran Sequoia,Sacajawea (voice),6
+751741,1288047,Alice Isaaz,Joan of Arc (voice),7
+751741,1470911,Jamie Demetriou,Dr. McPhee (voice),8
+751741,69899,Zachary Levi,Larry / Laaa (voice),9
+751741,94098,Gillian Jacobs,Erica Daley (voice),10
+751741,3764194,Alexander Salamat,Attila (voice),11
+751741,1925440,Shelby Simmons,Mia (voice),12
+751741,180527,Lidia Porto,Ms. Montefusco (voice),13
+751741,1280881,Tenzing Norgay Trainor,Bodhi (voice),14
+751741,1564920,Bowen Yang,Ronnie (voice),15
+751741,51382,Chris Parnell,Washington (voice),16
+751741,1719003,Kelemete Misipeka,Easter Island Head (voice),17
+751741,3764196,Christie Bahna,Queen Nefertiti (voice),18
+751741,1370998,Zeeko Zaki,Ra the Sun god (voice),19
+751741,1495825,Jonathan Roumie,Merenkhare (voice),20
+751741,23680,Dee Bradley Baker,Dexter (voice),21
+751741,1684502,Johnny Gidcomb,Additional Voices (voice),22
+751741,1141368,Kiff VandenHeuvel,Additional Voices (voice),23
+751741,1445768,Ruth Zalduondo,Additional Voices (voice),24
+751741,2699353,Jen Cain,Additional Voices (voice),25
+751741,71520,Scott Whyte,Additional Voices (voice),26
+751741,1365066,Matt Danner,Additional Voices (voice),27
+751741,571309,Lex Lang,Additional Voices (voice),28
+751741,81380,Michelle Ruff,Additional Voices (voice),29
+751741,94820,Jessica DiCicco,Additional Voices (voice),30
+751741,159720,Matt Nolan,Additional Voices (voice),31
+1443961,1546410,Satyadev Kancharana,Rao Bahadur,0
+1443961,3128543,Vikas Muppala,,1
+1443961,5637302,Master Kiran,,2
+1443961,3193326,Deepa Thomas,,3
+1443961,5637300,Bala Parasar,,4
+1443961,1333243,Anand,,5
+1443961,5637301,Pranay Vakka,,6
+1443961,3738041,Kunal Kaushik,,7
+128,622,Yoji Matsuda,Ashitaka (voice),0
+128,20330,Yuriko Ishida,San / Kaya (voice),1
+128,20331,Yuko Tanaka,Eboshi Gozen (voice),2
+128,20332,Kaoru Kobayashi,Jikobo (voice),3
+128,20333,Masahiko Nishimura,Kouroku (voice),4
+128,20334,Tsunehiko Kamijô,Gonza (voice),5
+128,20338,Akihiro Miwa,Mrs. Moro (voice),6
+128,20339,Mitsuko Mori,Mrs. Hii (voice),7
+128,20340,Hisaya Morishige,Chief of Affairs (voice),8
+128,613,Sumi Shimamoto,Toki (voice),9
+128,20335,Tetsu Watanabe,Wild Dog (voice),10
+128,127834,Makoto Satō,Tatari God (voice),11
+128,20337,Akira Nagoya,Cowherd (voice),12
+128,1739207,Kei Iinuma,Chief of the Sick (voice),13
+128,2023580,Tsuzuki Kayako,Kiyo (voice),14
+128,1270596,Kimihiro Reizei,Cattleman (voice),15
+128,1029276,Yoshimasa Kondo,Cattleman (voice),16
+128,1479549,Akira Sakamoto,Cattleman (voice),17
+128,1243817,Shirou Saitou,Cattleman (voice),18
+128,142677,Daikichi Sugawara,Cattleman (voice),19
+128,1229532,Takako Katou,Tataraba Woman (voice),20
+128,2856720,Ikuko Yamamoto,Tataraba Woman (voice),21
+128,3851613,Kiho Iinuma,Emishi Girl (voice),22
+128,1608518,Michiko Yamamoto,(voice),23
+129,19587,Rumi Hiiragi,Chihiro (voice),0
+129,19588,Miyu Irino,Haku (voice),1
+129,19589,Mari Natsuki,Yubaba / Zeniba (voice),2
+129,19590,Takashi Naito,Father (voice),3
+129,19591,Yasuko Sawaguchi,Mother (voice),4
+129,19592,Tatsuya Gashûin,Aogaeru (voice),5
+129,225730,Ryunosuke Kamiki,Boh (voice),6
+129,19594,Yumi Tamai,Rin (voice),7
+129,40450,Yo Oizumi,Bandai Frog (voice),8
+129,554423,Koba Hayashi,River Spirit (voice),9
+129,20334,Tsunehiko Kamijô,Chichiyaku (voice),10
+129,544088,Takehiko Ono,Aniyaku (voice),11
+129,119243,Bunta Sugawara,Kamaji (voice),12
+129,1530058,Shigeru Wakita,(voice),13
+129,1243817,Shirou Saitou,(voice),14
+129,1608518,Michiko Yamamoto,(voice),15
+129,2844828,Keiko Tsukamoto,(voice),16
+129,554612,Akio Nakamura,Kaonashi (voice),17
+129,2856717,Shinji Tokumaru,(voice),18
+129,554367,Kaori Yamagata,(voice),19
+129,2023580,Tsuzuki Kayako,(voice),20
+129,2856718,Masahiro Asano,(voice),21
+129,2856719,Kazutaka Hayashida,(voice),22
+129,2856720,Ikuko Yamamoto,(voice),23
+129,2856721,Mina Meguro,(voice),24
+129,2856722,Tetsurô Ishibashi,(voice),25
+129,2856723,Katsutomo Shîbara,(voice),26
+129,2856724,Shinobu Katabuchi,(voice),27
+129,1241949,Noriko Kitou,(voice),28
+129,2856725,Naoto Kaji,(voice),29
+129,2856726,Yoshitaka Sukegawa,(voice),30
+129,2856727,Aki Tachikawa,(voice),31
+129,2856728,Noriko Yamaya,(voice),32
+129,2856729,Katsuhisa Matsuo,(voice),33
+129,1921932,Masayuki Kizu,(voice),34
+129,2856730,Yôko Ôno,(voice),35
+129,2856731,Sachie Azuma,(voice),36
+129,1039220,Ken Yasuda,Oshira-sama (voice),37
+129,1251804,Shigeyuki Totsugi,Kashira (voice),38
+129,2463593,Mayumi Saco,(voice),39
+129,2856733,Sonoko Soeda,(voice),40
+129,2856734,Akiko Tomihira,(voice),41
+129,2856735,Minako Masuda,(voice),42
+129,2856736,Orika Ono,(voice),43
+129,2856737,Rina Yamada,(voice),44
+129,2856738,Miwa Takachi,(voice),45
+129,1887860,Hiromi Takeuchi,(voice),46
+129,2856739,Makiko Oku,(voice),47
+2179,70851,Jack Black,JB,0
+2179,22297,Kyle Gass,KG,1
+2179,938432,JR Reed,Lee,2
+2179,22304,Ronnie James Dio,Dio,3
+2179,1219029,Paul F. Tompkins,Open Mic Host,4
+2179,55673,Troy Gentile,Lil' JB,5
+2179,2141,Ned Bellamy,Security Guard,6
+2179,61110,Fred Armisen,Security Guard,7
+2179,154697,Kirk Ward,Car Chase Cop / Gang Leader,8
+2179,56322,Amy Poehler,Truck Stop Waitress,9
+2179,504,Tim Robbins,The Stranger,10
+2179,533061,Dave Grohl,Satan,11
+2179,7399,Ben Stiller,Guitar Center Guy,12
+2179,203264,Lara Everly,Girl,13
+2179,1217884,Brittany Eldridge,Girl,14
+2179,453219,Melissa-Anne Davenport,Girl,15
+2179,61115,John Ennis,Gang Member,16
+2179,122596,Vincent Foster,Gang Member,17
+2179,1215262,Jay Johnston,Gang Member,18
+2179,3492,Colin Hanks,Drunk Frat Dude,19
+2179,154993,Stephanie Erb,Al's Bar Waitress,20
+2179,9273,Amy Adams,Gorgeous Woman,21
+2179,87075,Milos Milicevic,Tattooed Biker,22
+2179,62570,Molly Bryant,Ecstatic Woman,23
+2179,154590,Michael Rivkin,Poopy Guy,24
+2179,1224999,Gregg Turkington,Neil Hamburger,25
+2179,1745908,Patrick M. Walsh,Exploding Head Guy,26
+2179,1844809,Bevin Kaye,Fainting Woman,27
+2179,1215686,Evie Peck,KG's Mother,28
+2179,1707098,Mason Knight,Young KG,29
+2179,61403,Erik Walker,Bully,30
+2179,1212913,Cynthia Ettinger,Betty Black,31
+2179,77912,Andrew Lewis Caldwell,Billy Black,32
+2179,1516325,Laura Milligan,Tarot Card Reader,33
+2179,41088,Jason Segel,Frat Boy #1 (uncredited),34
+2179,7470,Meat Loaf,Bud Black (uncredited),35
+2179,4764,John C. Reilly,Sasquatch (uncredited),36
+6278,3894,Christian Bale,Quinn Abercromby,0
+6278,10297,Matthew McConaughey,Denton Van Zan,1
+6278,10695,Izabella Scorupco,Alex Jensen,2
+6278,17276,Gerard Butler,Creedy,3
+6278,2957,Alexander Siddig,Ajay,4
+6278,56137,Scott Moutter,Jared Wilke,5
+6278,62498,David Kennedy,Eddie Stax,6
+6278,63362,Ned Dennehy,Barlow,7
+6278,1041731,Rory Keenan,Devon,8
+6278,67205,Terence Maynard,Gideon,9
+6278,1047370,Doug Cockle,Goosh,10
+6278,1293209,Randall Carlton,Burke (Tito),11
+6278,945121,Ben Thornton,Young Quinn,12
+6278,2506,Alice Krige,Karen Abercromby,13
+6278,1597372,Malcolm Douglas,Stuart,14
+6278,2132187,Berts Folan,Construction Worker #1,15
+6278,199938,Brian McGuinness,Construction Worker #2,16
+6278,117108,Barry Barnes,Construction Worker #3,17
+6278,188426,Gerry O'Brien,Jerry,18
+6278,557395,Laura Pyper,Lin,19
+6278,2132190,Maree Duffy,Rachel,20
+6278,1121204,David Garrick,Jefferson,21
+6278,2230631,Anne Maria McAuley,Rose,22
+6278,1429522,Dessie Gallagher,Jess,23
+6278,489467,Jack Gleeson,Kid (uncredited),24
+6278,4364737,Chris Kelly,Mead,25
+1611912,3081461,Tom Kerrisk,Adam,0
+1611912,5925416,Maira Gravani,Nysa,1
+1611912,1926269,Angeliki Kalovyrna,Kyria,2
+1611912,5925418,Katerina Gavalla,Karisa,3
+1611912,6132425,Ronan Fegan,Professor Clarke,4
+1611912,1319430,Moya Farrelly,Éabha,5
+137,1532,Bill Murray,Phil Connors,0
+137,1533,Andie MacDowell,Rita Hanson,1
+137,1534,Chris Elliott,Larry,2
+137,537,Stephen Tobolowsky,Ned Ryerson,3
+137,1535,Brian Doyle-Murray,Buster Green,4
+137,1536,Marita Geraghty,Nancy Taylor,5
+137,1537,Angela Paton,Mme Lancaster,6
+137,1538,Rick Ducommun,Gus,7
+137,1539,Rick Overton,Ralph,8
+137,1540,Robin Duke,Doris la serveuse,9
+137,1541,Carol Bivins,La présentatrice,10
+137,1542,Willie Garson,"Kenny, l'assistant de Phil",11
+137,236327,Ken Hudson Campbell,L'homme dans le couloir,12
+137,1318541,Les Podewell,Le vieil homme,13
+137,1674112,Rod Sell,Groundhog Official,14
+137,86571,Tom Milanovich,State Trooper,15
+137,1659415,John M. Watson Sr.,Le barman,16
+137,36093,Peggy Roeder,Le professeur de piano,17
+137,1524,Harold Ramis,Le neurologue,18
+137,74487,David Pasquesi,Psychiatrist,19
+137,122238,Lee Sellars,Un policier,20
+137,4353824,Chet Dubowski,"Félix, un gardien de la banque",21
+137,7690,C.O. Erickson,"Herman, un gardien de la banque",22
+137,1231189,Sandy Maschmeyer,La compagne de Phil au cinéma,23
+137,4353827,Leighanne O'Neil,Une admiratrice dans la rue,24
+137,4353829,Evangeline Binkley,Une spectatrice de Jeopardy!,25
+137,4353830,Samuel Mages,Un spectateur de Jeopardy!,26
+137,4353831,Ben Zwick,Un spectateur de Jeopardy!,27
+137,113919,Hynden Walch,Debbie,28
+137,335,Michael Shannon,Fred,29
+137,119229,Timothy Hendrickson,Bill le serveur,30
+137,1726420,Martha Webster,Alice la serveuse,31
+137,592949,Angela Gollan,L'élève de piano,32
+137,4353837,Shaun Chaiyabhat,Le garçon qui tombe de l'arbre,33
+137,1642306,Dianne B. Shaw,L'infirmière des urgences,34
+137,1178316,Barbara Ann Grimes,Une dame au pneu crevé,35
+137,4353840,Ann Heekin,Une dame au pneu crevé,36
+137,86565,Lucina Paquet,Une dame au pneu crevé,37
+137,223577,Brenda Pickleman,L'épouse de Buster,38
+137,4353841,Amy Murdoch,La fille de Buster,39
+137,1228791,Eric Saiet,Le fils de Buster,40
+137,2817429,Lindsay Albert,La femme à la cigarette,41
+137,4353845,Roger Adler,Le guitariste,42
+137,4353846,Ben A. Fish,Bass Player,43
+137,1548089,Don Riozz McNichols,Le batteur,44
+137,4353849,Brian Willig,Le saxophoniste,45
+137,1775081,Richard Henzel,D.J. (voice),46
+137,1173804,Rob Riley,D.J. (voice),47
+137,103243,Tony DeGuide,Reporter (uncredited),48
+137,14784,Reni Santoni,State Trooper (voice) (uncredited),49
+10379,16171,Phoebe Cates,Elizabeth,0
+10379,14469,Rik Mayall,Drop Dead Fred,1
+10379,19131,Marsha Mason,Polly,2
+10379,21561,Tim Matheson,Charles,3
+10379,4,Carrie Fisher,Janie,4
+10379,64944,Keith Charles,Murray,5
+10379,82630,Ashley Peldon,Young Elizabeth,6
+10379,73933,Daniel Gerroll,Nigel,7
+10379,12260,Ron Eldard,Mickey Bunce,8
+10379,1876556,Eleanor Mondale,Attractive Customer,9
+10379,3378497,Bob Reid,Judge Dubben,10
+10379,94635,Peter Thoemke,Arsonist,11
+10379,3378500,Sjoukje De Jong Douma,Grandma Bunce,12
+10379,107325,Paul Holmes,Man in Speedboat,13
+10379,1994261,Steve Cochran,Waiter #1,14
+10379,3378505,Robert Meyzen,Waiter #2,15
+10379,3378510,Daniel Buchen,Doctor Ryland,16
+10379,1942313,Marie Mathay,Concerned Mom,17
+10379,159454,Peter Breitmayer,Go to Hell Herman,18
+10379,3378511,Clark Niederjohn,Velcro Head,19
+10379,3378512,Tom Bethke,Graggy,20
+10379,3378513,Elizabeth Gray,Namby Pamby,21
+10379,61288,Cheryl Hawker,Nurse,22
+10379,2037194,Michael Welker,Waiter at Wine Gala,23
+10379,25022,Kelly Benson,Natalie,24
+10379,2140790,Cathy Lind Hayes,Ms. Fuzzock,25
+10379,2233,Bridget Fonda,Annabella (uncredited),26
+10379,2949956,David John Adamson,Clerk (uncredited),27
+10379,1019990,Rod Pitman,Plain Clothes Bank Guard (uncredited),28
+10379,3378537,Andrei Sterling,Waiter (uncredited),29
+16523,80576,Max Records,Max,0
+16523,2229,Catherine Keener,Mom,1
+16523,4691,James Gandolfini,Carol (voice),2
+16523,54470,Lauren Ambrose,KW (voice),3
+16523,11514,Catherine O'Hara,Judith (voice),4
+16523,2178,Forest Whitaker,Ira (voice),5
+16523,2955,Chris Cooper,Douglas (voice),6
+16523,17142,Paul Dano,Alexander (voice),7
+16523,5953,Spike Jonze,Bob (voice) / Terry (voice),8
+16523,113495,Pepita Emmerichs,Claire,9
+16523,103,Mark Ruffalo,The Boyfriend,10
+16523,1575431,Max Pfeifer,Claire's Friend,11
+16523,187406,Madeleine Greaves,Claire's Friend,12
+16523,187281,Joshua Jay,Claire's Friend,13
+16523,1213279,Ryan Corr,Claire's Friend,14
+16523,187494,Steve Mouzakis,Teacher,15
+16523,1716,Michael Berry Jr.,The Bull (voice),16
+16523,3445251,Vincent Crowley,Carol Suit Performer,17
+16523,4013947,Sonny Gerasimowicz,Alexander Suit Performer,18
+16523,75952,Nick Farnell,Judith Suit Performer,19
+16523,2625040,Sam Longley,Ira Suit Performer,20
+16523,59117,Angus Sampson,The Bull Suit Performer,21
+16523,65720,Mark McCracken,The Bull Additional Suit Performer,22
+16523,1486057,John Leary,Douglas Suit Performer,23
+16523,144286,Alice Parkinson,KW Suit Performer,24
+16523,2301847,Garon Michael,KW Additional Suit Performer,25
+16523,3201610,James Epinfaniou,Additional Max Performer,26
+16523,3201612,Joshua Evans,Additional Max Performer,27
+16523,3201613,Tess Grimshaw Lloyd,Additional Max Performer,28
+16523,1903812,Lucas Haynes,Additional Max Performer,29
+16523,3201623,Nathan Veal,Additional Max Performer,30
+16523,1446018,Kalia Prescott,Max's Classmate (uncredited),31
+141,131,Jake Gyllenhaal,Donnie Darko,0
+141,20089,Jena Malone,Gretchen Ross,1
+141,1582,James Duval,Frank,2
+141,69597,Drew Barrymore,Karen Pomeroy,3
+141,5151,Beth Grant,Kitty Farmer,4
+141,1579,Maggie Gyllenhaal,Elizabeth Darko,5
+141,1581,Mary McDonnell,Rose Darko,6
+141,1578,Holmes Osborne,Eddie Darko,7
+141,13526,Noah Wyle,Prof. Kenneth Monnitoff,8
+141,9594,Katharine Ross,Dr. Lilian Thurman,9
+141,723,Patrick Swayze,Jim Cunningham,10
+141,1580,Daveigh Chase,Samantha Darko,11
+141,1583,Arthur Taxier,Dr. Fisher,12
+141,1598,David St. James,Bob Garland,13
+141,1585,Patience Cleveland,Roberta Sparrow / Grandma Death,14
+141,1599,Jazzie Mahannah,Joanie James,15
+141,20088,Jolene Purdy,Cherita Chen,16
+141,20090,David Moreland,Principal Cole,17
+141,20091,Kristina Malota,Susie Bates,18
+141,20092,Marina Malota,Emily Bates,19
+141,20093,Scotty Leavenworth,David,20
+141,10383,Phyllis Lyons,Anne Fisher,21
+141,20094,Gary Lundy,Sean Smith,22
+141,20095,Alex Greenwald,Seth Devlin,23
+141,156011,Stuart Stone,Ronald Fisher,24
+141,85097,Joan Blair,Mystery Woman,25
+141,19274,Seth Rogen,Ricky Danforth,26
+141,1584,Mark Hoffman,Police Officer,27
+141,111512,Jerry Trainor,Lanky Kid,28
+141,553735,Tom Tangen,Man in Red Jogging Suit,29
+141,1946191,Carly Naples,Suzy Bailey,30
+141,39127,Lisa K. Wyatt,Linda Connie,31
+141,155983,Rachel Winfree,Shanda Riesman,32
+141,67600,Ashley French,Kim,33
+141,1934389,Tiler Peck,Beth Farmer,34
+141,51533,Fran Kranz,Passenger,35
+141,1226416,Sarah Hudson,Friend,36
+141,150086,Alison Jones,Dorky Half-Sister,37
+141,1481,Lee Weaver,Leroy,38
+141,1212438,"Jack Salvatore, Jr.",Larry Riesman,39
+141,1588,Nancy Juvonen,Flight Attendant (uncredited),40
+12429,78346,Yuria Kozuki,Ponyo (voice),0
+12429,78347,Hiroki Doi,Sosuke (voice),1
+12429,78348,George Tokoro,Fujimoto (voice),2
+12429,78349,Tomoko Yamaguchi,Risa (voice),3
+12429,78350,Yuki Amami,Gran Mamare (voice),4
+12429,78351,Kazushige Nagashima,Koichi (voice),5
+12429,78352,Akiko Yano,Ponyo's Sister (voice),6
+12429,78353,Shin'ichi Hatori,Anchorman (voice),7
+12429,78354,Tokie Hidari,Kayo (voice),8
+12429,19587,Rumi Hiiragi,Young Mother (voice),9
+12429,78356,Tomoko Naraoka,Yoshie (voice),10
+12429,36074,Kazuko Yoshiyuki,Toki (voice),11
+12429,78355,Eimi Hiraoka,Kumiko (voice),12
+12429,78357,Nozomi Ōhashi,Karen (voice),13
+12429,1256014,Akiko Takeguchi,Noriko (voice),14
+12429,1241862,Eiko Kanazawa,(voice),15
+12429,1249379,Akihiko Ishizumi,(voice),16
+12429,1244350,Tomie Kataoka,(voice),17
+12429,1243817,Shirou Saitou,(voice),18
+12429,1898086,Mutsumi Sasaki,(voice),19
+12429,2844828,Keiko Tsukamoto,(voice),20
+12429,2856720,Ikuko Yamamoto,(voice),21
+12429,1608518,Michiko Yamamoto,(voice),22
+12429,3147249,Yoshie Yamamoto,(voice),23
+12429,3147250,Yusuke Tezuka,(voice),24
+643215,19866,Guillaume Canet,Astérix,0
+643215,54291,Gilles Lellouche,Obélix,1
+643215,1925,Vincent Cassel,Jules César,2
+643215,129765,Jonathan Cohen,Graindemaïs,3
+643215,3899517,Julie Chen,Princesse Fu Yi,4
+643215,2316851,Leanna Chea,Tat Han,5
+643215,8293,Marion Cotillard,Cléopâtre / Bibine,6
+643215,24895,José Garcia,Biopix,7
+643215,1066986,Zlatan Ibrahimović,Antivirus,8
+643215,83967,Manu Payet,Ri Qi Qi,9
+643215,67714,Ramzy Bedia,Epidemaïs,10
+643215,1657648,Bun-hay Mean,Deng Tsin Qin,11
+643215,19115,Linh-Dan Pham,L'Impératrice,12
+643215,24501,Pierre Richard,Panoramix,13
+643215,47337,Gérard Darmon,Le narrateur (voice),14
+643215,3459525,Tran Vu Tran,Prince du Deng,15
+643215,119501,Philippe Katerine,Assurancetourix,16
+643215,54170,Jérôme Commandeur,Abraracourcix,17
+643215,130664,Audrey Lamy,Bonnemine,18
+643215,1077537,Franck Gastambide,Le capitaine Barbe-Rouge,19
+643215,76825,Vincent Desagnat,Perfidus,20
+643215,1265647,Orelsan,Titanix,21
+643215,2832358,Laura Felpin,Carioca,22
+643215,582045,Issa Doumbia,"Baba, la vigie des pirates",23
+643215,1336030,Thomas VDB,Sinus,24
+643215,1852487,Marc Fraize,Plexus,25
+643215,2681115,Florian Ordoñez,Abdelmalix,26
+643215,2487362,Olivio Ordonez,Toufix,27
+643215,2354059,David Coscas,Radius,28
+643215,2354058,Raphaël Carlier,Cubitus,29
+643215,146493,Tatiana Gousseff,Iélosubmarine,30
+643215,1554711,Yann Papin,Abribus,31
+643215,2358340,Angèle,Falbala,32
+643215,66841,Matthieu Chedid,Remix,33
+643215,3443770,Jason Chicandier,Ordralfabétix,34
+643215,3459524,Samuel Hibon,Lapsus,35
+643215,985030,Marc Hoang,Ramoli,36
+643215,2624006,Philippe Canet,Agecanonix,37
+643215,1596174,Florent Manaudou,Tabascos,38
+643215,2856753,Ted Etienne,,39
+643215,2619602,Ragnar Le Breton,,40
+643215,2271615,Wesley Weigel,Pirate,41
+643215,2671152,Sakhone Holaphong,Chinese villager,42
+643215,2593173,André Kalmes,Cétautomatix,43
+643215,5877485,Marcel Canet,Astérix enfant,44
+1007757,135651,Michael B. Jordan,Ollie (voice),0
+1007757,36594,Juno Temple,Ivy (voice),1
+1007757,56903,Tracy Morgan,Boogle (voice),2
+1007757,5726,Cedric the Entertainer,Caloo (voice),3
+1007757,95517,Justina Machado,Calli (voice),4
+1007757,3411764,Ambika Mod,Violet (voice),5
+1007757,1627501,Lolly Adefope,Lily (voice),6
+1007757,1934645,Tata Vega,Grandma (voice),7
+1007757,7907,John Ratzenberger,(voice),8
+39057,65424,Rica Matsumoto,Satoshi (voice),0
+39057,73044,Ikue Otani,Pikachu (voice),1
+39057,65427,Yuji Ueda,Takeshi (voice),2
+39057,9710,Megumi Toyoguchi,Hikari (voice),3
+39057,112140,Etsuko Kozakura,Pochama (voice),4
+39057,40325,Megumi Hayashibara,Musashi (voice),5
+39057,62318,Shin-ichiro Miki,Kojiro (voice),6
+39057,936287,Inuko Inuyama,Nyarth (voice),7
+39057,68916,Unsho Ishizuka,Narrator (voice),8
+39057,50653,Masahiro Takashima,Damos (voice),9
+39057,226734,Kii Kitano,Sheena (voice),10
+39057,9725,Yuji Kishi,Kevin (voice),11
+39057,20664,Koichi Yamadera,Gishin (voice),12
+39057,20338,Akihiro Miwa,Arceus (voice),13
+39057,1024388,Shoko Nakagawa,Gizamimi Pichu (voice),14
+39057,114739,Yuzuru Fujimoto,Tapp (voice),15
+39057,1221438,Motoko Kumai,Kanta (voice),16
+39057,1133615,Kei Shindo,Kako (voice),17
+39057,225603,Kenta Miyake,Heatran (voice),18
+1669268,6138334,Kingston Bushell,Worker (Voice),0
+12437,25702,Rhona Mitra,Sonja,0
+12437,2440,Bill Nighy,Viktor,1
+12437,3968,Michael Sheen,Lucian,2
+12437,3969,Shane Brolly,Kraven,3
+12437,978,Steven Mackintosh,Andreas Tanis,4
+12437,3952,Kevin Grevioux,Raze,5
+12437,9383,David Aston,Coloman,6
+12437,1047942,Geraldine Brophy,Nobleman's Wife,7
+12437,1226685,Leighton Cardno,Fearful Lycan,8
+12437,5533,Elizabeth Hawthorne,Orsova,9
+12437,1292753,Jason Hood,Death Dealer,10
+12437,205427,Mark Mitchinson,Nobleman,11
+12437,1332,Craig Parker,Sabas,12
+12437,173441,Timothy Raby,Janosh,13
+12437,107546,Tania Nolan,Luka,14
+12437,3967,Kate Beckinsale,Selene,15
+12437,1097391,Jared Turner,Xristo,16
+12437,1880685,Olivia Taylforth,Young Sonja,17
+12437,1390005,Larry Rew,Kosta,18
+12437,2688273,Eleanor Williams,Teenage Girl,19
+12437,12359,Brian Steele,Big Lycan / Creature Performer,20
+12437,5609711,Alex Carroll,Young Lucian (as Alexander Carroll),21
+12444,10980,Daniel Radcliffe,Harry Potter,0
+12444,10990,Emma Watson,Hermione Granger,1
+12444,10989,Rupert Grint,Ron Weasley,2
+12444,13014,Toby Jones,Dobby (voice),3
+12444,1283,Helena Bonham Carter,Bellatrix Lestrange,4
+12444,4566,Alan Rickman,Severus Snape,5
+12444,5469,Ralph Fiennes,Lord Voldemort,6
+12444,2440,Bill Nighy,Rufus Scrimgeour,7
+12444,16358,Simon McBurney,Kreacher (voice),8
+12444,7026,Rhys Ifans,Xenophilius Lovegood,9
+12444,140367,Evanna Lynch,Luna Lovegood,10
+12444,3549,Andy Linden,Mundungus Fletcher,11
+12444,40638,Guy Henry,Pius Thicknesse,12
+12444,11355,Jason Isaacs,Lucius Malfoy,13
+12444,2039,Brendan Gleeson,Alastor 'Mad-Eye' Moody,14
+12444,5049,John Hurt,Ollivander,15
+12444,1923,Robbie Coltrane,Rubeus Hagrid,16
+12444,11207,David Thewlis,Remus Lupin,17
+12444,10983,Richard Griffiths,Vernon Dursley,18
+12444,477,Julie Walters,Molly Weasley,19
+12444,5658,Michael Gambon,Albus Dumbledore,20
+12444,11184,Warwick Davis,Griphook,21
+12444,11356,Imelda Staunton,Dolores Umbridge,22
+12444,10993,Tom Felton,Draco Malfoy,23
+12444,9191,Timothy Spall,Peter Pettigrew,24
+12444,10981,Fiona Shaw,Petunia Dursley,25
+12444,60348,Dave Legeno,Fenrir Greyback,26
+12444,15737,Helen McCrory,Narcissa Malfoy,27
+12444,975,Nick Moran,Scabior,28
+12444,3064,Peter Mullan,Corban Yaxley,29
+12444,2482,David O'Hara,Albert Runcorn,30
+12444,11291,Clémence Poésy,Fleur Delacour,31
+12444,3300,Natalia Tena,Nymphadora Tonks,32
+12444,20999,Mark Williams,Arthur Weasley,33
+12444,10991,Bonnie Wright,Ginny Weasley,34
+12444,10982,Harry Melling,Dudley Dursley,35
+12444,96307,Ian Kelly,Mr. Granger,36
+12444,20057,Michelle Fairley,Mrs. Granger,37
+12444,192870,Carolyn Pickles,Charity Burbage,38
+12444,1224773,Graham Duff,Death Eater,39
+12444,234921,Arben Bajraktaraj,Antonin Dolohov,40
+12444,234919,Rod Hunt,Thorfinn Rowle,41
+12444,234918,Suzie Toase,Alecto Carrow,42
+12444,202032,Ralph Ineson,Amycus Carrow,43
+12444,135911,Adrian Annis,Death Eater,44
+12444,209884,Emil Hostina,Death Eater,45
+12444,1272644,Paul Khanna,Death Eater,46
+12444,79502,Richard Strange,Death Eater,47
+12444,1272645,Anthony John Crocker,Death Eater,48
+12444,568393,Peter G. Reed,Death Eater,49
+12444,142747,Granville Saxton,Death Eater,50
+12444,568394,Judith Sharp,Death Eater,51
+12444,69476,Ashley McGuire,Death Eater,52
+12444,568385,Penelope McGhie,Death Eater,53
+12444,568395,Bob Yves Van Hellenberg Hubar,Death Eater,54
+12444,568396,Tony Kirwood,Death Eater,55
+12444,27822,David Ryall,Elphias Doge,56
+12444,96851,James Phelps,Fred Weasley,57
+12444,140368,Oliver Phelps,George Weasley,58
+12444,2247,George Harris,Kingsley Shacklebolt,59
+12444,93210,Domhnall Gleeson,Bill Weasley,60
+12444,47468,Frances de la Tour,Olympe Maxime,61
+12444,17479,Matyelok Gibbs,Auntie Muriel,62
+12444,236430,Eva Alexander,Waitress,63
+12444,96841,Matthew Lewis,Neville Longbottom,64
+12444,1140635,Jon Campling,Death Eater,65
+12444,234922,Devon Murray,Seamus Finnigan,66
+12444,568374,William Melling,Nigel Wolpert,67
+12444,1272646,Simon Grover,Death Eater,68
+12444,234934,Freddie Stroma,Cormac McLaggen,69
+12444,234930,Isabella Laughland,Leanne,70
+12444,234924,Jessie Cave,Lavender Brown,71
+12444,234929,Anna Shaffer,Romilda Vane,72
+12444,11212,Josh Herdman,Gregory Goyle,73
+12444,568379,Amber Evans,Twin Girl 1,74
+12444,568380,Ruby Evans,Twin Girl 2,75
+12444,234933,Katie Leung,Cho Chang,76
+12444,174398,Georgina Leonidas,Katie Bell,77
+12444,234927,Louis Cordice,Blaise Zabini,78
+12444,234928,Scarlett Hefner,Pansy Parkinson,79
+12444,234926,Afshan Azad,Padma Patil,80
+12444,143892,Steffan Rhodri,Reginald Cattermole,81
+12444,32990,Sophie Thompson,Mafalda Hopkirk,82
+12444,1503075,Daniel Tuite,Skinny Ministry Wizard,83
+12444,209458,Daisy Haggard,Ministry Lift (voice),84
+12444,87096,George Potts,Balding Wizard,85
+12444,141355,Rose Keegan,Red Haired Witch,86
+12444,63362,Ned Dennehy,Scared Man,87
+12444,178630,Kate Fleetwood,Mary Cattermole,88
+12444,1215154,Daniel Hill,Bushy Haired Muttering Wizard,89
+12444,1118,Rade Šerbedžija,Mykew Gregorovitch,90
+12444,83356,Jamie Campbell Bower,Young Grindelwald,91
+12444,94742,Hazel Douglas,Bathilda Bagshot,92
+12444,1643,Adrian Rawlins,James Potter,93
+12444,10988,Geraldine Somerville,Lily Potter,94
+12444,8436,Miranda Richardson,Rita Skeeter,95
+12444,742,Michael Byrne,Gellert Grindelwald,96
+12444,65445,Samuel Roukin,Snatcher,97
+12444,116606,Toby Regbo,Young Albus Dumbledore (uncredited),98
+12444,2752012,Lewis Young,Snatcher (uncredited),99
+12444,1628687,Regé-Jean Page,Wedding Guest,100
+12444,550825,Chase Armitage,Snatcher (uncredited),101
+12444,1602845,John Snowden,Wizard (uncredited),102
+12444,1602900,Nathan Robinson,Mudblood,103
+12444,1573784,Augustina Amoa,Parent,104
+12444,2511103,Lily Bertrand-Webb,Cho's Friend (uncredited),105
+12445,10980,Daniel Radcliffe,Harry Potter,0
+12445,10990,Emma Watson,Hermione Granger,1
+12445,10989,Rupert Grint,Ron Weasley,2
+12445,5469,Ralph Fiennes,Lord Voldemort,3
+12445,4566,Alan Rickman,Severus Snape,4
+12445,5658,Michael Gambon,Albus Dumbledore,5
+12445,11184,Warwick Davis,Griphook / Filius Flitwick,6
+12445,1283,Helena Bonham Carter,Bellatrix Lestrange,7
+12445,8785,Ciarán Hinds,Aberforth Dumbledore,8
+12445,96841,Matthew Lewis,Neville Longbottom,9
+12445,5049,John Hurt,Ollivander,10
+12445,140367,Evanna Lynch,Luna Lovegood,11
+12445,1923,Robbie Coltrane,Rubeus Hagrid,12
+12445,9015,Kelly Macdonald,Helena Ravenclaw,13
+12445,10993,Tom Felton,Draco Malfoy,14
+12445,15737,Helen McCrory,Narcissa Malfoy,15
+12445,11355,Jason Isaacs,Lucius Malfoy,16
+12445,10978,Maggie Smith,Minerva McGonagall,17
+12445,11207,David Thewlis,Remus Lupin,18
+12445,64,Gary Oldman,Sirius Black,19
+12445,11180,David Bradley,Argus Filch,20
+12445,477,Julie Walters,Molly Weasley,21
+12445,9138,Gemma Jones,Poppy Pomfrey,22
+12445,60348,Dave Legeno,Fenrir Greyback,23
+12445,6199,Miriam Margolyes,Pomona Sprout,24
+12445,975,Nick Moran,Scabior,25
+12445,96851,James Phelps,Fred Weasley,26
+12445,140368,Oliver Phelps,George Weasley,27
+12445,11291,Clémence Poésy,Fleur Delacour,28
+12445,3300,Natalia Tena,Nymphadora Tonks,29
+12445,20999,Mark Williams,Arthur Weasley,30
+12445,10991,Bonnie Wright,Ginny Weasley,31
+12445,93210,Domhnall Gleeson,Bill Weasley,32
+12445,1224773,Graham Duff,Death Eater,33
+12445,568370,Anthony Allgood,Gringotts Guard,34
+12445,252527,Rusty Goffe,Aged Gringotts Goblin,35
+12445,568382,Jon Key,Bogrod,36
+12445,208467,Ian Peck,Hogsmeade Death Eater,37
+12445,561028,Benn Northover,Hogsmeade Death Eater,38
+12445,568371,Hebe Beardsall,Ariana Dumbledore,39
+12445,234922,Devon Murray,Seamus Finnigan,40
+12445,234924,Jessie Cave,Lavender Brown,41
+12445,234926,Afshan Azad,Padma Patil,42
+12445,234930,Isabella Laughland,Leanne,43
+12445,234929,Anna Shaffer,Romilda Vane,44
+12445,174398,Georgina Leonidas,Katie Bell,45
+12445,234934,Freddie Stroma,Cormac McLaggen,46
+12445,234923,Alfred Enoch,Dean Thomas,47
+12445,234933,Katie Leung,Cho Chang,48
+12445,568374,William Melling,Nigel Wolpert,49
+12445,568376,Sian Grace Phillips,Screaming Girl,50
+12445,202032,Ralph Ineson,Amycus Carrow,51
+12445,234918,Suzie Toase,Alecto Carrow,52
+12445,388,Jim Broadbent,Horace Slughorn,53
+12445,234928,Scarlett Hefner,Pansy Parkinson,54
+12445,11212,Josh Herdman,Gregory Goyle,55
+12445,234927,Louis Cordice,Blaise Zabini,56
+12445,568379,Amber Evans,Twin Girl 1,57
+12445,568380,Ruby Evans,Twin Girl 2,58
+12445,2247,George Harris,Kingsley Shacklebolt,59
+12445,10992,Chris Rankin,Percy Weasley,60
+12445,40638,Guy Henry,Pius Thicknesse,61
+12445,2456012,Phil Wright,Giant,62
+12445,568383,Gary Sayer,Giant,63
+12445,568384,Tony Adkins,Giant,64
+12445,568385,Penelope McGhie,Death Eater,65
+12445,7056,Emma Thompson,Sybill Trelawney,66
+12445,568386,Ellie Darcey-Alden,Young Lily Potter,67
+12445,568387,Ariella Paradise,Young Petunia Dursley,68
+12445,568388,Benedict Clarke,Young Severus Snape,69
+12445,10655,Leslie Phillips,The Sorting Hat (voice),70
+12445,1320593,Alfie McIlwain,Young James Potter,71
+12445,568391,Rohan Gotobed,Young Sirius Black,72
+12445,10988,Geraldine Somerville,Lily Potter,73
+12445,1643,Adrian Rawlins,James Potter,74
+12445,568392,Toby Papworth,Baby Harry Potter,75
+12445,9191,Timothy Spall,Peter Pettigrew,76
+12445,568393,Peter G. Reed,Death Eater,77
+12445,568394,Judith Sharp,Death Eater,78
+12445,209884,Emil Hostina,Death Eater,79
+12445,568395,Bob Yves Van Hellenberg Hubar,Death Eater,80
+12445,142747,Granville Saxton,Death Eater,81
+12445,568396,Tony Kirwood,Death Eater,82
+12445,69476,Ashley McGuire,Death Eater,83
+12445,568397,Arthur Bowen,Albus Severus Potter (19 Years Later),84
+12445,568398,Daphne de Beistegui,Lily Luna Potter (19 Years Later),85
+12445,568399,Will Dunn,James Sirius Potter (19 Years Later),86
+12445,180730,Jade Gordon,Astoria Malfoy (19 Years Later),87
+12445,568402,Bertie Gilbert,Scorpius Malfoy (19 Years Later),88
+12445,561247,Helena Barlow,Rose Weasley (19 Years Later),89
+12445,568403,Ryan Turner,Hugo Weasley (19 Years Later),90
+12445,2547975,Paul Bailey,Gryffindor Student (uncredited),91
+12445,11179,Sean Biggerstaff,Oliver Wood (uncredited),92
+12445,1738514,Vinnie Clarke,Gryffindor Student (uncredited),93
+12445,10968,David Heyman,Dining Wizard in Painting (uncredited),94
+12445,3127663,Charlie Hobbs,Student (uncredited),95
+12445,214019,Luke Newberry,Teddy Lupin (uncredited),96
+12445,1954273,Keijo J. Salmela,Gringotts Goblin (uncredited),97
+12445,25451,Spencer Wilding,Knight of Hogwarts (uncredited),98
+12445,2487729,Harrison Davis,Gringotts Goblin (uncredited),99
+12445,3361278,Annabelle Davis,Gringotts Goblin (uncredited),100
+12445,2950200,Samantha Davis,Gringotts Goblin (uncredited),101
+12445,1392731,Natalie Hallam,Death Eater (uncredited),102
+12445,4566546,Nikki Bond,Goblin (Uncredited),103
+12445,1396611,Nick Turner,Death Eater  (uncredited),104
+360605,1257205,Rowan Blanchard,Cleo,0
+360605,1512122,Paris Berelc,Molly,1
+360605,111923,Karan Brar,George,2
+360605,1335646,Rachel Crow,Nikki,3
+360605,1902889,Ashton Smiley,Molly's Best Friend,4
+360605,1512178,Devin Posey,Molly's Friend,5
+360605,110141,Alex Désert,Mr. Perkins,6
+360605,1196615,Scott Reeves,Dad,7
+360605,1537837,Austin Fryberger,Coug,8
+360605,1909529,Will Meyers,Carter,9
+360605,2283756,Gage Banister,Soccer Guy,10
+532639,24045,Joseph Gordon-Levitt,Jiminy Cricket (voice),0
+532639,31,Tom Hanks,Geppetto,1
+532639,2382044,Benjamin Evan Ainsworth,Pinocchio (voice),2
+532639,933640,Angus Wright,Signore Rizzi,3
+532639,1765068,Cynthia Erivo,Blue Fairy,4
+532639,1851642,Sheila Atim,Signora Vitelli,5
+532639,11478,Lorraine Bracco,Sofia the Seagull (voice),6
+532639,298410,Keegan-Michael Key,'Honest' John (voice),7
+532639,1470911,Jamie Demetriou,Headmaster,8
+532639,7541,Giuseppe Battiston,Stromboli,9
+532639,3674601,Kyanne Lamaya,Fabiana,10
+532639,1577873,Jaquita Ta'le,Sabina (voice),11
+532639,2368172,Lewin Lloyd,Lampwick,12
+532639,114019,Luke Evans,Coachman,13
+532639,4584524,Adelaide Barham,Pleasure Island Troupe,14
+532639,4584525,Poppy Blackwood,Pleasure Island Troupe,15
+532639,4584526,Katie Boothroyd,Pleasure Island Troupe,16
+532639,4584527,Lucy Boothroyd,Pleasure Island Troupe,17
+532639,4584528,Louisa Boyd Leslie,Pleasure Island Troupe,18
+532639,4584529,Tyne Burgess,Pleasure Island Troupe,19
+532639,4584530,Verity Constantinou,Pleasure Island Troupe,20
+532639,4584531,Sylvie Cotterell,Pleasure Island Troupe,21
+532639,4584532,Phoebe Davies,Pleasure Island Troupe,22
+532639,4584533,Memphis-Lee Dixon,Pleasure Island Troupe,23
+532639,1558024,Joseph Duffy,Pleasure Island Troupe,24
+532639,4584536,Talia Etherington,Pleasure Island Troupe,25
+532639,4584538,Aimee Enejo,Pleasure Island Troupe,26
+532639,4584539,Felix Fewell Russell,Pleasure Island Troupe,27
+532639,4584540,Darcey Foster,Pleasure Island Troupe,28
+532639,4584541,Ben George,Pleasure Island Troupe,29
+532639,4584542,Jack Grant,Pleasure Island Troupe,30
+532639,4584543,Barney Harper,Pleasure Island Troupe,31
+532639,4584544,Ayla Hooper,Pleasure Island Troupe,32
+532639,3035877,Dean Johnson,Pleasure Island Troupe,33
+532639,4584545,Leila Johnson,Pleasure Island Troupe,34
+532639,4584546,Isla King,Pleasure Island Troupe,35
+532639,4584547,Jaxon Knopf,Pleasure Island Troupe,36
+532639,4584548,Keir Loughran,Pleasure Island Troupe,37
+532639,4584549,Oscar Loughran,Pleasure Island Troupe,38
+532639,4584550,Anya Lucker,Pleasure Island Troupe,39
+532639,4584551,Harrison Mackinnon,Pleasure Island Troupe,40
+532639,4584552,Poppy Mardlin,Pleasure Island Troupe,41
+532639,4584553,Imogen Maynard,Pleasure Island Troupe,42
+532639,4584554,Sebastian McDonough,Pleasure Island Troupe,43
+532639,4584555,Ruby Middleton,Pleasure Island Troupe,44
+532639,4584556,Abeni Munro,Pleasure Island Troupe,45
+532639,4584557,Samuel Newby,Pleasure Island Troupe,46
+532639,4584558,Kheiri Isaac-Osmani,Pleasure Island Troupe,47
+532639,4584559,Amira Piddington,Pleasure Island Troupe,48
+532639,4584560,Max Powers-Jones,Pleasure Island Troupe,49
+532639,4584561,Ella Robertson,Pleasure Island Troupe,50
+532639,4584562,Sophie Roscoe,Pleasure Island Troupe,51
+532639,4584564,Ethan Sey,Pleasure Island Troupe,52
+532639,4584565,Sebastian Shotliff,Pleasure Island Troupe,53
+532639,4584566,Fred Sweetman,Pleasure Island Troupe,54
+532639,4584567,Sophia Symondson-Cann,Pleasure Island Troupe,55
+532639,3131371,Evie Templeton,Pleasure Island Troupe,56
+532639,3896845,Conall Turner,Pleasure Island Troupe,57
+532639,4584568,Stanley Voss,Pleasure Island Troupe,58
+532639,4584569,Louis Wakeling,Pleasure Island Troupe,59
+532639,4584570,Calista Walters,Pleasure Island Troupe,60
+532639,4584571,Edward Walton,Pleasure Island Troupe,61
+532639,4584572,Nathan Whale,Pleasure Island Troupe,62
+532639,4584573,Fred Wilcox,Pleasure Island Troupe,63
+532639,4584575,Sam Winser,Pleasure Island Troupe,64
+532639,4584578,Theo Wyatt,Pleasure Island Troupe,65
+532639,3463959,Benjamin Plessala,Additional Voices (Voice),66
+162,85,Johnny Depp,Edward Scissorhands,0
+162,1920,Winona Ryder,Kim,1
+162,1902,Dianne Wiest,Peg,2
+162,1904,Anthony Michael Hall,Jim,3
+162,1907,Kathy Baker,Joyce,4
+162,1908,Robert Oliveri,Kevin,5
+162,1909,Conchata Ferrell,Helen,6
+162,1910,Caroline Aaron,Marge,7
+162,1911,Dick Anthony Williams,Officer Allen,8
+162,1912,O-Lan Jones,Esmeralda,9
+162,1905,Vincent Price,The Inventor,10
+162,1903,Alan Arkin,Bill,11
+162,1913,Susan Blommaert,Tinka,12
+162,1914,Linda Perri,Cissy,13
+162,1915,John Davidson,Host-TV,14
+162,1916,Biff Yeager,George,15
+162,2619882,Marti Greenberg,Suzanne,16
+162,3507942,Bryan Larkin,Max,17
+162,134070,John McMahon,Denny,18
+162,2576045,Victoria Price,TV Newswoman,19
+162,4596,Stuart Lancaster,Retired Man,20
+162,1425156,Gina Gallagher,Granddaughter,21
+162,140237,Aaron Lustig,Psychologist,22
+162,124131,Alan Fudge,Loan Officer,23
+162,32593,Steven Brill,Dishwasher Man,24
+162,98611,Peter Palmer,Editor,25
+162,6908,Marc Macaulay,Reporter,26
+162,4716579,Carmen J. Alexander,Reporter,27
+162,29934,Brett Rice,Reporter,28
+162,1973826,Andrew B. Clark,Beefy Man,29
+162,2638128,Kelli Crofton,Pink Girl,30
+162,2619878,Linda Jean Hess,Older Woman / TV,31
+162,4716581,Rosalyn Thomson,Young Woman / TV,32
+162,3511043,Lee Ralls,Red-Haired Woman / TV,33
+162,4716584,Eileen Meurer,Teenage Girl / TV,34
+162,2619880,Bea Albano,Rich Widow / TV,35
+162,181154,Donna Pieroni,Blonde / TV,36
+162,4716587,Ken DeVaul,Policeman,37
+162,4382951,Michael Gaughan,Policeman,38
+162,4716588,Tricia Lloyd,Teenage Girl,39
+162,4716589,Kathy Dombo,Other Teen,40
+162,2638153,Rex Fox,Police Sergeant,41
+162,4491192,Sherry Ferguson,Max's Mother,42
+162,4716590,Tabetha Thomas,Little Girl on Bike,43
+162,2638167,Tammy Boalo,Neighborhood Extra,44
+162,2638141,Jackie Carson,Neighborhood Extra,45
+162,2638142,Carol Crumrine,Neighborhood Extra,46
+162,2638169,Suzanne Chrosniak,Neighborhood Extra,47
+162,2638150,Ellin Dennis,Neighborhood Extra,48
+162,1766817,Kathy Lockwood,Neighborhood Extra,49
+162,2638145,Jalaine Gallion,Neighborhood Extra,50
+162,2638155,Miriam Goodspeed,Neighborhood Extra,51
+162,2638147,Dianne L. Green,Neighborhood Extra,52
+162,2638162,Mary Jane Heath,Neighborhood Extra,53
+162,2638137,Carol D. Klasek,Neighborhood Extra,54
+162,2638160,Laura Nader,Neighborhood Extra,55
+162,2638135,Doyle Anderson,Neighborhood Extra,56
+162,2638138,Harvey Bellman,Neighborhood Extra,57
+162,4716598,Michael Brown,Neighborhood Extra,58
+162,2638129,Gary Clark,Neighborhood Extra,59
+162,2638166,Roland Douville,Neighborhood Extra,60
+162,2638158,Russell E. Green,Neighborhood Extra,61
+162,1188082,Cecil Hawkins,Neighborhood Extra,62
+162,2638139,Jack W. Kapfhamer,Neighborhood Extra,63
+162,4716600,Bill Klein,Neighborhood Extra,64
+162,2638165,Phil Olson,Neighborhood Extra,65
+162,2638132,Joe Sheldon,Neighborhood Extra,66
+162,2638140,James Spicer,Neighborhood Extra,67
+162,1532886,Tim Rerucha,Van Friend (uncredited),68
+86184,1241939,Wasabi Mizuta,Doraemon (voice),0
+86184,932984,Chiaki,Dorami (voice),1
+86184,932986,Megumi Oohara,Nobita (voice),2
+86184,90567,Tomokazu Seki,Suneo (voice),3
+86184,9715,Yumi Kakazu,Shizuka (voice),4
+86184,1142780,Subaru Kimura,Gian (voice),5
+86184,1502631,Shihoko Hagino,Dekisugi (voice),6
+86184,65426,Mayumi Izuka,Haribo (voice),7
+682153,1241939,Wasabi Mizuta,Doraemon (voice),0
+682153,932986,Megumi Oohara,Nobita (voice),1
+682153,9715,Yumi Kakazu,Shizuka (voice),2
+682153,90567,Tomokazu Seki,Suneo (voice),3
+682153,1142780,Subaru Kimura,Gian (voice),4
+682153,77931,Kotono Mitsuishi,Nobita's Mother (voice),5
+682153,12670,Takuya Kimura,Jill (voice),6
+682153,223687,Aya Endo,Kyu (voice),7
+682153,83928,Rie Kugimiya,Myu (voice),8
+682153,553120,Naomi Watanabe,Natalie (voice),9
+37034,82400,Vincent Zhao Wenzhuo,Su Can,0
+37034,71057,Zhou Xun,Ying,1
+37034,63585,Andy On Chi-Kit,Yuan Lie,2
+37034,116636,Guo Xiaodong,Colonel Ma,3
+37034,17380,Jay Chou,God of Wushu / Drunken God,4
+37034,1620,Michelle Yeoh,Dr. Yu,5
+37034,1287732,Feng Xiaogang,Pick pocket,6
+37034,141,David Carradine,Anthony,7
+37034,116637,Cung Le,Militia Leader,8
+37034,240171,Gordon Liu Chia-Hui,Old Sage,9
+37034,227782,Bryan Leung Kar-Yan,Su Wankun,10
+37034,105423,Jacky Heung,Imperial Prince,11
+37034,131303,Yan Ni,Bar Owner,12
+37034,1191986,Liu Geng-Hong,Iron Lad,13
+37034,112985,Jiang Luxia,Iron Maiden,14
+37034,1599291,Li Chak,Little Feng (age 5),15
+37034,4406024,Sun Hanwen,Little Feng (age 8),16
+37034,127453,Conan Stevens,Malotoff,17
+37034,63216,Sylvester Terkay,Elder Scot Brother,18
+37034,983700,Matthew Wiese,Younger Scot Brother,19
+37034,84311,Dominique Vandenberg,Bald One-eye,20
+37034,1201692,Jon Heidenreich,Blonde Scarface,21
+37034,3280083,Guo Jiulong,Old servant,22
+37034,1580562,River Huang,Anchorperson,23
+37034,2925134,Tan Jianchang,Interpreter,24
+37034,2112671,Sun Xiaofei,Yuan Lie Soldier,25
+37034,3630004,Na Jiawei,Prisoner,26
+37034,4686827,Hao Xia,Performer,27
+37034,1436286,Fanjie Meng,Performer,28
+37034,2950038,Li Guofeng,Performer,29
+37034,1436290,Zhang You,Performer,30
+37034,1021200,Wang Xichao,Performer,31
+37034,3934599,Davy Williams,Bodyguard,32
+14506,12642,John Neville,Hieronymus Karl Frederick Baron von Munchausen,0
+14506,10713,Eric Idle,Desmond / Berthold,1
+14506,98,Sarah Polley,Sally Salt,2
+14506,936,Oliver Reed,Vulcan,3
+14506,374,Charles McKeown,Rupert / Adolphus,4
+14506,215741,Winston Dennis,Bill / Albrecht,5
+14506,132538,Jack Purvis,Jeremy / Gustavus,6
+14506,24499,Valentina Cortese,Queen Ariadne / Violet,7
+14506,378,Jonathan Pryce,The Right Ordinary Horatio Jackson,8
+14506,104795,Bill Paterson,Henry Salt,9
+14506,82549,Peter Jeffrey,Sultan,10
+14506,139,Uma Thurman,Venus / Rose,11
+14506,47699,Alison Steadman,Daisy,12
+14506,19726,Ray Cooper,Functionary,13
+14506,42570,Don Henderson,Commander,14
+14506,2157,Robin Williams,King of the Moon,15
+14506,982,Sting,Heroic Officer,16
+14506,37893,Andrew MacLachlan,Colonel,17
+14506,97688,José Lifante,Dr. Death,18
+14506,567070,Mohamed Badrsalem,Executioner,19
+14506,5531,Kiran Shah,Executioner's Assistant,20
+14506,129337,Franco Adducci,Treasurer,21
+14506,1763668,Ettore Martini,First General,22
+14506,3303343,Antonio Pistillo,Second General,23
+14506,1239390,Michael Polley,Gunner,24
+14506,2175140,Tony Smart,Gunner,25
+14506,1841143,Laura Lieblein Adam,Theatergoer (uncredited),26
+14506,1189936,Calogero Azzaretto,Pirate (uncredited),27
+14506,1465385,Angelo Casadei,Citizen (uncredited),28
+14506,2409669,Martin Dansky,German Noble (uncredited),29
+14506,280,Terry Gilliam,Irritating Singer Inside Fish (uncredited),30
+14506,1452104,Alba Maiolini,Citizen (uncredited),31
+14506,120114,Franca Scagnetti,Citizen (uncredited),32
+14506,1606424,Luciano Zanussi,Citizen (uncredited),33
+936108,131519,Rihanna,Smurfette (voice),0
+936108,55466,James Corden,No Name (voice),1
+936108,17039,Nick Offerman,Ken (voice),2
+936108,1541380,JP Karliak,Gargamel / Razamel (voice),3
+936108,1392152,Dan Levy,Joel (voice),4
+936108,12110,Amy Sedaris,Jaunty (voice),5
+936108,10871,Natasha Lyonne,Mama Poot (voice),6
+936108,25540,Sandra Oh,Moxie Smurf (voice),7
+936108,78303,Jimmy Kimmel,Tardigrade (voice),8
+936108,6944,Octavia Spencer,Asmodius (voice),9
+936108,208519,Nick Kroll,Chernobog (voice),10
+936108,1278487,Hannah Waddingham,Jezebeth (voice),11
+936108,18355,Alex Winter,Hefty Smurf (voice),12
+936108,1413361,Maya Erskine,Vanity Smurf (voice),13
+936108,1399531,Billie Lourd,Worry Smurf (voice),14
+936108,1185997,Xolo Maridueña,Brainy Smurf (voice),15
+936108,6856,Kurt Russell,Ron (voice),16
+936108,1230,John Goodman,Papa Smurf (voice),17
+936108,12098,Chris Miller,Grouchy Smurf / Camouflage Smurf (voice),18
+936108,1573215,Rachel Butera,Azrael / List Maker Smurf (voice),19
+936108,12080,Conrad Vernon,Butler (voice),20
+936108,2129599,Tyler Peterson,Bellhop (voice),21
+936108,1944969,Marshmello,Turtle (voice),22
+936108,78438,Chris Prynoski,Quiet Smurf / Way Back There Smurf / Shark Taming Smurf (voice),23
+936108,4841412,Spencer X,Sound Effects Smurf (voice),24
+936108,5557214,Hugo Miller,Clumsy Smurf (voice),25
+936108,3042924,Ryan Naylor,Calendar Smurf (voice),26
+936108,4400538,Jonny Manganello,Baker Smurf (voice),27
+936108,1843899,DJ Snake,DJ Snake (voice),28
+936108,4306409,Léa Elui,Featured Paris Disco Dancer (voice),29
+936108,2807152,Yuuki Luna,Smurfette Anime (voice),30
+936108,2271371,Daisuke Tsuji,No Name Anime (voice),31
+936108,170843,Keisuke Hoashi,Razamel Anime (voice),32
+173,2090,Kirk Douglas,Ned Land,0
+173,2091,James Mason,Captain Nemo,1
+173,2092,Paul Lukas,Prof. Pierre Arronax,2
+173,2094,Peter Lorre,Conseil,3
+173,2096,Robert J. Wilke,First Mate of the Nautilus,4
+173,2097,Ted de Corsia,Capt. Farragut,5
+173,2098,Carleton Young,John Howard,6
+173,2099,J.M. Kerrigan,Billy,7
+173,2101,Percy Helton,Coach Driver,8
+173,1239950,Gloria Pall,Blonde Girlfriend (uncredited),9
+173,161766,Ron Nyman,Sailor (uncredited),10
+173,111827,Fred Graham,Casey Moore (uncredited),11
+173,93628,Harry Harvey,Ticket Agent (uncredited),12
+173,28164,Charles Grodin,Drummer Boy (uncredited),13
+173,2110,Harper Goff,Minister in San Francisco Steam Packet office (uncredited),14
+173,81284,Eddie Marr,Shipping Agent (uncredited),15
+173,91218,John Daheim,Nautilus Seaman (uncredited),16
+173,1120620,Jack Stoney,Police Detective (uncredited),17
+173,134001,Laurie Mitchell,One of Ned's Girlfriends,18
+173,1034935,Jack Gargan,Reporter from The Post (uncredited),19
+173,88887,Dayton Lummis,Reporter from The Bulletin (uncredited),20
+173,975692,Jack Pennick,Cannon Mate Carson (uncredited),21
+173,134614,Herb Vigran,Reporter for the Globe (uncredited),22
+75948,1336,Jet Li,Fa Hai,0
+75948,572084,Wen Zhang,Neng Ren,1
+75948,89409,Raymond Lam Fung,Xu Xian,2
+75948,83635,Eva Huang Shengyi,White Snake,3
+75948,64434,Charlene Choi Chuek-Yin,Green Snake,4
+75948,70706,Vivian Hsu,Ice Harpy,5
+75948,15170,Jiang Wu,Turtle Devil,6
+75948,56863,Miriam Yeung Chin-Wah,Rabbit Devil,7
+75948,118742,Chapman To Man-Chat,Toad Monster,8
+75948,25251,Lam Suet,Chicken Devil,9
+75948,1184167,Song Wenjia,Fox spirit,10
+75948,125775,Angela Tong Ying-Ying,Cat Demon,11
+75948,2745033,Wang Yinan,Monkey,12
+75948,1518226,Han Dong,Herb Picker,13
+75948,5108551,Li Dan,Fahai's Demon Hunter,14
+75948,5108560,Bai Hai-Long,Fahai's Demon Hunter,15
+75948,5108561,Wang Shengli,Fahai's Demon Hunter,16
+75948,4862051,Zhang Wenjun,Fahai's Demon Hunter,17
+75948,5108563,Yin You-Can,Fox Demon,18
+75948,520911,Chen Ran,Fox Demon,19
+75948,5108564,Fang Zi-Yuan,Fox Demon,20
+75948,5108565,Li Man-Man,Fox Demon,21
+75948,2391137,Rui Hu,Fox Demon,22
+75948,5108571,Zi Ye,Fox Demon,23
+75948,5108573,Zhao Si-Wen,Fox Demon,24
+75948,3442959,Wei Lu,Fox Demon,25
+75948,1005911,Michelle Wai Si-Nga,Female Bat Demon,26
+75948,2853942,Kong Qianqian,Female Bat Demon,27
+75948,5108608,Li En-Qian,Female Bat Demon,28
+75948,5108625,Wang Jiayin,Female Bat Demon,29
+75948,5108627,Hong Jie,Herb Picker,30
+75948,2566075,Rick Xu,Herb Picker,31
+75948,5108628,Ning Ge Cai Rong,Herb Picker,32
+75948,3436062,Gao Hai-Bo,Herb Picker,33
+75948,1110537,Alfred Hsing,Monk,34
+75948,1223071,Sonija Kwok Sin-Nae,,35
+522417,62307,Zach McGowan,Mathayus,0
+522417,68278,Peter Mensah,Nebserek,1
+522417,1465469,Pearl Thusi,Tala,2
+522417,1527565,Mayling Ng,Khensa,3
+522417,88082,Katy Louise Saunders,Amina,4
+522417,1353810,Inge Beckmann,Mennofer,5
+522417,1758073,Stephanie Schildknecht,Abel's Mother,6
+522417,1158435,Howard Charles,Uruk,7
+522417,2036290,Rizelle Januk,Hathor,8
+522417,24898,Nathan Jones,Enkidu,9
+522417,1214810,Peter Jessop,Narrator,10
+522417,2177600,Lesala Mampa,Anubis,11
+258230,1523921,Lewis MacDougall,Conor,0
+258230,10205,Sigourney Weaver,Grandma,1
+258230,72855,Felicity Jones,Mum,2
+258230,20286,Toby Kebbell,Dad,3
+258230,1221445,Ben Moor,Mr. Clark,4
+258230,1636927,James Melville,Harry,5
+258230,1723696,Oliver Steer,Sully,6
+258230,1723697,Dominic Boyle,Anton,7
+258230,3208465,Jennifer Lim,Miss Kwan,8
+258230,1636928,Max Gabbay,Steven,9
+258230,2194754,Joe Curtis,Peter,10
+258230,1070668,Morgan Symes,Lawyer,11
+258230,2194755,Max Golds,5-Year-Old Connor,12
+258230,1636926,Frida Palsson,Lily's Mum,13
+258230,1247016,Wanda Opalinska,Female Nurse,14
+258230,2023532,Patrick Taggart,Teacher,15
+258230,1705796,Lily-Rose Aslandogdu,Lily,16
+258230,3896,Liam Neeson,The Monster (voice),17
+258230,400,Geraldine Chaplin,The Head Teacher (uncredited),18
+258230,2586045,Jake Talbot,Rollercoaster Boy (uncredited),19
+258230,1776365,Lee Bolton,Rollercoster Rider (uncredited),20
+258230,1735657,Garry Marriott,Paramedic (uncredited),21
